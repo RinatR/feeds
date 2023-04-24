@@ -478,7 +478,7 @@
 </categories>
 <offers>
     <offer id="1" type="vendor.model" available="true" group_id="150010079">
-        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=48&dim2=2</url>
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</url>
         <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
         <bundle_id>com.ocito.laredoute</bundle_id>
         <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>

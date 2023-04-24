@@ -1,0 +1,687 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<yml_catalog date="2023-04-24 06:36">
+<shop>
+<name>La REDOUTE</name>
+<company>La REDOUTE Russia</company>
+<url>https://www.laredoute.ru</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Все товары</category>
+<category id="2" parentId="1">Дача, сад и огород</category>
+<category id="3" parentId="2">Садовая мебель</category>
+<category id="4" parentId="1">Детские товары</category>
+<category id="5" parentId="4">Товары для мам и малышей</category>
+<category id="6" parentId="5">Детская комната</category>
+<category id="7" parentId="6">Балдахины и держатели</category>
+<category id="8" parentId="6">Детские комоды</category>
+<category id="9" parentId="6">Детские матрасы</category>
+<category id="10" parentId="6">Качели, шезлонги</category>
+<category id="11" parentId="6">Колыбели и люльки</category>
+<category id="12" parentId="6">Кроватки</category>
+<category id="13" parentId="6">Манежи</category>
+<category id="14" parentId="6">Органайзеры и карманы в кроватку</category>
+<category id="15" parentId="6">Пеленальные столики и доски</category>
+<category id="16" parentId="6">Покрывала, подушки, одеяла</category>
+<category id="17" parentId="6">Постельное белье и комплекты</category>
+<category id="18" parentId="6">Ростомеры</category>
+<category id="19" parentId="6">Ходунки, прыгунки</category>
+<category id="20" parentId="5">Здоровье и уход</category>
+<category id="21" parentId="5">Кормление</category>
+<category id="22" parentId="21">Посуда</category>
+<category id="23" parentId="5">Товары для мам</category>
+<category id="24" parentId="23">Бандажи</category>
+<category id="25" parentId="23">Молокоотсосы</category>
+<category id="26" parentId="23">Накладки для груди</category>
+<category id="27" parentId="23">Нижнее белье</category>
+<category id="28" parentId="27">Бюстгальтеры</category>
+<category id="29" parentId="27">Колготки</category>
+<category id="30" parentId="27">Трусы</category>
+<category id="31" parentId="23">Питание для мам</category>
+<category id="32" parentId="23">Подушки и кресла для мам</category>
+<category id="33" parentId="23">Прокладки для груди</category>
+<category id="34" parentId="23">Сборы в роддом</category>
+<category id="35" parentId="23">Сумки для мам</category>
+<category id="36" parentId="23">Уход за лицом и телом</category>
+<category id="37" parentId="23">Хранение грудного молока</category>
+<category id="38" parentId="1">Одежда, обувь и аксессуары</category>
+<category id="39" parentId="38">Аксессуары</category>
+<category id="40" parentId="39">Брелоки и ключницы</category>
+<category id="41" parentId="39">Визитницы</category>
+<category id="42" parentId="39">Визитницы и кредитницы</category>
+<category id="43" parentId="39">Галстуки</category>
+<category id="44" parentId="39">Зонты</category>
+<category id="45" parentId="39">Карнавальные костюмы</category>
+<category id="46" parentId="39">Кошельки</category>
+<category id="47" parentId="39">Обложки для документов</category>
+<category id="48" parentId="39">Очки</category>
+<category id="49" parentId="39">Ремни</category>
+<category id="50" parentId="39">Сумки и чемоданы</category>
+<category id="51" parentId="50">Дорожные сумки</category>
+<category id="52" parentId="50">Косметички и бьюти-кейсы</category>
+<category id="53" parentId="50">Портфели</category>
+<category id="54" parentId="50">Сумки</category>
+<category id="55" parentId="50">Чемоданы</category>
+<category id="56" parentId="38">Детская одежда</category>
+<category id="57" parentId="56">Для девочек</category>
+<category id="58" parentId="57">Белье и купальники</category>
+<category id="59" parentId="57">Брюки</category>
+<category id="60" parentId="57">Блузки</category>
+<category id="61" parentId="57">Верхняя одежда</category>
+<category id="62" parentId="61">Комбинезоны</category>
+<category id="63" parentId="61">Комплекты верхней одежды</category>
+<category id="64" parentId="61">Куртки и пуховики</category>
+<category id="65" parentId="61">Пальто и плащи</category>
+<category id="66" parentId="61">Полукомбинезоны и брюки</category>
+<category id="67" parentId="57">Головные уборы</category>
+<category id="68" parentId="57">Джинсы</category>
+<category id="69" parentId="57">Домашняя одежда</category>
+<category id="70" parentId="57">Жакеты</category>
+<category id="71" parentId="57">Жилеты</category>
+<category id="72" parentId="57">Капри и бриджи</category>
+<category id="73" parentId="57">Комплекты и форма</category>
+<category id="74" parentId="57">Перчатки и варежки</category>
+<category id="75" parentId="57">Платья и сарафаны</category>
+<category id="76" parentId="57">Рубашки и блузы</category>
+<category id="77" parentId="57">Свитеры и кардиганы</category>
+<category id="78" parentId="57">Толстовки</category>
+<category id="79" parentId="57">Футболки и майки</category>
+<category id="80" parentId="57">Шарфы</category>
+<category id="81" parentId="57">Шорты</category>
+<category id="82" parentId="57">Юбки</category>
+<category id="83" parentId="56">Для малышей</category>
+<category id="84" parentId="83">Белье</category>
+<category id="85" parentId="83">Боди</category>
+<category id="86" parentId="83">Брюки и шорты</category>
+<category id="87" parentId="83">Верхняя одежда</category>
+<category id="88" parentId="87">Комплекты верхней одежды</category>
+<category id="89" parentId="87">Куртки и пуховики</category>
+<category id="90" parentId="87">Пальто и плащи</category>
+<category id="91" parentId="87">Полукомбинезоны и брюки</category>
+<category id="92" parentId="87">Теплые комбинезоны</category>
+<category id="93" parentId="83">Головные уборы</category>
+<category id="94" parentId="83">Джемперы и толстовки</category>
+<category id="95" parentId="83">Домашняя одежда</category>
+<category id="96" parentId="83">Колготки</category>
+<category id="97" parentId="83">Комбинезоны</category>
+<category id="98" parentId="83">Комплекты</category>
+<category id="99" parentId="83">Кофты</category>
+<category id="100" parentId="83">Крестильная одежда</category>
+<category id="101" parentId="83">Носки</category>
+<category id="102" parentId="83">Платья и юбки</category>
+<category id="103" parentId="83">Ползунки</category>
+<category id="104" parentId="83">Распашонки</category>
+<category id="105" parentId="83">Футболки и рубашки</category>
+<category id="106" parentId="83">Царапки и варежки</category>
+<category id="107" parentId="56">Для мальчиков</category>
+<category id="108" parentId="107">Белье и пляжная мода</category>
+<category id="109" parentId="107">Брюки</category>
+<category id="110" parentId="107">Верхняя одежда</category>
+<category id="111" parentId="110">Комбинезоны</category>
+<category id="112" parentId="110">Комплекты верхней одежды</category>
+<category id="113" parentId="110">Куртки и пуховики</category>
+<category id="114" parentId="110">Пальто и плащи</category>
+<category id="115" parentId="110">Полукомбинезоны и брюки</category>
+<category id="116" parentId="107">Головные уборы</category>
+<category id="117" parentId="107">Джинсы</category>
+<category id="118" parentId="107">Домашняя одежда</category>
+<category id="119" parentId="107">Жилеты</category>
+<category id="120" parentId="107">Комплекты и форма</category>
+<category id="121" parentId="107">Перчатки и варежки</category>
+<category id="122" parentId="107">Пиджаки</category>
+<category id="123" parentId="107">Рубашки</category>
+<category id="124" parentId="107">Свитеры и кардиганы</category>
+<category id="125" parentId="107">Толстовки</category>
+<category id="126" parentId="107">Футболки и майки</category>
+<category id="127" parentId="107">Шарфы</category>
+<category id="128" parentId="107">Шорты</category>
+<category id="129" parentId="56">Носки и колготки</category>
+<category id="130" parentId="129">Колготки</category>
+<category id="131" parentId="129">Носки</category>
+<category id="132" parentId="56">Спортивная одежда</category>
+<category id="133" parentId="132">Аксессуары</category>
+<category id="134" parentId="132">Брюки</category>
+<category id="135" parentId="132">Комбинезоны</category>
+<category id="136" parentId="132">Купальники и плавки</category>
+<category id="137" parentId="132">Куртки</category>
+<category id="138" parentId="132">Спортивные костюмы</category>
+<category id="139" parentId="132">Термобелье</category>
+<category id="140" parentId="132">Толстовки</category>
+<category id="141" parentId="132">Футболки и топы</category>
+<category id="142" parentId="132">Шорты</category>
+<category id="143" parentId="38">Женская одежда</category>
+<category id="144" parentId="143">Аксессуары</category>
+<category id="145" parentId="144">Головные уборы</category>
+<category id="146" parentId="144">Перчатки и варежки</category>
+<category id="147" parentId="144">Шарфы и платки</category>
+<category id="148" parentId="143">Белье и купальники</category>
+<category id="149" parentId="148">Бюстгальтеры</category>
+<category id="150" parentId="148">Грации, корсеты, боди</category>
+<category id="151" parentId="148">Колготки и чулки</category>
+<category id="152" parentId="148">Комплекты</category>
+<category id="153" parentId="148">Корректирующее белье</category>
+<category id="154" parentId="148">Купальники</category>
+<category id="155" parentId="148">Носки</category>
+<category id="156" parentId="148">Пляжная одежда</category>
+<category id="157" parentId="148">Трусы</category>
+<category id="158" parentId="143">Блузки и кофточки</category>
+<category id="159" parentId="143">Брюки</category>
+<category id="160" parentId="143">Верхняя одежда</category>
+<category id="161" parentId="160">Дубленки</category>
+<category id="162" parentId="160">Жилеты</category>
+<category id="163" parentId="160">Куртки</category>
+<category id="164" parentId="160">Накидки</category>
+<category id="165" parentId="160">Пальто</category>
+<category id="166" parentId="160">Плащи</category>
+<category id="167" parentId="160">Пуховики</category>
+<category id="168" parentId="160">Шубы</category>
+<category id="169" parentId="143">Джинсы</category>
+<category id="170" parentId="143">Домашняя одежда</category>
+<category id="171" parentId="143">Жакеты</category>
+<category id="172" parentId="143">Жилеты</category>
+<category id="173" parentId="143">Капри и бриджи</category>
+<category id="174" parentId="143">Комбинезоны</category>
+<category id="175" parentId="143">Костюмы</category>
+<category id="176" parentId="143">Одежда для беременных</category>
+<category id="177" parentId="176">Брюки</category>
+<category id="178" parentId="176">Верхняя одежда</category>
+<category id="179" parentId="176">Домашняя одежда</category>
+<category id="180" parentId="176">Жакеты</category>
+<category id="181" parentId="176">Комбинезоны</category>
+<category id="182" parentId="176">Платья</category>
+<category id="183" parentId="176">Рубашки и блузы</category>
+<category id="184" parentId="176">Свитеры и кардиганы</category>
+<category id="185" parentId="176">Футболки и майки</category>
+<category id="186" parentId="176">Шорты</category>
+<category id="187" parentId="176">Юбки</category>
+<category id="188" parentId="143">Платья</category>
+<category id="189" parentId="143">Пиджаки</category>
+<category id="190" parentId="143">Свадебная мода</category>
+<category id="191" parentId="190">Аксессуары</category>
+<category id="192" parentId="190">Платья</category>
+<category id="193" parentId="143">Свитеры и кардиганы</category>
+<category id="194" parentId="143">Спортивная одежда</category>
+<category id="195" parentId="194">Аксессуары</category>
+<category id="196" parentId="194">Брюки</category>
+<category id="197" parentId="194">Зимние комплекты</category>
+<category id="198" parentId="194">Купальники</category>
+<category id="199" parentId="194">Куртки</category>
+<category id="200" parentId="194">Платья</category>
+<category id="201" parentId="194">Спортивные костюмы</category>
+<category id="202" parentId="194">Термобелье</category>
+<category id="203" parentId="194">Толстовки</category>
+<category id="204" parentId="194">Форма</category>
+<category id="205" parentId="194">Футболки и топы</category>
+<category id="206" parentId="194">Шорты и юбки</category>
+<category id="207" parentId="143">Толстовки</category>
+<category id="208" parentId="143">Футболки и топы</category>
+<category id="209" parentId="143">Шорты</category>
+<category id="210" parentId="143">Юбки</category>
+<category id="211" parentId="38">Мужская одежда</category>
+<category id="212" parentId="211">Аксессуары</category>
+<category id="213" parentId="212">Головные уборы</category>
+<category id="214" parentId="212">Перчатки и варежки</category>
+<category id="215" parentId="212">Шарфы</category>
+<category id="216" parentId="211">Белье и пляжная мода</category>
+<category id="217" parentId="216">Носки</category>
+<category id="218" parentId="216">Плавки и шорты</category>
+<category id="219" parentId="216">Трусы</category>
+<category id="220" parentId="211">Брюки</category>
+<category id="221" parentId="211">Верхняя одежда</category>
+<category id="222" parentId="221">Дубленки</category>
+<category id="223" parentId="221">Жилеты</category>
+<category id="224" parentId="221">Куртки</category>
+<category id="225" parentId="221">Пальто</category>
+<category id="226" parentId="221">Плащи</category>
+<category id="227" parentId="221">Пуховики</category>
+<category id="228" parentId="211">Джинсы</category>
+<category id="229" parentId="211">Домашняя одежда</category>
+<category id="230" parentId="211">Жилеты</category>
+<category id="231" parentId="211">Костюмы</category>
+<category id="232" parentId="211">Пиджаки</category>
+<category id="233" parentId="211">Рубашки</category>
+<category id="234" parentId="211">Свитеры и кардиганы</category>
+<category id="235" parentId="211">Спортивная одежда</category>
+<category id="236" parentId="235">Аксессуары</category>
+<category id="237" parentId="235">Брюки</category>
+<category id="238" parentId="235">Зимние комплекты</category>
+<category id="239" parentId="235">Кимоно</category>
+<category id="240" parentId="235">Куртки</category>
+<category id="241" parentId="235">Спортивные костюмы</category>
+<category id="242" parentId="235">Термобелье</category>
+<category id="243" parentId="235">Толстовки</category>
+<category id="244" parentId="235">Форма</category>
+<category id="245" parentId="235">Футболки и майки</category>
+<category id="246" parentId="235">Шорты</category>
+<category id="247" parentId="211">Толстовки</category>
+<category id="248" parentId="211">Футболки и майки</category>
+<category id="249" parentId="211">Шорты</category>
+<category id="250" parentId="38">Обувь</category>
+<category id="251" parentId="250">Женская обувь</category>
+<category id="252" parentId="251">Балетки</category>
+<category id="253" parentId="251">Босоножки</category>
+<category id="254" parentId="251">Ботильоны</category>
+<category id="255" parentId="251">Ботинки</category>
+<category id="256" parentId="251">Валенки</category>
+<category id="257" parentId="251">Домашняя обувь</category>
+<category id="258" parentId="251">Кроссовки и кеды</category>
+<category id="259" parentId="251">Мокасины</category>
+<category id="260" parentId="251">Обувь для спорта</category>
+<category id="261" parentId="251">Полусапоги</category>
+<category id="262" parentId="251">Резиновые сапоги</category>
+<category id="263" parentId="251">Сабо</category>
+<category id="264" parentId="251">Сандалии</category>
+<category id="265" parentId="251">Сапоги</category>
+<category id="266" parentId="251">Туфли</category>
+<category id="267" parentId="251">Угги</category>
+<category id="268" parentId="251">Унты</category>
+<category id="269" parentId="251">Шлепанцы</category>
+<category id="270" parentId="250">Мужская обувь</category>
+<category id="271" parentId="270">Ботинки</category>
+<category id="272" parentId="270">Валенки</category>
+<category id="273" parentId="270">Домашняя обувь</category>
+<category id="274" parentId="270">Кроссовки и кеды</category>
+<category id="275" parentId="270">Мокасины</category>
+<category id="276" parentId="270">Обувь для спорта</category>
+<category id="277" parentId="270">Сандалии</category>
+<category id="278" parentId="270">Сапоги</category>
+<category id="279" parentId="270">Туфли</category>
+<category id="280" parentId="270">Угги</category>
+<category id="281" parentId="270">Унты</category>
+<category id="282" parentId="270">Шлепанцы</category>
+<category id="283" parentId="250">Обувь для девочек</category>
+<category id="284" parentId="283">Балетки, туфли</category>
+<category id="285" parentId="283">Босоножки, сандалии</category>
+<category id="286" parentId="283">Ботинки</category>
+<category id="287" parentId="283">Валенки</category>
+<category id="288" parentId="283">Домашняя обувь</category>
+<category id="289" parentId="283">Кроссовки и кеды</category>
+<category id="290" parentId="283">Обувь для спорта</category>
+<category id="291" parentId="283">Резиновые сапоги</category>
+<category id="292" parentId="283">Сапоги, полусапоги</category>
+<category id="293" parentId="283">Угги, унты</category>
+<category id="294" parentId="283">Шлепанцы</category>
+<category id="295" parentId="250">Обувь для малышей</category>
+<category id="296" parentId="250">Обувь для мальчиков</category>
+<category id="297" parentId="296">Ботинки</category>
+<category id="298" parentId="296">Валенки</category>
+<category id="299" parentId="296">Домашняя обувь</category>
+<category id="300" parentId="296">Кроссовки и кеды</category>
+<category id="301" parentId="296">Обувь для спорта</category>
+<category id="302" parentId="296">Резиновые сапоги</category>
+<category id="303" parentId="296">Сандалии</category>
+<category id="304" parentId="296">Сапоги, полусапоги</category>
+<category id="305" parentId="296">Угги, унты</category>
+<category id="306" parentId="296">Шлепанцы</category>
+<category id="307" parentId="1">Товары для дома</category>
+<category id="308" parentId="307">Интерьер</category>
+<category id="309" parentId="308">Вазы</category>
+<category id="310" parentId="308">Глобусы</category>
+<category id="311" parentId="308">Гравюры, литография, карты</category>
+<category id="312" parentId="308">Декоративная посуда</category>
+<category id="313" parentId="308">Декоративные свечи</category>
+<category id="314" parentId="308">Декоративные телефоны</category>
+<category id="315" parentId="308">Декоративные фонтаны и панели</category>
+<category id="316" parentId="308">Держатели для книг и журналов</category>
+<category id="317" parentId="308">Зеркала</category>
+<category id="318" parentId="308">Интерьерные наклейки</category>
+<category id="319" parentId="308">Искусственные растения</category>
+<category id="320" parentId="308">Картины, постеры, гобелены, панно</category>
+<category id="321" parentId="308">Копилки</category>
+<category id="322" parentId="308">Метеостанции, термометры, барометры</category>
+<category id="323" parentId="308">Настенные ключницы и шкафчики</category>
+<category id="324" parentId="308">Подсвечники</category>
+<category id="325" parentId="308">Статуэтки и фигурки</category>
+<category id="326" parentId="308">Сувениры</category>
+<category id="327" parentId="326">Магниты</category>
+<category id="328" parentId="326">Матрешки</category>
+<category id="329" parentId="326">Прочие сувениры</category>
+<category id="330" parentId="326">Сувенирные копии пистолетов, ружей, арбалетов, мечей</category>
+<category id="331" parentId="326">Сувенирные ножи и аксессуары</category>
+<category id="332" parentId="308">Таблички</category>
+<category id="333" parentId="308">Фотоальбомы</category>
+<category id="334" parentId="308">Фоторамки</category>
+<category id="335" parentId="308">Часы напольные</category>
+<category id="336" parentId="308">Часы настенные</category>
+<category id="337" parentId="308">Часы настольные и каминные</category>
+<category id="338" parentId="308">Ширмы</category>
+<category id="339" parentId="308">Ковры и ковровые дорожки</category>
+<category id="340" parentId="308">Шкатулки</category>
+<category id="341" parentId="308">Шторы и жалюзи</category>
+<category id="342" parentId="341">Жалюзи</category>
+<category id="343" parentId="341">Карнизы и аксессуары для штор</category>
+<category id="344" parentId="341">Римские и рулонные шторы</category>
+<category id="345" parentId="341">Шторы</category>
+<category id="346" parentId="308">Ювелирная посуда и сувениры</category>
+<category id="347" parentId="307">Мебель</category>
+<category id="348" parentId="347">Готовые комплекты</category>
+<category id="349" parentId="348">Ванные комнаты</category>
+<category id="350" parentId="348">Гостиные</category>
+<category id="351" parentId="348">Детские</category>
+<category id="352" parentId="348">Кабинеты</category>
+<category id="353" parentId="348">Кухонные гарнитуры</category>
+<category id="354" parentId="348">Прихожие</category>
+<category id="355" parentId="348">Спальни</category>
+<category id="356" parentId="347">Детская мебель</category>
+<category id="357" parentId="356">Парты и столы</category>
+<category id="358" parentId="356">Стулья и табуреты</category>
+<category id="359" parentId="347">Комплектующие</category>
+<category id="360" parentId="347">Мебель для кухни</category>
+<category id="361" parentId="360">Кухонные уголки и обеденные группы</category>
+<category id="362" parentId="347">Мебель для спальни</category>
+<category id="363" parentId="362">Изголовья</category>
+<category id="364" parentId="362">Кровати</category>
+<category id="365" parentId="362">Матрасы</category>
+<category id="366" parentId="362">Основания для матрасов</category>
+<category id="367" parentId="347">Мягкая мебель</category>
+<category id="368" parentId="367">Диваны и кушетки</category>
+<category id="369" parentId="367">Кресла</category>
+<category id="370" parentId="367">Кресла-мешки</category>
+<category id="371" parentId="347">Надувная, плетеная и прочая мебель</category>
+<category id="372" parentId="371">Мебель для учреждений</category>
+<category id="373" parentId="371">Надувная мебель</category>
+<category id="374" parentId="371">Насосы и аксессуары</category>
+<category id="375" parentId="371">Плетеная мебель</category>
+<category id="376" parentId="371">Раскладушки</category>
+<category id="377" parentId="347">Столы и стулья</category>
+<category id="378" parentId="377">Банкетки и скамьи</category>
+<category id="379" parentId="377">Компьютерные и письменные столы</category>
+<category id="380" parentId="377">Компьютерные кресла</category>
+<category id="381" parentId="377">Пуфики</category>
+<category id="382" parentId="377">Столы и столики</category>
+<category id="383" parentId="377">Стулья, табуретки</category>
+<category id="384" parentId="347">Фурнитура для мебели</category>
+<category id="385" parentId="347">Шкафы, комоды, полки</category>
+<category id="386" parentId="385">Комоды</category>
+<category id="387" parentId="385">Обувницы</category>
+<category id="388" parentId="385">Полки</category>
+<category id="389" parentId="385">Стеллажи</category>
+<category id="390" parentId="385">Тумбы</category>
+<category id="391" parentId="385">Шкафы</category>
+<category id="392" parentId="307">Новогодние товары</category>
+<category id="393" parentId="392">Елки живые</category>
+<category id="394" parentId="392">Елки искусственные</category>
+<category id="395" parentId="392">Елочные украшения</category>
+<category id="396" parentId="392">Новогодние фигурки и сувениры</category>
+<category id="397" parentId="392">Новогодний декор</category>
+<category id="398" parentId="307">Освещение</category>
+<category id="399" parentId="398">Аварийные светильники</category>
+<category id="400" parentId="398">Бра</category>
+<category id="401" parentId="398">Встраиваемые светильники</category>
+<category id="402" parentId="398">Интерьерная подсветка</category>
+<category id="403" parentId="398">Лампочки</category>
+<category id="404" parentId="398">Люстры</category>
+<category id="405" parentId="398">Настенно-потолочные светильники</category>
+<category id="406" parentId="398">Настольные лампы и светильники</category>
+<category id="407" parentId="398">Ночники и декоративные светильники</category>
+<category id="408" parentId="398">Прожекторы</category>
+<category id="409" parentId="398">Светодиодные ленты</category>
+<category id="410" parentId="398">Споты и трек-системы</category>
+<category id="411" parentId="398">Торшеры и напольные светильники</category>
+<category id="412" parentId="398">Уличное освещение</category>
+<category id="413" parentId="307">Посуда и кухонные принадлежности</category>
+<category id="414" parentId="413">Кухонные аксессуары</category>
+<category id="415" parentId="414">Подставки и держатели</category>
+<category id="416" parentId="414">Рукавицы, прихватки, фартуки</category>
+<category id="417" parentId="414">Термометры и таймеры</category>
+<category id="418" parentId="413">Сервировка стола</category>
+<category id="419" parentId="418">Блюда и салатники</category>
+<category id="420" parentId="418">Бокалы и стаканы</category>
+<category id="421" parentId="418">Кружки, блюдца и пары</category>
+<category id="422" parentId="418">Кувшины и графины</category>
+<category id="423" parentId="418">Подносы</category>
+<category id="424" parentId="418">Предметы сервировки</category>
+<category id="425" parentId="418">Принадлежности для суши</category>
+<category id="426" parentId="418">Рюмки и стопки</category>
+<category id="427" parentId="418">Сервизы</category>
+<category id="428" parentId="418">Столовые приборы</category>
+<category id="429" parentId="418">Тарелки</category>
+<category id="430" parentId="413">Термосы и термокружки</category>
+<category id="431" parentId="413">Хранение продуктов</category>
+<category id="432" parentId="431">Банки для хранения</category>
+<category id="433" parentId="431">Бочки, кадки, жбаны</category>
+<category id="434" parentId="431">Контейнеры и ланч-боксы</category>
+<category id="435" parentId="431">Солонки, перечницы и емкости для специй</category>
+<category id="436" parentId="431">Хлебницы и корзины для хлеба</category>
+<category id="437" parentId="307">Текстиль</category>
+<category id="438" parentId="437">Декоративные подушки</category>
+<category id="439" parentId="437">Ковры и ковровые дорожки</category>
+<category id="440" parentId="437">Наматрасники и чехлы для матрасов</category>
+<category id="441" parentId="437">Одеяла</category>
+<category id="442" parentId="437">Пледы и покрывала</category>
+<category id="443" parentId="437">Подушки</category>
+<category id="444" parentId="437">Полотенца</category>
+<category id="445" parentId="437">Постельное белье</category>
+<category id="446" parentId="445">Комплекты</category>
+<category id="447" parentId="445">Наволочки</category>
+<category id="448" parentId="445">Пододеяльники</category>
+<category id="449" parentId="445">Простыни</category>
+<category id="450" parentId="437">Скатерти и салфетки</category>
+<category id="451" parentId="437">Текстиль с электроподогревом</category>
+<category id="452" parentId="451">Электроодеяла</category>
+<category id="453" parentId="451">Электроподушки</category>
+<category id="454" parentId="451">Электропростыни и электроматрасы</category>
+<category id="455" parentId="437">Ткани</category>
+<category id="456" parentId="437">Чехлы для мебели и подушек</category>
+<category id="457" parentId="307">Хозяйственные товары</category>
+<category id="458" parentId="457">Аксессуары для ванной и туалета</category>
+<category id="459" parentId="458">Коврики</category>
+<category id="460" parentId="458">Шторы и карнизы</category>
+<category id="461" parentId="457">Хранение вещей</category>
+<category id="462" parentId="461">Вакуумные пакеты</category>
+<category id="463" parentId="461">Корзины, коробки и контейнеры</category>
+<category id="464" parentId="461">Органайзеры и кофры</category>
+<category id="465" parentId="461">Сундуки</category>
+<category id="466" parentId="461">Чехлы для одежды</category>
+<category id="467" parentId="461">Приготовление напитков</category>
+<category id="468" parentId="461">Рюкзаки, ранцы, сумки</category>
+</categories>
+<offers>
+    <offer id="1" type="vendor.model" available="true" group_id="150010079">
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=48&dim2=2</url>
+        <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
+        <bundle_id>com.ocito.laredoute</bundle_id>
+        <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
+        <ios_tracking_url>https://lr.app.link/7VuFkGDRGob?%243p=a_mytarget</ios_tracking_url>
+        <ios_app_store_id>393136788</ios_app_store_id>
+        <ios_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</ios_url>
+        <price>1312</price>
+        <oldprice>3499.00</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>449</categoryId>
+        <market_category>Товары для дома/Текстиль/Постельное белье/Простыни</market_category>
+        <picture>https://cdn.laredoute.com/products/1200by1200/e/0/5/e059a6ebf3a9e71567b8ad88b5d24b3a.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/a/3/2/a322770255a1861188fa35905086ee54.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/6/e/e/6ee1aaa9315fc6654e610c25306efbb3.jpg</picture>
+        <delivery>true</delivery>
+        <delivery-options>
+        <option cost="0" days="32" order-before="24"/>
+        </delivery-options>
+        <pickup-options>
+        <option cost="0" days="32" order-before="24"/>
+        </pickup-options>
+        <vendor>LaRedoute</vendor>
+        <typePrefix>Простыня</typePrefix>
+        <model>Простыня Натяжная однотонная из хлопка Scenario 140 x 200 см серый</model>
+        <description>Натяжная простыня из ткани, 100% хлопок, с плотным переплетением нитей, мягкой, нежной, комфортной и прочной.Замечательная гамма очень актуальных расцветок, можно сочетать по желанию с наволочками, пододеяльниками, натяжными простынями и простынями SCENARIO и постельным бельем с рисунком коллекции.Описание •  100% хлопок •  57 нитей/см² •  Клапан 25 смУход •  Температура стирки 60°Размеры •  80 x 190 см: 1-сп. •  90 x 190 см: 1-сп. •  90 x 200 см: 1-сп. •  120 x 190 см: 1-2-сп. •  140 x 190 см: 2-сп. •  140 x 200 см: 2-сп. •  160 x 200 см: 2-сп. •  180 x 200 см: 2-сп.Ответственное производство •  Выбрать изделие со знаком «STANDARD 100 by OEKO-TEX®» (весьма техническое обозначение), это выбрать безвредный и не раздражающий кожу текстиль. Независимый международный знак качества, отвечающий потребностям покупателей в области экологии человека. Ответственное и не вредящее вашему здоровью производство.</description>
+        <sales_notes>Оплата: Наличные, без. нал., картой на сайте</sales_notes>
+        <country_of_origin>Франция</country_of_origin>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <param name="Размер" unit="EU">140 x 200 см</param>
+        <param name="Цвет">серый</param>
+        <param name="weight">0.600</param>
+    </offer>
+    <offer id="2" type="vendor.model" available="true" group_id="150010079">
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
+        <bundle_id>com.ocito.laredoute</bundle_id>
+        <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
+        <ios_tracking_url>https://lr.app.link/7VuFkGDRGob?%243p=a_mytarget</ios_tracking_url>
+        <ios_app_store_id>393136788</ios_app_store_id>
+        <ios_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</ios_url>
+        <price>1046</price>
+        <oldprice>3099.00</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>449</categoryId>
+        <market_category>Товары для дома/Текстиль/Постельное белье/Простыни</market_category>
+        <picture>https://cdn.laredoute.com/products/1200by1200/2/1/d/21d50eabda85b3694bab57507ec8b141.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/5/a/7/5a70487db8c272c31822c15aa9d6265a.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/6/e/e/6ee1aaa9315fc6654e610c25306efbb3.jpg</picture>
+        <delivery>true</delivery>
+        <delivery-options>
+        <option cost="0" days="32" order-before="24"/>
+        </delivery-options>
+        <pickup-options>
+        <option cost="0" days="32" order-before="24"/>
+        </pickup-options>
+        <vendor>LaRedoute</vendor>
+        <typePrefix>Простыня</typePrefix>
+        <model>Простыня Натяжная однотонная из хлопка Scenario 120 x 190 см белый</model>
+        <description>Натяжная простыня из ткани, 100% хлопок, с плотным переплетением нитей, мягкой, нежной, комфортной и прочной.Замечательная гамма очень актуальных расцветок, можно сочетать по желанию с наволочками, пододеяльниками, натяжными простынями и простынями SCENARIO и постельным бельем с рисунком коллекции.Описание •  100% хлопок •  57 нитей/см² •  Клапан 25 смУход •  Температура стирки 60°Размеры •  80 x 190 см: 1-сп. •  90 x 190 см: 1-сп. •  90 x 200 см: 1-сп. •  120 x 190 см: 1-2-сп. •  140 x 190 см: 2-сп. •  140 x 200 см: 2-сп. •  160 x 200 см: 2-сп. •  180 x 200 см: 2-сп.Ответственное производство •  Выбрать изделие со знаком «STANDARD 100 by OEKO-TEX®» (весьма техническое обозначение), это выбрать безвредный и не раздражающий кожу текстиль. Независимый международный знак качества, отвечающий потребностям покупателей в области экологии человека. Ответственное и не вредящее вашему здоровью производство.</description>
+        <sales_notes>Оплата: Наличные, без. нал., картой на сайте</sales_notes>
+        <country_of_origin>Франция</country_of_origin>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <param name="Размер" unit="EU">120 x 190 см</param>
+        <param name="Цвет">белый</param>
+        <param name="weight">0.600</param>
+        </offer>
+    <offer id="3" type="vendor.model" available="true" group_id="150010079">
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
+        <bundle_id>com.ocito.laredoute</bundle_id>
+        <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
+        <ios_tracking_url>https://lr.app.link/7VuFkGDRGob?%243p=a_mytarget</ios_tracking_url>
+        <ios_app_store_id>393136788</ios_app_store_id>
+        <ios_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</ios_url>
+        <price>1046</price>
+        <oldprice>3099.00</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>449</categoryId>
+        <market_category>Товары для дома/Текстиль/Постельное белье/Простыни</market_category>
+        <picture>https://cdn.laredoute.com/products/1200by1200/2/1/d/21d50eabda85b3694bab57507ec8b141.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/5/a/7/5a70487db8c272c31822c15aa9d6265a.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/6/e/e/6ee1aaa9315fc6654e610c25306efbb3.jpg</picture>
+        <delivery>true</delivery>
+        <delivery-options>
+        <option cost="0" days="32" order-before="24"/>
+        </delivery-options>
+        <pickup-options>
+        <option cost="0" days="32" order-before="24"/>
+        </pickup-options>
+        <vendor>LaRedoute</vendor>
+        <typePrefix>Простыня</typePrefix>
+        <model>Простыня Натяжная однотонная из хлопка Scenario 120 x 190 см белый</model>
+        <description>Натяжная простыня из ткани, 100% хлопок, с плотным переплетением нитей, мягкой, нежной, комфортной и прочной.Замечательная гамма очень актуальных расцветок, можно сочетать по желанию с наволочками, пододеяльниками, натяжными простынями и простынями SCENARIO и постельным бельем с рисунком коллекции.Описание •  100% хлопок •  57 нитей/см² •  Клапан 25 смУход •  Температура стирки 60°Размеры •  80 x 190 см: 1-сп. •  90 x 190 см: 1-сп. •  90 x 200 см: 1-сп. •  120 x 190 см: 1-2-сп. •  140 x 190 см: 2-сп. •  140 x 200 см: 2-сп. •  160 x 200 см: 2-сп. •  180 x 200 см: 2-сп.Ответственное производство •  Выбрать изделие со знаком «STANDARD 100 by OEKO-TEX®» (весьма техническое обозначение), это выбрать безвредный и не раздражающий кожу текстиль. Независимый международный знак качества, отвечающий потребностям покупателей в области экологии человека. Ответственное и не вредящее вашему здоровью производство.</description>
+        <sales_notes>Оплата: Наличные, без. нал., картой на сайте</sales_notes>
+        <country_of_origin>Франция</country_of_origin>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <param name="Размер" unit="EU">120 x 190 см</param>
+        <param name="Цвет">белый</param>
+        <param name="weight">0.600</param>
+    </offer>
+    <offer id="4" type="vendor.model" available="true" group_id="150010079">
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
+        <bundle_id>com.ocito.laredoute</bundle_id>
+        <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
+        <ios_tracking_url>https://lr.app.link/7VuFkGDRGob?%243p=a_mytarget</ios_tracking_url>
+        <ios_app_store_id>393136788</ios_app_store_id>
+        <ios_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</ios_url>
+        <price>1046</price>
+        <oldprice>3099.00</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>449</categoryId>
+        <market_category>Товары для дома/Текстиль/Постельное белье/Простыни</market_category>
+        <picture>https://cdn.laredoute.com/products/1200by1200/2/1/d/21d50eabda85b3694bab57507ec8b141.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/5/a/7/5a70487db8c272c31822c15aa9d6265a.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/6/e/e/6ee1aaa9315fc6654e610c25306efbb3.jpg</picture>
+        <delivery>true</delivery>
+        <delivery-options>
+        <option cost="0" days="32" order-before="24"/>
+        </delivery-options>
+        <pickup-options>
+        <option cost="0" days="32" order-before="24"/>
+        </pickup-options>
+        <vendor>LaRedoute</vendor>
+        <typePrefix>Простыня</typePrefix>
+        <model>Простыня Натяжная однотонная из хлопка Scenario 120 x 190 см белый</model>
+        <description>Натяжная простыня из ткани, 100% хлопок, с плотным переплетением нитей, мягкой, нежной, комфортной и прочной.Замечательная гамма очень актуальных расцветок, можно сочетать по желанию с наволочками, пододеяльниками, натяжными простынями и простынями SCENARIO и постельным бельем с рисунком коллекции.Описание •  100% хлопок •  57 нитей/см² •  Клапан 25 смУход •  Температура стирки 60°Размеры •  80 x 190 см: 1-сп. •  90 x 190 см: 1-сп. •  90 x 200 см: 1-сп. •  120 x 190 см: 1-2-сп. •  140 x 190 см: 2-сп. •  140 x 200 см: 2-сп. •  160 x 200 см: 2-сп. •  180 x 200 см: 2-сп.Ответственное производство •  Выбрать изделие со знаком «STANDARD 100 by OEKO-TEX®» (весьма техническое обозначение), это выбрать безвредный и не раздражающий кожу текстиль. Независимый международный знак качества, отвечающий потребностям покупателей в области экологии человека. Ответственное и не вредящее вашему здоровью производство.</description>
+        <sales_notes>Оплата: Наличные, без. нал., картой на сайте</sales_notes>
+        <country_of_origin>Франция</country_of_origin>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <param name="Размер" unit="EU">120 x 190 см</param>
+        <param name="Цвет">белый</param>
+        <param name="weight">0.600</param>
+    </offer>
+    <offer id="5" type="vendor.model" available="true" group_id="150010079">
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
+        <bundle_id>com.ocito.laredoute</bundle_id>
+        <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
+        <ios_tracking_url>https://lr.app.link/7VuFkGDRGob?%243p=a_mytarget</ios_tracking_url>
+        <ios_app_store_id>393136788</ios_app_store_id>
+        <ios_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</ios_url>
+        <price>1046</price>
+        <oldprice>3099.00</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>449</categoryId>
+        <market_category>Товары для дома/Текстиль/Постельное белье/Простыни</market_category>
+        <picture>https://cdn.laredoute.com/products/1200by1200/2/1/d/21d50eabda85b3694bab57507ec8b141.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/5/a/7/5a70487db8c272c31822c15aa9d6265a.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/6/e/e/6ee1aaa9315fc6654e610c25306efbb3.jpg</picture>
+        <delivery>true</delivery>
+        <delivery-options>
+        <option cost="0" days="32" order-before="24"/>
+        </delivery-options>
+        <pickup-options>
+        <option cost="0" days="32" order-before="24"/>
+        </pickup-options>
+        <vendor>LaRedoute</vendor>
+        <typePrefix>Простыня</typePrefix>
+        <model>Простыня Натяжная однотонная из хлопка Scenario 120 x 190 см белый</model>
+        <description>Натяжная простыня из ткани, 100% хлопок, с плотным переплетением нитей, мягкой, нежной, комфортной и прочной.Замечательная гамма очень актуальных расцветок, можно сочетать по желанию с наволочками, пододеяльниками, натяжными простынями и простынями SCENARIO и постельным бельем с рисунком коллекции.Описание •  100% хлопок •  57 нитей/см² •  Клапан 25 смУход •  Температура стирки 60°Размеры •  80 x 190 см: 1-сп. •  90 x 190 см: 1-сп. •  90 x 200 см: 1-сп. •  120 x 190 см: 1-2-сп. •  140 x 190 см: 2-сп. •  140 x 200 см: 2-сп. •  160 x 200 см: 2-сп. •  180 x 200 см: 2-сп.Ответственное производство •  Выбрать изделие со знаком «STANDARD 100 by OEKO-TEX®» (весьма техническое обозначение), это выбрать безвредный и не раздражающий кожу текстиль. Независимый международный знак качества, отвечающий потребностям покупателей в области экологии человека. Ответственное и не вредящее вашему здоровью производство.</description>
+        <sales_notes>Оплата: Наличные, без. нал., картой на сайте</sales_notes>
+        <country_of_origin>Франция</country_of_origin>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <param name="Размер" unit="EU">120 x 190 см</param>
+        <param name="Цвет">белый</param>
+        <param name="weight">0.600</param>
+    </offer>
+    <offer id="6" type="vendor.model" available="true" group_id="150010079">
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
+        <bundle_id>com.ocito.laredoute</bundle_id>
+        <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
+        <ios_tracking_url>https://lr.app.link/7VuFkGDRGob?%243p=a_mytarget</ios_tracking_url>
+        <ios_app_store_id>393136788</ios_app_store_id>
+        <ios_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</ios_url>
+        <price>1046</price>
+        <oldprice>3099.00</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>449</categoryId>
+        <market_category>Товары для дома/Текстиль/Постельное белье/Простыни</market_category>
+        <picture>https://cdn.laredoute.com/products/1200by1200/2/1/d/21d50eabda85b3694bab57507ec8b141.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/5/a/7/5a70487db8c272c31822c15aa9d6265a.jpg</picture>
+        <picture>https://cdn.laredoute.com/products/1200by1200/6/e/e/6ee1aaa9315fc6654e610c25306efbb3.jpg</picture>
+        <delivery>true</delivery>
+        <delivery-options>
+        <option cost="0" days="32" order-before="24"/>
+        </delivery-options>
+        <pickup-options>
+        <option cost="0" days="32" order-before="24"/>
+        </pickup-options>
+        <vendor>LaRedoute</vendor>
+        <typePrefix>Простыня</typePrefix>
+        <model>Простыня Натяжная однотонная из хлопка Scenario 120 x 190 см белый</model>
+        <description>Натяжная простыня из ткани, 100% хлопок, с плотным переплетением нитей, мягкой, нежной, комфортной и прочной.Замечательная гамма очень актуальных расцветок, можно сочетать по желанию с наволочками, пододеяльниками, натяжными простынями и простынями SCENARIO и постельным бельем с рисунком коллекции.Описание •  100% хлопок •  57 нитей/см² •  Клапан 25 смУход •  Температура стирки 60°Размеры •  80 x 190 см: 1-сп. •  90 x 190 см: 1-сп. •  90 x 200 см: 1-сп. •  120 x 190 см: 1-2-сп. •  140 x 190 см: 2-сп. •  140 x 200 см: 2-сп. •  160 x 200 см: 2-сп. •  180 x 200 см: 2-сп.Ответственное производство •  Выбрать изделие со знаком «STANDARD 100 by OEKO-TEX®» (весьма техническое обозначение), это выбрать безвредный и не раздражающий кожу текстиль. Независимый международный знак качества, отвечающий потребностям покупателей в области экологии человека. Ответственное и не вредящее вашему здоровью производство.</description>
+        <sales_notes>Оплата: Наличные, без. нал., картой на сайте</sales_notes>
+        <country_of_origin>Франция</country_of_origin>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <param name="Размер" unit="EU">120 x 190 см</param>
+        <param name="Цвет">белый</param>
+        <param name="weight">0.600</param>
+    </offer>
+</offers>
+</shop>
+</yml_catalog>

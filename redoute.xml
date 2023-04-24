@@ -512,7 +512,7 @@
         <param name="weight">0.600</param>
     </offer>
     <offer id="2" type="vendor.model" available="true" group_id="150010079">
-        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?</url>
         <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
         <bundle_id>com.ocito.laredoute</bundle_id>
         <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
@@ -546,7 +546,7 @@
         <param name="weight">0.600</param>
         </offer>
     <offer id="3" type="vendor.model" available="true" group_id="150010079">
-        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?</url>
         <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
         <bundle_id>com.ocito.laredoute</bundle_id>
         <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
@@ -580,7 +580,7 @@
         <param name="weight">0.600</param>
     </offer>
     <offer id="4" type="vendor.model" available="true" group_id="150010079">
-        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?</url>
         <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
         <bundle_id>com.ocito.laredoute</bundle_id>
         <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
@@ -614,7 +614,7 @@
         <param name="weight">0.600</param>
     </offer>
     <offer id="5" type="vendor.model" available="true" group_id="150010079">
-        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?</url>
         <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
         <bundle_id>com.ocito.laredoute</bundle_id>
         <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>
@@ -648,7 +648,7 @@
         <param name="weight">0.600</param>
     </offer>
     <offer id="6" type="vendor.model" available="true" group_id="150010079">
-        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?dim1=10&dim2=12</url>
+        <url>https://www.laredoute.ru/ppdp/prod-150010079.aspx?</url>
         <android_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</android_tracking_url>
         <bundle_id>com.ocito.laredoute</bundle_id>
         <android_url>https://www.laredoute.ru/ppdp/prod-150010079.aspx</android_url>

@@ -13,8 +13,7 @@
             <locality>Казань</locality>
             <region>Татарстан</region>
             <country>Россия</country>
-            <metro><name>Проспект Победы </name>
-                     
+            <metro><name>Проспект Победы </name>             
                 
             </metro>
         </location>
@@ -24,7 +23,7 @@
         <max_price>7000000 RUB</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
-        <worker_type>juridical</worker_type>
+        <worker_type>phisical</worker_type>
         <product_type>Врачи>Кардиологи</product_type>
         <image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
     </item>
@@ -51,7 +50,7 @@
         <max_price>7000000 RUB </max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
-        <worker_type>juridical</worker_type>
+        <worker_type>phisical</worker_type>
         <product_type>Врачи>Кардиологи </product_type>
         <image_link>http://example.com/12345678-1.jpg</image_link>
     </item>

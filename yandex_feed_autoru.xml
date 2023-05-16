@@ -23,7 +23,7 @@
       <poi_id>г. Воронеж, Дорожная 125</poi_id>     
               <run>500</run>    
               <ios_url>example://electronic</ios_url>
-<ios_app_store_id>42</ios_app_store_id>
+<ios_app_store_id>auto.ru</ios_app_store_id>
 <android_url>example://electronic</android_url>
 <bundle_id>com.electronic</bundle_id>
         </car>
@@ -46,7 +46,7 @@
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>  
              <ios_url>example://electronic</ios_url>
-<ios_app_store_id>42</ios_app_store_id>
+<ios_app_store_id>0</ios_app_store_id>
 <android_url>example://electronic</android_url>
 <bundle_id>com.electronic</bundle_id>
         </car> 
@@ -69,7 +69,7 @@
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>  
              <ios_url>example://electronic</ios_url>
-<ios_app_store_id>42</ios_app_store_id>
+<ios_app_store_id>@@@@@</ios_app_store_id>
 <android_url>example://electronic</android_url>
 <bundle_id>com.electronic</bundle_id>
         </car>    

@@ -18,7 +18,7 @@
          <min_price>50 USD</min_price>
         <max_price>500 USD</max_price>
         <applink property="ios_url" content="example://travelapp" />
-        <applink property="ios_app_store_id" content="" />        
+        <applink property="ios_app_store_id" content="aviasales" />        
         <applink property="android_url" content="example://travelapp" />
         <applink property="android_package" content="" /> 
         <custom_label_0>Летняя распродажа</custom_label_0>
@@ -37,7 +37,7 @@
         <price>100.00 AMD</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
-        <applink property="ios_app_store_id" content="42" />        
+        <applink property="ios_app_store_id" content="aviasales" />        
         <applink property="android_url" content="example://travelapp" />
         <applink property="android_package" content="com.travelapp" /> 
         <custom_label_1>Осенняя распродажа</custom_label_1>

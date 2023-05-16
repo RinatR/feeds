@@ -28,7 +28,7 @@
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>            
+            <ios_app_store_id>ios_app_store</ios_app_store_id>            
         </offer>
         <offer id="2" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -46,7 +46,7 @@
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>            
+            <ios_app_store_id>0</ios_app_store_id>            
         </offer>
         <offer id="3" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>

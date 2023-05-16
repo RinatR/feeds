@@ -65,7 +65,11 @@
             <metro> 
                <name>Белорусская</name>
             </metro>
-        </location>      
+        </location>  
+        <applink property="ios_url" content="example://electronic"/>
+        <applink property="ios_app_store_id" content="ios_app_store_id"/>
+        <applink property="android_url" content="example://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
         <hotel_id>3</hotel_id>
@@ -89,7 +93,11 @@
             <metro> 
                <name>Охотный ряд</name>
             </metro>
-        </location>        
+        </location>   
+        <applink property="ios_url" content="example://electronic"/>
+        <applink property="ios_app_store_id" content="ios_app_store_id"/>
+        <applink property="android_url" content="example://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
         <hotel_id>4</hotel_id>
@@ -108,6 +116,10 @@
             <region>Москва</region>
             <country>Россия</country>            
         </location>        
+        <applink property="ios_url" content="example://electronic"/>
+        <applink property="ios_app_store_id" content="ios_app_store_id"/>
+        <applink property="android_url" content="example://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
         <hotel_id>5</hotel_id>
@@ -125,7 +137,11 @@
             <locality>Москва</locality>
             <region>Москва</region>
             <country>Россия</country>
-        </location>        
+        </location>    
+        <applink property="ios_url" content="example://electronic"/>
+        <applink property="ios_app_store_id" content="ios_app_store_id"/>
+        <applink property="android_url" content="example://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
         <hotel_id>6</hotel_id>
@@ -143,6 +159,10 @@
             <locality>Москва</locality>
             <region>Москва</region>
             <country>Россия</country>
-        </location>      
+        </location>  
+        <applink property="ios_url" content="example://electronic"/>
+        <applink property="ios_app_store_id" content="ios_app_store_id"/>
+        <applink property="android_url" content="example://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
     </listing>
 </listings>

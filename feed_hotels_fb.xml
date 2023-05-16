@@ -30,7 +30,7 @@
         </guest_rating>
         <custom_label_0>Распродажа</custom_label_0>
         <applink property="ios_url" content="example://electronic"/>
-        <applink property="ios_app_store_id" content="42"/>
+        <applink property="ios_app_store_id" content="ios_app_store_id"/>
         <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>

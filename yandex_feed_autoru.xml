@@ -26,6 +26,8 @@
 <ios_app_store_id>auto.ru</ios_app_store_id>
 <android_url>example://electronic</android_url>
 <bundle_id>com.electronic</bundle_id>
+              <android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</android_tracking_url>
+<ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</ios_tracking_url>
         </car>
               <car>
       <mark_id>Aston Martin</mark_id>

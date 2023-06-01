@@ -30,6 +30,7 @@
 	  <g:android_app_link>ru.sportmaster.app</g:android_app_link>
 	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
 	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+	    <g:rating>5.1</g:rating>
     </item>
     <item>
       <g:brand>Skechers</g:brand>
@@ -59,6 +60,7 @@
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
 	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
 	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+	    <g:rating>-1.0</g:rating>
     </item>
        <item>
       <g:brand>Skechers</g:brand>
@@ -88,6 +90,7 @@
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
 	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
 	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+	       <g:rating>0.0</g:rating>
     </item>
 	     <item>
       <g:brand>Skechers</g:brand>
@@ -117,6 +120,7 @@
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
 	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
 	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+		     <g:rating>5,1</g:rating>
     </item>
 	     <item>
       <g:brand>Skechers</g:brand>
@@ -140,7 +144,7 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-		
+	<g:rating>6.0</g:rating>	
     </item>
 	     <item>
       <g:brand>Skechers</g:brand>
@@ -164,7 +168,7 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-		     
+	<g:rating>100</g:rating>	     
     </item>
   </channel>
 </rss>

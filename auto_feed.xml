@@ -1,0 +1,106 @@
+<channel>
+<title>Автосалон на Мичурина</title>
+<link rel="self">https://michurin-auto.ru/api/offers/feed_vk_special.xml</link>
+<item>
+<id>197</id>
+<title>Škoda Новый Rapid</title>
+<link>https://michurin-auto.ru/catalog/skoda/rapid_new</link>
+<brand>Škoda</brand>
+<model>Новый Rapid</model>
+<image_link>https://michurin-auto.ru/media/1656/cover_646becf07c4696.33026626.webp</image_link>
+<price>536000 RUR</price>
+<state_of_vehicle>new</state_of_vehicle>
+<year>2023</year>
+<description>В кредит от 2579 руб./мес. по ставке от 8.9%</description>
+<availability>в наличии</availability>
+<mileage>
+<value></value>
+<unit>KM</unit>
+</mileage>
+</item>
+<item>
+<id>235</id>
+<title>Changan Cs35Plus</title>
+<link>https://michurin-auto.ru/catalog/changan/cs35plus</link>
+<brand>Changan</brand>
+<model>CS35PLUS</model>
+<image_link>https://michurin-auto.ru/media/1657/cover_646becf0afa379.94675801.webp</image_link>
+<price>745300 RUR</price>
+<state_of_vehicle>new</state_of_vehicle>
+<year>2023</year>
+<description>В кредит от 3587 руб./мес. по ставке от 8.9%</description>
+<availability>в наличии</availability>
+<mileage>
+<value></value>
+<unit>KM</unit>
+</mileage>
+</item>
+<item>
+<id>163</id>
+<title>Haval H6</title>
+<link>https://michurin-auto.ru/catalog/haval/h6</link>
+<brand>Haval</brand>
+<model>H6</model>
+<image_link>https://michurin-auto.ru/media/1655/cover_646becf04ac035.84744444.webp</image_link>
+<price>893000 RUR</price>
+<state_of_vehicle>new</state_of_vehicle>
+<year>2023</year>
+<description>В кредит от 4297 руб./мес. по ставке от 8.9%</description>
+<availability>в наличии</availability>
+<mileage>
+<value></value>
+<unit>KM</unit>
+</mileage>
+</item>
+<item>
+<id>106</id>
+<title>Renault Sandero</title>
+<link>https://michurin-auto.ru/catalog/renault/sandero_new</link>
+<brand>Renault</brand>
+<model>Sandero</model>
+<image_link>https://michurin-auto.ru/media/1654/cover_646becef525e04.64984132.webp</image_link>
+<price>411000 RUR</price>
+<state_of_vehicle>new</state_of_vehicle>
+<year>2023</year>
+<description>В кредит от 1978 руб./мес. по ставке от 8.9%</description>
+<availability>в наличии</availability>
+<mileage>
+<value></value>
+<unit>KM</unit>
+</mileage>
+</item>
+<item>
+<id>153</id>
+<title>Lifan X70</title>
+<link>https://michurin-auto.ru/catalog/lifan/x70</link>
+<brand>Lifan</brand>
+<model>X70</model>
+<image_link>https://michurin-auto.ru/media/1658/cover_646becf0da3d63.93028809.webp</image_link>
+<price>765300 RUR</price>
+<state_of_vehicle>new</state_of_vehicle>
+<year>2023</year>
+<description>В кредит от 3683 руб./мес. по ставке от 8.9%</description>
+<availability>в наличии</availability>
+<mileage>
+<value></value>
+<unit>KM</unit>
+</mileage>
+</item>
+<item>
+<id>243</id>
+<title>Chery Tiggo 8 Pro</title>
+<link>https://michurin-auto.ru/catalog/chery/tiggo_8_pro</link>
+<brand>Chery</brand>
+<model>Tiggo 8 Pro</model>
+<image_link>https://michurin-auto.ru/media/1660/cover_646becf1700997.47127417.webp</image_link>
+<price>1574900 RUR</price>
+<state_of_vehicle>new</state_of_vehicle>
+<year>2023</year>
+<description>В кредит от 7578 руб./мес. по ставке от 8.9%</description>
+<availability>в наличии</availability>
+<mileage>
+<value></value>
+<unit>KM</unit>
+</mileage>
+</item>
+</channel>

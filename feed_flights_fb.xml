@@ -8,6 +8,7 @@
         <destination_airport>JFK</destination_airport> 
         <origin_city>BOSTON</origin_city>
         <destination_city>New York</destination_city> 
+        <vendor>Aeroflot</vendor>
         <url>https://ticket.pobeda.aero/websky/</url> 
          <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
@@ -30,6 +31,7 @@
         <origin_city>Boston </origin_city>
         <destination_city>San Francisco </destination_city>
         <url>https://ticket.pobeda.aero/websky/</url>
+        <vendor>UVT Aero</vendor>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
@@ -49,6 +51,7 @@
         <origin_city>Boston </origin_city>
         <destination_city>San Francisco </destination_city>
          <url>https://ticket.pobeda.aero/websky/</url>
+         <vendor>Pobeda</vendor>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
@@ -68,6 +71,7 @@
         <origin_city>Boston </origin_city>
         <destination_city>San Francisco </destination_city>
          <url>https://ticket.pobeda.aero/websky/</url>
+         <vendor>Lufthansa</vendor>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
@@ -87,6 +91,7 @@
         <origin_city>Boston </origin_city>
         <destination_city>San Francisco </destination_city>
          <url>https://ticket.pobeda.aero/websky/</url>
+         <vendor>Ural Airlines</vendor>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
@@ -105,6 +110,7 @@
         <origin_city>Boston </origin_city>
         <destination_city>San Francisco </destination_city>
          <url>https://ticket.pobeda.aero/websky/</url>
+         <vendor>S7</vendor>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>

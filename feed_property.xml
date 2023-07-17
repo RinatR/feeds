@@ -22,7 +22,9 @@
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
-        <num_rooms>2</num_rooms>       
+        <num_rooms>2</num_rooms>  
+	<num_beds>3</num_beds>
+	<num_baths>10 </num_baths>
         <price>6000000 RUB</price>
 	<sale_price>5999999 RUB</sale_price>
 	<min_price>5000000 RUB</min_price>
@@ -61,7 +63,9 @@
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
-        <num_rooms>2</num_rooms>       
+        <num_rooms>2</num_rooms>  
+	<num_beds>3</num_beds>
+	<num_baths>10 </num_baths>
         <price>6000000 RUB</price>
 	<sale_price>5999999 RUB</sale_price>
         <min_price>5000000 RUB</min_price>

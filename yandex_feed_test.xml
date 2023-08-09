@@ -11,78 +11,84 @@
 <category id="5" parentId="10">Средняя техника</category>
   </categories>
 <offers>
-<offer id="0123450" available="true">
-  <name>Антивирус ESET NOD32 Platinum Edition</name> 
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://mail.ru</url>
-  <price>1620.00</price>
-  <oldprice>1800.00</oldprice>
-  <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>  
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
-  <android_tracking_url>http://app.adjust.io/ru.sokolov.android?deep_link=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>http://app.adjust.io/id1501705341?deep_link%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
-   <android_url>sokolov://product/1</android_url>
-  <ios_url>sokolov://product/1</ios_url>
-  <bundle_id>ru.sokolov.android</bundle_id>
-  <ios_app_store_id>100500500</ios_app_store_id>
-</offer>
-<offer id="0123451" available="true">
-  <name>Антивирус ESET NOD32 Platinum Edition</name>  
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://mail.ru</url>
-  <price>1620.00</price>
-  <oldprice>1800.00</oldprice>
-  <currencyId>RUB</currencyId>
-  <categoryId>1</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>  
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
-  <android_tracking_url>http://app.adjust.io/ru.sokolov.android?deep_link=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>http://app.adjust.io/id1501705341?deep_link%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
-  <android_url>sokolov://product/1</android_url>
-  <ios_url>sokolov://product/1</ios_url>
-  <bundle_id>ru.sokolov.android</bundle_id>
-  <ios_app_store_id>100500500</ios_app_store_id>
-</offer>
-  <offer id="012345166" available="true">
-  <name>Антивирус ESET NOD32 Platinum Edition</name>  
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://mail.ru</url>
-  <price>1620.00</price>
-  <oldprice>1800.00</oldprice>
-  <currencyId>RUB</currencyId>
-  <categoryId>5</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>  
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
-  <android_tracking_url>http://app.adjust.io/ru.sokolov.android?deep_link=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>http://app.adjust.io/id1501705341?deep_link%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
-  <android_url>sokolov://product/1</android_url>
-  <ios_url>sokolov://product/1</ios_url>
-  <bundle_id>ru.sokolov.android</bundle_id>
-  <ios_app_store_id>100500500</ios_app_store_id>
-</offer>
+
+<offer id="1" available="true">
+        <url>https://www.lamoda.ru/p/mp002xm1hdzc/clothes-colins-rubashka/</url>
+        <price>2290</price>
+        <oldprice>2290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>477</categoryId>
+        <picture>http://img-42a4124068b9f.creo101.com/image/canvas/w_600,h_600/c_overlay:5a1a8a7df3224e7eac7b9823e8c976d7/c_text:775f3e3070c14e6a9860c320a652ad73_20:Рубашка,co_000000,s_4,g_west,y_253,x_19,a_left,tw_570/c_text:bb484dd395654aee9a53abca94be7d53_50:2290:number_format(0%252C%252C%2520):after(%2520%25D1%2580.),co_000000,g_west,y_215,x_18,a_left,tw_540/c_overlay:http%253A%252F%252Fimg-42a4124068b9f.creo101.com%252Fimage%252Ffetch%252Fc_fit%252Cw_566%252Ch_400%252Fhttps%25253A%25252F%25252Fa.lmcdn.ru%25252Fpi%25252Fs%25252F607%25252FM%25252FP%25252FMP002XM1HDZC_13804307_1_v1_2x.jpg,g_center,y_-6,x_0/c_overlay:3ac820b512cb442ebdb983aeeda21fde/FFFFFF?https%3A%2F%2Fa.lmcdn.ru%2Fpi%2Fs%2F607%2FM%2FP%2FMP002XM1HDZC_13804307_1_v1_2x.jpg</picture>
+        <model>Рубашка</model>
+        <description>Рубашка Colin's. С быстрой доставкой и примеркой на Lamoda.</description>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <local_delivery_cost>0</local_delivery_cost>
+        <ios_url>lamoda://ru/d/MP002XM1HDZC/?adjust_tracker=mcvycs</ios_url>
+        <android_url>lamoda://ru/d/MP002XM1HDZC/?adjust_tracker=5m901u</android_url>
+        <bundle_id>com.lamoda.lite</bundle_id>
+        <ios_app_store_id>777645417</ios_app_store_id>
+        <ios_tracking_url>https://app.adjust.com/mcvycs?campaign=&amp;creative=&amp;deep_link=lamoda%3A%2F%2Fru%2Fd%2FMP002XM1HDZC</ios_tracking_url>
+        <android_tracking_url>https://app.adjust.com/5m901u?campaign=&amp;creative=&amp;deep_link=lamoda%3A%2F%2Fru%2Fd%2FMP002XM1HDZC</android_tracking_url>
+        <custom_label_1>men</custom_label_1>
+        <custom_label_0>False</custom_label_0>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804308_2_v1_2x.jpg</picture>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804309_3_v1_2x.jpg</picture>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804310_4_v1_2x.jpg</picture>
+        <vendor>Colin's</vendor>
+      </offer>
+  
+<offer id="2" available="true">
+        <url>https://www.lamoda.ru/p/mp002xm1hdzc/clothes-colins-rubashka/</url>
+        <price>2290</price>
+        <oldprice>2290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>477</categoryId>
+        <picture>http://img-42a4124068b9f.creo101.com/image/canvas/w_600,h_600/c_overlay:5a1a8a7df3224e7eac7b9823e8c976d7/c_text:775f3e3070c14e6a9860c320a652ad73_20:Рубашка,co_000000,s_4,g_west,y_253,x_19,a_left,tw_570/c_text:bb484dd395654aee9a53abca94be7d53_50:2290:number_format(0%252C%252C%2520):after(%2520%25D1%2580.),co_000000,g_west,y_215,x_18,a_left,tw_540/c_overlay:http%253A%252F%252Fimg-42a4124068b9f.creo101.com%252Fimage%252Ffetch%252Fc_fit%252Cw_566%252Ch_400%252Fhttps%25253A%25252F%25252Fa.lmcdn.ru%25252Fpi%25252Fs%25252F607%25252FM%25252FP%25252FMP002XM1HDZC_13804307_1_v1_2x.jpg,g_center,y_-6,x_0/c_overlay:3ac820b512cb442ebdb983aeeda21fde/FFFFFF?https%3A%2F%2Fa.lmcdn.ru%2Fpi%2Fs%2F607%2FM%2FP%2FMP002XM1HDZC_13804307_1_v1_2x.jpg</picture>
+        <model>Рубашка</model>
+        <description>Рубашка Colin's. С быстрой доставкой и примеркой на Lamoda.</description>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <local_delivery_cost>0</local_delivery_cost>
+        <ios_url>lamoda://ru/d/MP002XM1HDZC/?adjust_tracker=mcvycs</ios_url>
+        <android_url>lamoda://ru/d/MP002XM1HDZC/?adjust_tracker=5m901u</android_url>
+        <bundle_id>com.lamoda.lite</bundle_id>
+        <ios_app_store_id>777645417</ios_app_store_id>
+        <ios_tracking_url>https://app.adjust.com/mcvycs?campaign=&amp;creative=&amp;deep_link=lamoda%3A%2F%2Fru%2Fd%2FMP002XM1HDZC</ios_tracking_url>
+        <android_tracking_url>https://app.adjust.com/5m901u?campaign=&amp;creative=&amp;deep_link=lamoda%3A%2F%2Fru%2Fd%2FMP002XM1HDZC</android_tracking_url>
+        <custom_label_1>men</custom_label_1>
+        <custom_label_0>False</custom_label_0>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804308_2_v1_2x.jpg</picture>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804309_3_v1_2x.jpg</picture>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804310_4_v1_2x.jpg</picture>
+        <vendor>Colin's</vendor>
+      </offer>
+  
+<offer id="3" available="true">
+        <url>https://www.lamoda.ru/p/mp002xm1hdzc/clothes-colins-rubashka/</url>
+        <price>2290</price>
+        <oldprice>2290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>477</categoryId>
+        <picture>http://img-42a4124068b9f.creo101.com/image/canvas/w_600,h_600/c_overlay:5a1a8a7df3224e7eac7b9823e8c976d7/c_text:775f3e3070c14e6a9860c320a652ad73_20:Рубашка,co_000000,s_4,g_west,y_253,x_19,a_left,tw_570/c_text:bb484dd395654aee9a53abca94be7d53_50:2290:number_format(0%252C%252C%2520):after(%2520%25D1%2580.),co_000000,g_west,y_215,x_18,a_left,tw_540/c_overlay:http%253A%252F%252Fimg-42a4124068b9f.creo101.com%252Fimage%252Ffetch%252Fc_fit%252Cw_566%252Ch_400%252Fhttps%25253A%25252F%25252Fa.lmcdn.ru%25252Fpi%25252Fs%25252F607%25252FM%25252FP%25252FMP002XM1HDZC_13804307_1_v1_2x.jpg,g_center,y_-6,x_0/c_overlay:3ac820b512cb442ebdb983aeeda21fde/FFFFFF?https%3A%2F%2Fa.lmcdn.ru%2Fpi%2Fs%2F607%2FM%2FP%2FMP002XM1HDZC_13804307_1_v1_2x.jpg</picture>
+        <model>Рубашка</model>
+        <description>Рубашка Colin's. С быстрой доставкой и примеркой на Lamoda.</description>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <local_delivery_cost>0</local_delivery_cost>
+        <ios_url>lamoda://ru/d/MP002XM1HDZC/?adjust_tracker=mcvycs</ios_url>
+        <android_url>lamoda://ru/d/MP002XM1HDZC/?adjust_tracker=5m901u</android_url>
+        <bundle_id>com.lamoda.lite</bundle_id>
+        <ios_app_store_id>777645417</ios_app_store_id>
+        <ios_tracking_url>https://app.adjust.com/mcvycs?campaign=&amp;creative=&amp;deep_link=lamoda%3A%2F%2Fru%2Fd%2FMP002XM1HDZC</ios_tracking_url>
+        <android_tracking_url>https://app.adjust.com/5m901u?campaign=&amp;creative=&amp;deep_link=lamoda%3A%2F%2Fru%2Fd%2FMP002XM1HDZC</android_tracking_url>
+        <custom_label_1>men</custom_label_1>
+        <custom_label_0>False</custom_label_0>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804308_2_v1_2x.jpg</picture>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804309_3_v1_2x.jpg</picture>
+        <picture>https://a.lmcdn.ru/pi/s/607/M/P/MP002XM1HDZC_13804310_4_v1_2x.jpg</picture>
+        <vendor>Colin's</vendor>
+      </offer>
 </offers>
 </shop>
 </yml_catalog>

@@ -7,24 +7,19 @@
     <item>
       <g:brand>VauDe</g:brand>
       <g:item_group_id>22820640300</g:item_group_id>
-      <g:description>УДОБНЫЙ И ЛЕГКИЙ РЮКЗАК ДЛЯ ТРЕКИНГА С РЕГУЛИРУЕМОЙ СПИНОЙ И ПЕРЕДНИМ ДОСТУПОМ VAUDE ASYMMETRIC 42+8. ЛЕГКОСТЬ: РЮКЗАК ВЕСИТ 1475 ГР. ФУНКЦИОНАЛЬНОСТЬ: ДОПОЛНИТЕЛЬНЫЙ ФРОНТАЛЬНЫЙ ДОСТУП В РЮКЗАК ПОЗВОЛЯЕТ БЕЗ ТРУДА ДОБРАТЬСЯ ДО НУЖНЫХ ВЕЩЕЙ. ДОПОЛНИТЕЛЬНЫЙ ОБЪЕМ: ПРЕДУСМОТРЕНО 2 НАРУЖНЫХ СЕТЧАТЫХ КАРМАНА.</g:description>
-      <g:id>#$$@$@$@%@$%#$@$@%$@$@$@$</g:id>
+      <g:id>1</g:id>
       <g:price>18199 RUB</g:price>
-      <g:title>Рюкзак VauDe Asymmetric 42+8 л</g:title>
+      <g:title> РЮКЗАК VAUDE</g:title>
       <g:image_link>https://cdn.sptmr.ru/upload/iblock/862/48900510299.jpg</g:image_link>      
       <g:link>https://www.sportmaster.ru/product/22820640299/</g:link>
-      <g:product_type>Аксессуары > Рюкзаки и сумки > Рюкзаки</g:product_type>
-      <g:custom_label_0>unisex</g:custom_label_0>
-	  <g:custom_label_1>adult</g:custom_label_1>
-	  <g:custom_label_2>0</g:custom_label_2>
-	  <g:custom_label_3>empty</g:custom_label_3>
+      <g:product_type>Аксессуары > Рюкзаки и сумки > Рюкзаки</g:product_type>      
       <g:color>Серый</g:color>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:size>Без размера</g:size>
       <g:gender>unisex</g:gender>
       <g:age_group>adult</g:age_group>    
-	    <g:rating>5.1</g:rating>
+     <g:rating>5.1</g:rating>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,165 @@
+<yml_catalog date="2023-04-24 06:36">
+<shop>
+<name>La REDOUTE</name>
+<company>La REDOUTE Russia</company>
+<url>https://www.laredoute.ru</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+
+<offers>
+    <offer id="99680100018" available="true" type="vendor.model">
+        <currencyId>RUB</currencyId>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <url>https://goldapple.ru/99680100018-blackfood-modeling-cup-pack</url>
+        <entity_id>31949</entity_id>
+        <price>186</price>
+        <oldprice>233</oldprice>
+        <categoryId>986721</categoryId>
+        <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/8/8/8809278124157_1_cfoj8j1q2xllc5u5.jpg</picture>
+        <model>Blackfood Modeling Cup Pack 15 гр</model>
+        <vendor>INOFACE</vendor>
+        <typePrefix> Маска альгинатная Уголь </typePrefix>
+        <description>Альгинатная маска с древесным углем для комбинированной и проблемной кожи с раcширенными порами
+Альгинатная маска позволяет в домашних условиях получить результат практически идентичный салонной процедуре. Альгиновая кислота – вещество, добываемое из породы водорослей, имеет вязкую консистенцию. Контактируя с кожей, альгинат начинает действовать мгновенно. Воспаления становятся менее заметными, ткани наполняются влагой, угревая сыпь подсушивается, а лицо приобретает здоровый и однородный цвет.
+Древесный уголь прекрасно абсорбирует загрязнения из пор, очищает кожу от черных пробок, вычищает забитые поры. Маска нормализует состояние излишне жирной кожи, делая ее свежей и матовой.
+Отличительной особенностью альгинатных масок является то, что они не имеют противопоказаний и могут использоваться на любом типе кожи, демонстрируя одинаково хороший результат применения. Сухую кожу альгинат увлажняет, у жирной – балансирует выделение себума, уменьшает и подсушивает воспаления, а зрелую кожу маска зрительно подтягивает и разглаживает. 
+ Альгинатная маска всего за два применения (именно на столько хватает упаковки объемом 18 мл) значительно улучшит состояние кожи: увлажнит и восстановит, разгладит мелкие морщины, визуально подтянет овал лица.</description>
+        <barcode>2098200121586</barcode>
+        <param name="Объем" unit="гр">15</param>
+        <ios_url>goldapple://https://goldapple.ru/99680100018-blackfood-modeling-cup-pack</ios_url>
+        <android_url>goldapple://https://goldapple.ru/99680100018-blackfood-modeling-cup-pack</android_url>
+        <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
+        <ios_app_store_id>1154436683</ios_app_store_id>
+        <android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp</android_tracking_url>
+        <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp</ios_tracking_url>
+      </offer>
+      <offer id="99680100016" available="true" type="vendor.model">
+        <currencyId>RUB</currencyId>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <url>https://goldapple.ru/99680100016-yoghurt-modeling-mask</url>
+        <entity_id>31950</entity_id>
+        <price>534</price>
+        <oldprice>668</oldprice>
+        <categoryId>986721</categoryId>
+        <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/8/8/8809278127349_1_eoiwmzyonq0f713u.jpg</picture>
+        <model>Yoghurt Modeling Mask 200 мл</model>
+        <vendor>INOFACE</vendor>
+        <typePrefix> Маска для лица альгинатная с йогуртом </typePrefix>
+        <description>Альгинатная маска с йогуртом интенсивно увлажняет кожу и сделает ее  сияющей и здоровой. 
+Альгиновая кислота добывается из бурых морских водорослей. Свойства альгината заключаются в том, что, смешиваясь с водой, он образует гель, в котором содержится множество минеральных веществ, витаминов и белков. Благодаря их содержанию альгинатные маски обладают выраженным эффектом лифтинга, увлажняют и питают кожу, стимулируют обменные процессы и выработку коллагена.</description>
+        <barcode>2098200315060</barcode>
+        <param name="Объем" unit="мл">200</param>
+        <ios_url>goldapple://https://goldapple.ru/99680100016-yoghurt-modeling-mask</ios_url>
+        <android_url>goldapple://https://goldapple.ru/99680100016-yoghurt-modeling-mask</android_url>
+        <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
+        <ios_app_store_id>1154436683</ios_app_store_id>
+        <android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp</android_tracking_url>
+        <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp</ios_tracking_url>
+      </offer>
+      <offer id="99680100015" available="true" type="vendor.model">
+        <currencyId>RUB</currencyId>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <url>https://goldapple.ru/99680100015-vitamin-modeling-mask</url>
+        <entity_id>31952</entity_id>
+        <price>534</price>
+        <oldprice>668</oldprice>
+        <categoryId>986721</categoryId>
+        <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/8/8/8809278127387_1_9rzwvnpc7filu4cj.jpg</picture>
+        <model>Vitamin Modeling Mask 200 мл</model>
+        <vendor>INOFACE</vendor>
+        <typePrefix>Маска для лица альгинатная с витамином С </typePrefix>
+        <description>Альгинатная маска с витамином С улучшает цвет лица, осветляет пигментацию.
+Альгиновая кислота добывается из бурых морских водорослей. Свойства альгината заключаются в том, что, смешиваясь с водой, он образует гель, в котором содержится множество минеральных веществ, витаминов и белков. Благодаря их содержанию альгинатные маски обладают выраженным эффектом лифтинга, увлажняют и питают кожу, стимулируют обменные процессы и выработку коллагена.</description>
+        <barcode>2098200175626</barcode>
+        <param name="Объем" unit="мл">200</param>
+        <ios_url>goldapple://https://goldapple.ru/99680100015-vitamin-modeling-mask</ios_url>
+        <android_url>goldapple://https://goldapple.ru/99680100015-vitamin-modeling-mask</android_url>
+        <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
+        <ios_app_store_id>1154436683</ios_app_store_id>
+        <android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp</android_tracking_url>
+        <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp</ios_tracking_url>
+      </offer>
+      <offer id="99680100021" available="true" type="vendor.model">
+        <currencyId>RUB</currencyId>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <url>https://goldapple.ru/99680100021-peppermint-modeling-cup-pack</url>
+        <entity_id>31954</entity_id>
+        <price>186</price>
+        <oldprice>233</oldprice>
+        <categoryId>986721</categoryId>
+        <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/6/a/6a2de95ea44a955d0b04d5babef3da43.jpg</picture>
+        <model>Peppermint Modeling Cup Pack</model>
+        <vendor>INOFACE</vendor>
+        <typePrefix>Маска альгинатная Мята </typePrefix>
+        <description>Альгинатная маска позволяет в домашних условиях получить результат практически идентичный салонной процедуре. Альгиновая кислота – вещество, добываемое из породы водорослей, имеет вязкую консистенцию. Контактируя с кожей, альгинат начинает действовать мгновенно. Воспаления становятся менее заметными, ткани наполняются влагой, угревая сыпь подсушивается, а лицо приобретает здоровый и однородный цвет.
+Перечная мята, как дополнительный компонент альгинатной маски, также борется с избытком жира на коже, воспалениями, зудом, хорошо очищает кожу. В соединении с альгинатом, мята вернет к жизни тусклую усталую кожу, вернет ей здоровый светящийся вид, улучшит тон, сузит поры, на увядающей коже сократит морщины, повысит упругость.
+Отличительной особенностью альгинатных масок является то, что они не имеют противопоказаний и могут использоваться на любом типе кожи, демонстрируя одинаково хороший результат применения. Сухую кожу альгинат увлажняет, у жирной – балансирует выделение себума, уменьшает и подсушивает воспаления, а зрелую кожу маска зрительно подтягивает и разглаживает. 
+ Альгинатная маска всего за два применения (именно на столько хватает упаковки объемом 18 мл) значительно улучшит состояние кожи: увлажнит и восстановит, разгладит мелкие морщины, визуально подтянет овал лица.</description>
+        <barcode>2098201252241</barcode>
+        <ios_url>goldapple://https://goldapple.ru/99680100021-peppermint-modeling-cup-pack</ios_url>
+        <android_url>goldapple://https://goldapple.ru/99680100021-peppermint-modeling-cup-pack</android_url>
+        <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
+        <ios_app_store_id>1154436683</ios_app_store_id>
+        <android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp</android_tracking_url>
+        <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp</ios_tracking_url>
+      </offer>
+      <offer id="99680100022" available="true" type="vendor.model">
+        <currencyId>RUB</currencyId>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <url>https://goldapple.ru/99680100022-propolis-modeling-cup-pack</url>
+        <entity_id>31957</entity_id>
+        <price>186</price>
+        <oldprice>233</oldprice>
+        <categoryId>986721</categoryId>
+        <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/8/8/8809278124195_1_t9kwu3namolmjhbi.jpg</picture>
+        <model>Propolis Modeling Cup Pack 15 мл</model>
+        <vendor>INOFACE</vendor>
+        <typePrefix>Маска альгинатная Прополис</typePrefix>
+        <description>Альгинатная маска позволяет в домашних условиях получить результат практически идентичный салонной процедуре. Альгиновая кислота – вещество, добываемое из породы водорослей, имеет вязкую консистенцию. Контактируя с кожей, альгинат начинает действовать мгновенно. Воспаления становятся менее заметными, ткани наполняются влагой, угревая сыпь подсушивается, а лицо приобретает здоровый и однородный цвет.
+Прополис оказывает питательный эффект, отлично успокаивает кожу, выравнивая цвет лица, устраняя покраснения и шелушения. 
+Отличительной особенностью альгинатных масок является то, что они не имеют противопоказаний и могут использоваться на любом типе кожи, демонстрируя одинаково хороший результат применения. Сухую кожу альгинат увлажняет, у жирной – балансирует выделение себума, уменьшает и подсушивает воспаления, а зрелую кожу маска зрительно подтягивает и разглаживает. 
+ Альгинатная маска всего за два применения (именно на столько хватает упаковки объемом 18 мл) значительно улучшит состояние кожи: увлажнит и восстановит, разгладит мелкие морщины, визуально подтянет овал лица.</description>
+        <barcode>2098200336546</barcode>
+        <param name="Объем" unit="мл">15</param>
+        <ios_url>goldapple://https://goldapple.ru/99680100022-propolis-modeling-cup-pack</ios_url>
+        <android_url>goldapple://https://goldapple.ru/99680100022-propolis-modeling-cup-pack</android_url>
+        <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
+        <ios_app_store_id>1154436683</ios_app_store_id>
+        <android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp</android_tracking_url>
+        <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp</ios_tracking_url>
+      </offer>
+      <offer id="99680100023" available="true" type="vendor.model">
+        <currencyId>RUB</currencyId>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <url>https://goldapple.ru/99680100023-shining-modeling-cup-pack</url>
+        <entity_id>31958</entity_id>
+        <price>186</price>
+        <oldprice>233</oldprice>
+        <categoryId>986721</categoryId>
+        <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/8/8/8809278126038_1_5ppuanf4jfofdkh1.jpg</picture>
+        <model>Shining Modeling Cup Pack 15 гр</model>
+        <vendor>INOFACE</vendor>
+        <typePrefix>Маска альгинатная для сияния кожи </typePrefix>
+        <description>Альгинатная маска позволяет в домашних условиях получить результат практически идентичный салонной процедуре. Альгиновая кислота – вещество, добываемое из породы водорослей, имеет вязкую консистенцию. Контактируя с кожей, альгинат начинает действовать мгновенно. Воспаления становятся менее заметными, ткани наполняются влагой, угревая сыпь подсушивается, а лицо приобретает здоровый и однородный цвет.
+Экстракт жемчуга в маске избавляет от такой неприятной проблемы, как пигментация, и препятствует ее повторному проявлению. Кроме того, он имеет активное антиоксидантное действие и защищает кожу от избыточного воздействия света. Также жемчуг отлично решает проблему обезвоживания и создает эффект ретуши за счет светоотражающих частичек, дарящих коже естественное сияние.
+Отличительной особенностью альгинатных масок является то, что они не имеют противопоказаний и могут использоваться на любом типе кожи, демонстрируя одинаково хороший результат применения. Сухую кожу альгинат увлажняет, у жирной – балансирует выделение себума, уменьшает и подсушивает воспаления, а зрелую кожу маска зрительно подтягивает и разглаживает. 
+ Альгинатная маска всего за два применения (именно на столько хватает упаковки объемом 18 мл) значительно улучшит состояние кожи: увлажнит и восстановит, разгладит мелкие морщины, визуально подтянет овал лица.</description>
+        <barcode>2098200774362</barcode>
+        <param name="Объем" unit="гр">15</param>
+        <ios_url>goldapple://https://goldapple.ru/99680100023-shining-modeling-cup-pack</ios_url>
+        <android_url>goldapple://https://goldapple.ru/99680100023-shining-modeling-cup-pack</android_url>
+        <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
+        <ios_app_store_id>1154436683</ios_app_store_id>
+        <android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp</android_tracking_url>
+        <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp</ios_tracking_url>
+      </offer>
+</offers>
+</shop>
+</yml_catalog>

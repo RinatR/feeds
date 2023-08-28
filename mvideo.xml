@@ -1,0 +1,149 @@
+<yml_catalog date="2020-11-22T14:37:38+03:00">
+	<shop>
+		<name>BestSeller</name>
+		<company>Tne Best inc.</company>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>		
+		<offers>
+			<offer id="6015573" available="true">
+	<url>https://www.mvideo.ru/products/6015573/</url>
+	<price>299.0</price>
+	<currencyId>RUB</currencyId>
+	<categoryId>16556</categoryId>
+	<picture>https://img.mvideo.ru/Pdb/6015573b.jpg</picture>
+	<typePrefix>Цифровая версия игры PC</typePrefix>
+	<model>Код PC Метро 2033</model>
+	<ios_url>mvideo://products/6015573</ios_url>
+	<android_url>mvideo://products/6015573</android_url>
+	<bundle_id>ru.filit.mvideo.b2c</bundle_id>
+	<ios_app_store_id>ru.fil-it.mvideo.b2c.mobappb2c</ios_app_store_id>
+	<ios_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.fil-it.mvideo.b2c.mobappb2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6015573]]>
+	</ios_tracking_url>
+	<android_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.filit.mvideo.b2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6015573]]>
+	</android_tracking_url>
+</offer>
+<offer id="20038744" available="true">
+	<url>https://www.mvideo.ru/products/20038744/</url>
+	<price>890.0</price>
+	<currencyId>RUB</currencyId>
+	<categoryId>16465</categoryId>
+	<picture>https://img.mvideo.ru/Pdb/20038744b.jpg</picture>
+	<typePrefix>Вентилятор настольный</typePrefix>
+	<vendor>Midea</vendor>
+	<model>Вентил. Midea MVFD1501</model>
+	<description>Настольный вентилятор Midea MVFD1501 обеспечит владельцу комфорт в городской квартире, загородном доме, на даче или в офисе. Он не занимает много места, работает с низким уровнем шума.&lt;br>&lt;br>КОМПАКТНОСТЬ И НЕБОЛЬШОЙ ВЕС&lt;br>Важными особенностями этой модели являются компактность и небольшой вес. Поэтому устройство можно установить там, где это удобно владельцу, а при необходимости – легко перенести с одного места на другое.&lt;br>&lt;br>ДВА СКОРОСТНЫХ РЕЖИМА&lt;br>Вентилятор может работать быстрее или медленнее. Благодаря этому владелец может выбрать оптимальный с его точки зрения режим работы.&lt;br>&lt;br>РЕГУЛИРОВКА НАКЛОНА&lt;br>Разработчики предусмотрели возможность регулировать наклон вентилятора. Это значит, что владелец может направить поток прохладного воздуха в нужном ему направлении – на себя или в сторону.&lt;br></description>
+	<ios_url>mvideo://products/20038744</ios_url>
+	<android_url>mvideo://products/20038744</android_url>
+	<bundle_id>ru.filit.mvideo.b2c</bundle_id>
+	<ios_app_store_id>ru.fil-it.mvideo.b2c.mobappb2c</ios_app_store_id>
+	<ios_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.fil-it.mvideo.b2c.mobappb2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F20038744]]>
+	</ios_tracking_url>
+	<android_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.filit.mvideo.b2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F20038744]]>
+	</android_tracking_url>
+</offer>
+<offer id="6014247" available="true">
+	<url>https://www.mvideo.ru/products/6014247/</url>
+	<price>995.0</price>
+	<currencyId>RUB</currencyId>
+	<categoryId>16556</categoryId>
+	<picture>https://img.mvideo.ru/Pdb/6014247b.jpg</picture>
+	<typePrefix>Цифровая версия игры PC</typePrefix>
+	<model>Код PC Train Simulator 2020</model>
+	<description>Если ты любишь поезда не меньше, чем Шелдон Купер из «Теории большого взрыва», то игра Train Simulator 2020 создана специально для тебя! В ней ты можешь сесть за пульт мощного локомотива и начать путешествие длиной в несколько тысяч километров. &lt;br>&lt;br>ТРИ УНИКАЛЬНЫЕ ЛОКАЦИИ&lt;br>Дорога из Нюрнберга в Регенсбург проходит через долину Дуная. На пути тебе встретятся живописные немецкие деревушки, отвесные ущелья, высокие горы и бурные потоки воды. Железнодорожные ветки Северной Каролины в США соединяют множество предприятий. Ландшафт здесь благоприятен для перевозок, но огромное количество заданий требует определённой сноровки. Южное побережье Британии – очень важная область. Её железнодорожные пути соединяют множество морских курортов, портов, заводов и электростанций. &lt;br>&lt;br>РАЗНЫЕ ВИДЫ ТЯГИ&lt;br>Любишь классику? Тогда прицепи вагоны к старинному паровозу с угольной топкой и вместительным тендером. Предпочитаешь универсальность? В твоём распоряжении дизельные локомотивы. А любителям хай-тека доступны ультрасовременные электровозы. &lt;br>&lt;br>ОБУЧЕНИЕ&lt;br>Академия Train Simulator позволяет узнать всё об управлении поездами. Ты научишься регулировать скорость, тормозить, распознавать сигналы семафоров, контролировать показания приборов, передавать оповещения по громкой связи и правильно отсчитывать время стоянки на станции. &lt;br></description>
+	<ios_url>mvideo://products/6014247</ios_url>
+	<android_url>mvideo://products/6014247</android_url>
+	<bundle_id>ru.filit.mvideo.b2c</bundle_id>
+	<ios_app_store_id>ru.fil-it.mvideo.b2c.mobappb2c</ios_app_store_id>
+	<ios_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.fil-it.mvideo.b2c.mobappb2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6014247]]>
+	</ios_tracking_url>
+	<android_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.filit.mvideo.b2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6014247]]>
+	</android_tracking_url>
+</offer>
+<offer id="6015578" available="true">
+	<url>https://www.mvideo.ru/products/6015578/</url>
+	<price>299.0</price>
+	<currencyId>RUB</currencyId>
+	<categoryId>16556</categoryId>
+	<picture>https://img.mvideo.ru/Pdb/6015578b.jpg</picture>
+	<typePrefix>Цифровая версия игры PC</typePrefix>
+	<model>Код PC Van Helsing 2. Смерти вопреки</model>
+	<ios_url>mvideo://products/6015578</ios_url>
+	<android_url>mvideo://products/6015578</android_url>
+	<bundle_id>ru.filit.mvideo.b2c</bundle_id>
+	<ios_app_store_id>ru.fil-it.mvideo.b2c.mobappb2c</ios_app_store_id>
+	<ios_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.fil-it.mvideo.b2c.mobappb2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6015578]]>
+	</ios_tracking_url>
+	<android_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.filit.mvideo.b2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6015578]]>
+	</android_tracking_url>
+</offer>
+<offer id="6014248" available="true">
+	<url>https://www.mvideo.ru/products/6014248/</url>
+	<price>360.0</price>
+	<currencyId>RUB</currencyId>
+	<categoryId>16556</categoryId>
+	<picture>https://img.mvideo.ru/Pdb/6014248b.jpg</picture>
+	<typePrefix>Цифровая версия игры PC</typePrefix>
+	<model>Код PC Cyber Hook</model>
+	<description>Cyber Hook – трёхмерный платформер, в котором тебе предстоит бросить вызов законам физики. Твоя задача – как можно быстрее преодолеть более 70 уровней, состоящих из подвешенных в воздухе блоков. Твоё главное оружие – лазерный крюк, которым можно цепляться за разные предметы, уничтожать хрупкие детали и устранять врагов. &lt;br>&lt;br>РАЗНЫЕ УРОВНИ СЛОЖНОСТИ&lt;br>Выбирай подходящую скорость движения, чтобы успевать ориентироваться в трёхмерном пространстве. Проходи игру снова, чтобы улучшать свои позиции в глобальном онлайн-рейтинге. &lt;br>&lt;br>УНИКАЛЬНЫЙ СТИЛЬ&lt;br>Платформер оформлен в духе ретровейва – в нём есть отсылки к культовым фильмам и играм 1970–80-х. Пространство в нём переливается яркими неоновыми огнями и сумеречным светом. &lt;br></description>
+	<ios_url>mvideo://products/6014248</ios_url>
+	<android_url>mvideo://products/6014248</android_url>
+	<bundle_id>ru.filit.mvideo.b2c</bundle_id>
+	<ios_app_store_id>ru.fil-it.mvideo.b2c.mobappb2c</ios_app_store_id>
+	<ios_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.fil-it.mvideo.b2c.mobappb2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6014248]]>
+	</ios_tracking_url>
+	<android_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.filit.mvideo.b2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6014248]]>
+	</android_tracking_url>
+</offer>
+<offer id="6015579" available="true">
+	<url>https://www.mvideo.ru/products/6015579/</url>
+	<price>435.0</price>
+	<currencyId>RUB</currencyId>
+	<categoryId>16556</categoryId>
+	<picture>https://img.mvideo.ru/Pdb/6015579b.jpg</picture>
+	<typePrefix>Цифровая версия игры PC</typePrefix>
+	<model>Код PC Stellaris: Nemesis (Предзаказ)</model>
+	<ios_url>mvideo://products/6015579</ios_url>
+	<android_url>mvideo://products/6015579</android_url>
+	<bundle_id>ru.filit.mvideo.b2c</bundle_id>
+	<ios_app_store_id>ru.fil-it.mvideo.b2c.mobappb2c</ios_app_store_id>
+	<ios_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.fil-it.mvideo.b2c.mobappb2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6015579]]>
+	</ios_tracking_url>
+	<android_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.filit.mvideo.b2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6015579]]>
+	</android_tracking_url>
+</offer>
+<offer id="6014249" available="true">
+	<url>https://www.mvideo.ru/products/6014249/</url>
+	<price>980.0</price>
+	<currencyId>RUB</currencyId>
+	<categoryId>16556</categoryId>
+	<picture>https://img.mvideo.ru/Pdb/6014249b.jpg</picture>
+	<typePrefix>Цифровая версия игры PC</typePrefix>
+	<model>Kod PC Aces Luftwaffe Nebelgeschwader</model>
+	<description>Игра Aces of the Luftwaffe Squadron Nebelgeschwader рассказывает альтернативную историю. Сразу после вступления США в войну группа немецких пилотов отправляется в район Бермудского треугольника, чтобы уничтожить секретную базу противника. На пути к цели они сталкиваются с ожесточённым сопротивлением и даже с предательством в своих рядах. &lt;br>&lt;br>УРАГАННАЯ ДИНАМИКА&lt;br>Игра представляет собой классический скроллер, в котором тебе нужно перемещать самолёт, вести огонь из разных видов оружия и вовремя активировать особые способности. Тебе противостоят тысячи противников – юркие истребители, мощные бомбардировщики, полчища роботов, наземные станции ПВО и даже мистические потусторонние создания. &lt;br>&lt;br>КООПЕРАТИВНОЕ ПРОХОЖДЕНИЕ&lt;br>Приглашай друзей, чтобы выполнять смертельно опасные задания вместе. Но помни, что сложность игры увеличивается пропорционально!&lt;br></description>
+	<ios_url>mvideo://products/6014249</ios_url>
+	<android_url>mvideo://products/6014249</android_url>
+	<bundle_id>ru.filit.mvideo.b2c</bundle_id>
+	<ios_app_store_id>ru.fil-it.mvideo.b2c.mobappb2c</ios_app_store_id>
+	<ios_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.fil-it.mvideo.b2c.mobappb2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6014249]]>
+	</ios_tracking_url>
+	<android_tracking_url>
+		<![CDATA[https://app.appsflyer.com/ru.filit.mvideo.b2c?&pid=mail.ru_int&is_retargeting=true&af_dp=mvideo%3A%2F%2Fproducts%2F6014249]]>
+	</android_tracking_url>
+</offer>
+		</offers>
+	</shop>
+</yml_catalog>

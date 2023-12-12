@@ -17,7 +17,58 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:size>Без размера</g:size>
-      <g:gender>unisex</g:gender>
+      <g:gender>детский</g:gender>
+      <g:age_group>adult</g:age_group>    
+     <g:rating>5.1</g:rating>
+    </item>
+     <item>
+      <g:brand>VauDe</g:brand>
+      <g:item_group_id>22820640300</g:item_group_id>
+      <g:id>2</g:id>
+      <g:price>18199 RUB</g:price>
+      <g:title> РЮКЗАК VAUDE</g:title>
+      <g:image_link>https://rinatr.github.io/feeds/orange-600x600.jpg</g:image_link>      
+      <g:link>https://www.sportmaster.ru/product/22820640299/</g:link>
+      <g:product_type>Аксессуары > Рюкзаки и сумки > Рюкзаки</g:product_type>      
+      <g:color>Серый</g:color>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:size>Без размера</g:size>
+      <g:gender>Детский</g:gender>
+      <g:age_group>adult</g:age_group>    
+     <g:rating>5.1</g:rating>
+    </item>
+     <item>
+      <g:brand>VauDe</g:brand>
+      <g:item_group_id>22820640300</g:item_group_id>
+      <g:id>3</g:id>
+      <g:price>18199 RUB</g:price>
+      <g:title> РЮКЗАК VAUDE</g:title>
+      <g:image_link>https://rinatr.github.io/feeds/orange-600x600.jpg</g:image_link>      
+      <g:link>https://www.sportmaster.ru/product/22820640299/</g:link>
+      <g:product_type>Аксессуары > Рюкзаки и сумки > Рюкзаки</g:product_type>      
+      <g:color>Серый</g:color>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:size>Без размера</g:size>
+      <g:gender>ДЕТСКИЙ</g:gender>
+      <g:age_group>adult</g:age_group>    
+     <g:rating>5.1</g:rating>
+    </item>
+     <item>
+      <g:brand>VauDe</g:brand>
+      <g:item_group_id>22820640300</g:item_group_id>
+      <g:id>4</g:id>
+      <g:price>18199 RUB</g:price>
+      <g:title> РЮКЗАК VAUDE</g:title>
+      <g:image_link>https://rinatr.github.io/feeds/orange-600x600.jpg</g:image_link>      
+      <g:link>https://www.sportmaster.ru/product/22820640299/</g:link>
+      <g:product_type>Аксессуары > Рюкзаки и сумки > Рюкзаки</g:product_type>      
+      <g:color>Серый</g:color>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:size>Без размера</g:size>
+      <g:gender>дЕтСкИй</g:gender>
       <g:age_group>adult</g:age_group>    
      <g:rating>5.1</g:rating>
     </item>

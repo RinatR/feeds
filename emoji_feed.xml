@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-04-04 14:10">
+    <shop>
+        <name>Tmall | AliExpress</name>
+        <company>ООО АЛИБАБА.КОМ (РУ)</company>
+        <url>https://tmall.aliexpress.com/</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <offers>
+                    <offer available="true" id="8284601">
+<name>🐈‍⬛ 🐈‍⬛ 🌒 </name>
+<url>https://vk.com/market-211777178?w=product-211777178_8284601</url>
+<price>500</price>
+<currencyId>RUB</currencyId>
+<vkCategory>30247</vkCategory>
+<weight>1.0</weight>
+<dimensions>20.0/20.0/20.0</dimensions>
+<ae_stock>5</ae_stock>
+<description>
+<![CDATA[ Нежные счастливые котики сидят на тающей луне и мечтают. Елочная игрушка из эпоксидной смолы. Диаметр 15 см. Отправляется в подарочной упаковке. ]]>
+</description>
+<picture>https://sun1-28.userapi.com/impg/qziMIHby4zCFJccEFlVa7Ygyn02TAT4GffPtKg/AxDeUplMypc.jpg?crop=0,0.125,1,0.75&size=1000x0&quality=95&sign=a99b0f1627b9d3b1532df524c92aae5e</picture>
+<categoryId>2</categoryId>
+</offer>
+                   <offer available="true" id="8284601">
+<name>🐈‍⬛ 🐈‍⬛ 🌒 </name>
+<url>https://vk.com/market-211777178?w=product-211777178_8284601</url>
+<price>500</price>
+<currencyId>RUB</currencyId>
+<vkCategory>30247</vkCategory>
+<weight>1.0</weight>
+<dimensions>20.0/20.0/20.0</dimensions>
+<ae_stock>5</ae_stock>
+<description>
+<![CDATA[ Нежные счастливые котики сидят на тающей луне и мечтают. Елочная игрушка из эпоксидной смолы. Диаметр 15 см. Отправляется в подарочной упаковке. ]]>
+</description>
+<picture>https://sun1-28.userapi.com/impg/qziMIHby4zCFJccEFlVa7Ygyn02TAT4GffPtKg/AxDeUplMypc.jpg?crop=0,0.125,1,0.75&size=1000x0&quality=95&sign=a99b0f1627b9d3b1532df524c92aae5e</picture>
+<categoryId>2</categoryId>
+</offer>
+        </offers>
+    </shop>

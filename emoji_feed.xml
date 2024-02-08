@@ -9,7 +9,10 @@
         </currencies>
         <offers>
                     <offer available="true" id="1">
-<name>🐈‍⬛ 🐈‍⬛ 🌒 </name>
+
+                        <model>🐈‍⬛ 🐈‍⬛ 🌒 </model>
+                        <vendor>🐈‍⬛ 🐈‍⬛ 🌒 </vendor>
+                        <typePrefix>🐈‍⬛ 🐈‍⬛ 🌒 </typePrefix>
 <url>https://vk.com/market-211777178?w=product-211777178_8284601</url>
 <price>1</price>
 <currencyId>RUB</currencyId>

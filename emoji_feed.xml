@@ -8,36 +8,22 @@
             <currency id="RUB" rate="1"/>
         </currencies>
         <offers>
-                    <offer available="true" id="8284601">
-<name>🐈‍⬛ 🐈‍⬛ 🌒 </name>
+                    <offer available="true" id=" ">
+<name> </name>
 <url>https://vk.com/market-211777178?w=product-211777178_8284601</url>
-<price>500</price>
-<currencyId>RUB</currencyId>
+<price> </price>
+<currencyId> </currencyId>
 <vkCategory>30247</vkCategory>
 <weight>1.0</weight>
 <dimensions>20.0/20.0/20.0</dimensions>
 <ae_stock>5</ae_stock>
 <description>
-<![CDATA[ Нежные счастливые котики сидят на тающей луне и мечтают. Елочная игрушка из эпоксидной смолы. Диаметр 15 см. Отправляется в подарочной упаковке. ]]>
+
 </description>
 <picture>https://sun1-28.userapi.com/impg/qziMIHby4zCFJccEFlVa7Ygyn02TAT4GffPtKg/AxDeUplMypc.jpg</picture>
-<categoryId>2</categoryId>
+<categoryId> </categoryId>
 </offer>
-                   <offer available="true" id="8284602">
-<name>🐈‍⬛🐈‍⬛🌒</name>
-<url>https://vk.com/market-211777178?w=product-211777178_8284601</url>
-<price>500</price>
-<currencyId>RUB</currencyId>
-<vkCategory>30247</vkCategory>
-<weight>1.0</weight>
-<dimensions>20.0/20.0/20.0</dimensions>
-<ae_stock>5</ae_stock>
-<description>
-<![CDATA[ Нежные счастливые котики сидят на тающей луне и мечтают. Елочная игрушка из эпоксидной смолы. Диаметр 15 см. Отправляется в подарочной упаковке. ]]>
-</description>
-<picture>https://sun1-28.userapi.com/impg/qziMIHby4zCFJccEFlVa7Ygyn02TAT4GffPtKg/AxDeUplMypc.jpg</picture>
-<categoryId>2</categoryId>
-</offer>
+                   
         </offers>
     </shop>
  </yml_catalog>

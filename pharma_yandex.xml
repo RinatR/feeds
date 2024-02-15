@@ -1,1 +1,54 @@
-
+<yml_catalog date="2024-02-15T15:01:19+03:00">
+<shop>
+<name>Изумруд</name>
+<company>ООО "Изумруд"</company>
+<url>https://izumrud-24.ru</url>
+<platform>BSM/Yandex/Market</platform>
+<version>2.8.6</version>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="945">Кольца</category>
+<category id="946" parentId="945">Золотые кольца</category>
+<category id="1283" parentId="946">Печатки</category>
+<category id="1046">Цепи</category>
+<category id="1047" parentId="1046">Золотые цепи</category>
+<category id="1050" parentId="1047">Цепочки из красного золота</category>
+<category id="1080">Браслеты</category>
+<category id="1081" parentId="1080">Золотые браслеты</category>
+<category id="1084" parentId="1081">Золотые браслеты с плетением Бисмарк</category>
+<category id="1087" parentId="1081">Золотые браслеты с плетением Нонна</category>
+</categories>
+<enable_auto_discounts>true</enable_auto_discounts>
+<offers>
+<offer id="5543474" available="true" group_id="5542213">
+<url>https://izumrud-24.ru/catalog/koltsa/zolotye_koltsa/pechatki/pechatka_iz_zolota_s_oniksom_2/</url>
+<price>38970</price>
+<currencyId>RUR</currencyId>
+<categoryId>1283</categoryId>
+<picture>https://izumrud-24.ru/upload/iblock/510/d5ze4b6nxbouwsas84q0jb8tjg0utnfz.png</picture>
+<name>Печатка из золота с ониксом</name>
+<pharma_reg_number>П N012507/01</pharma_reg_number>
+</offer>
+<offer id="5543475" available="true" group_id="5542213">
+<url>https://izumrud-24.ru/catalog/koltsa/zolotye_koltsa/pechatki/pechatka_iz_zolota_s_oniksom_2/</url>
+<price>37980</price>
+<currencyId>RUR</currencyId>
+<categoryId>1283</categoryId>
+<picture>https://izumrud-24.ru/upload/iblock/510/d5ze4b6nxbouwsas84q0jb8tjg0utnfz.png</picture>
+<name>Печатка из золота с ониксом</name>
+<pharma_reg_number>П N012507/01</pharma_reg_number>
+</offer>
+<offer id="5544167" available="true" group_id="5542390">
+<url>https://izumrud-24.ru/catalog/koltsa/zolotye_koltsa/pechatki/pechatka_iz_zolota_s_oniksom_5/</url>
+<price>48240</price>
+<currencyId>RUR</currencyId>
+<categoryId>1283</categoryId>
+<picture>https://izumrud-24.ru/upload/iblock/99f/dsxv863vwqw0cpdclssjnp7or87zfpgz.png</picture>
+<name>Печатка из золота с ониксом</name>
+<pharma_reg_number>П N012507/01</pharma_reg_number>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

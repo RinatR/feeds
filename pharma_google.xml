@@ -1,0 +1,43 @@
+<rss
+	xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>VK feed</title>
+		<link>https://sdelanovsibiri.com</link>
+		<item>
+			<g:link>https://sdelanovsibiri.com/categories/nabory/trevel_nabor_dlya_litsa_dlya_sukhoy_normalnoy_i_chuvstvitelnoy_kozhi/</g:link>
+			<g:price>2280.00 RUB</g:price>
+			<g:id>1803</g:id>
+			<g:title>Тревел набор для лица: для сухой, нормальной и чувствительной кожи</g:title>
+			<g:image_link>https://sdelanovsibiri.com/upload/iblock/4bc/rtb1xy7f8ac19yjnxslruf37jbdluvtz.webp</g:image_link>			
+			<g:brand>LeNeL</g:brand>
+			<g:product_type>Главная > Наборы</g:product_type>
+			<g:availability>in stock</g:availability>
+			<g:condition>new</g:condition>
+      <g:pharma_reg_number>ЛП-006933d3333</g:pharma_reg_number>
+		</item>
+		<item>
+			<g:link>https://sdelanovsibiri.com/categories/nabory/trevel-nabor-dlya-lica-dlya-zhirnoi-i-kombinirovannoi-kozhi/</g:link>
+			<g:price>2080.00 RUB</g:price>
+			<g:id>1804</g:id>
+			<g:title>Тревел набор для лица: для жирной и комбинированной кожи</g:title>
+			<g:image_link>https://sdelanovsibiri.com/upload/iblock/8db/qa1a5hhdr9ket9zaenvgntb5yzmixk7r.webp</g:image_link>			
+			<g:brand>LeNeL</g:brand>
+			<g:product_type>Главная > Наборы</g:product_type>
+			<g:availability>in stock</g:availability>
+			<g:condition>new</g:condition>
+      <g:pharma_reg_number>ЛП-006933d3333</g:pharma_reg_number>
+		</item>
+		<item>
+			<g:link>https://sdelanovsibiri.com/categories/lico/ochishchenie-i-tonizirovanie/gidropat-lavandy/</g:link>
+			<g:price>660.00 RUB</g:price>
+			<g:id>1805</g:id>
+			<g:title>Гидролат лаванды</g:title>
+			<g:image_link>https://sdelanovsibiri.com/upload/iblock/f50/hmm7e849remqvyao40zft0m0dq1twthr.webp</g:image_link>			
+			<g:brand>LeNeL</g:brand>
+			<g:product_type>Главная > Лицо > Очищение и тонизирование</g:product_type>
+			<g:availability>in stock</g:availability>
+			<g:condition>new</g:condition>
+      <g:pharma_reg_number>ЛП-006933d3333</g:pharma_reg_number>
+		</item>
+	</channel>
+</rss>

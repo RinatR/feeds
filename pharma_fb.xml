@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+
+<title><![CDATA[Ekipland Google Merchant]]></title>
+<link rel="self" href="https://ekipland.ru/"/>
+<updated>2024-02-16T15:33:53Z</updated>
+<entry>
+<g:id>23</g:id>
+<g:title><![CDATA[Верхнее термобельё Norfin Cosy Line]]></g:title>
+<g:link><![CDATA[https://ekipland.ru/muzhskoe-termobele/23-verkhnee-termobelyo-norfin-cosy-line.html]]></g:link>
+<g:image_link><![CDATA[https://ekipland.ru/47474-large_default/verkhnee-termobelyo-norfin-cosy-line.jpg]]></g:image_link>
+<g:price>3145.00 RUB</g:price>
+<g:availability>in stock</g:availability>
+<g:google_product_category><![CDATA[Спортивные товары > Товары для отдыха на открытом воздухе]]></g:google_product_category>
+<g:product_type><![CDATA[Для рыбалки > Термобелье > Мужское термобелье]]></g:product_type>
+<g:brand><![CDATA[NORFIN]]></g:brand>
+<pharma_reg_number>П N012507/01</pharma_reg_number>
+</entry>
+
+<entry>
+<g:id>272</g:id>
+<g:title><![CDATA[Термобельё Norfin Winter Line Gray]]></g:title>
+<g:link><![CDATA[https://ekipland.ru/muzhskoe-termobele/272-termobelyo-norfin-winter-line-gray.html]]></g:link>
+<g:image_link><![CDATA[https://ekipland.ru/50292-large_default/termobelyo-norfin-winter-line-gray.jpg]]></g:image_link>
+<g:price>3225.00 RUB</g:price>
+<g:availability>in stock</g:availability>
+<g:google_product_category><![CDATA[Спортивные товары > Товары для отдыха на открытом воздухе]]></g:google_product_category>
+<g:product_type><![CDATA[Для рыбалки > Термобелье > Мужское термобелье]]></g:product_type>
+<g:brand><![CDATA[NORFIN]]></g:brand>
+<pharma_reg_number>П N012507/01</pharma_reg_number>
+</entry>
+
+<entry>
+<g:id>303</g:id>
+<g:title><![CDATA[Универсальное термобельё Norfin Nord]]></g:title>
+<g:link><![CDATA[https://ekipland.ru/muzhskoe-termobele/303-universalnoe-termobelyo-norfin-nord.html]]></g:link>
+<g:image_link><![CDATA[https://ekipland.ru/47550-large_default/universalnoe-termobelyo-norfin-nord.jpg]]></g:image_link>
+<g:price>3585.00 RUB</g:price>
+<g:availability>in stock</g:availability>
+<g:google_product_category><![CDATA[Спортивные товары > Товары для отдыха на открытом воздухе]]></g:google_product_category>
+<g:product_type><![CDATA[Для рыбалки > Термобелье > Мужское термобелье]]></g:product_type>
+<g:brand><![CDATA[NORFIN]]></g:brand>
+<pharma_reg_number>П N012507/01</pharma_reg_number>
+</entry>
+</feed>

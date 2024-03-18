@@ -55,6 +55,8 @@
 <param name='Пол'>Мужской</param>
 <bundle_id>ru.superstep.android</bundle_id>
 <ios_app_store_id>1620157080</ios_app_store_id>
+<ios_url> superstep://today/search/eyJ0aXRsZSI6ItCd0L7QstC40L3QutC4In0%3D </ios_url>
+<android_url> superstep://today/search/eyJ0aXRsZSI6ItCd0L7QstC40L3QutC4In0%3D </android_url>
 <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/172199548804978548?c={{campaign_id}}&amp;campaign_name={{campaign_name}}&amp;gender={{gender}}&amp;click_id={clickid}&amp;banner_id={{banner_id}}&amp;pid=mail.ru_int&amp;age={{age}}</ios_tracking_url>
 <android_tracking_url>https://redirect.appmetrica.yandex.com/serve/748660301058089724?c={{campaign_id}}&amp;campaign_name={{campaign_name}}&amp;gender={{gender}}&amp;click_id={clickid}&amp;banner_id={{banner_id}}&amp;pid=mail.ru_int&amp;age={{age}}</android_tracking_url>
 </offer>
@@ -77,6 +79,8 @@
 <param name='Пол'>Мужской</param>
 <bundle_id>ru.superstep.android</bundle_id>
 <ios_app_store_id>1620157080</ios_app_store_id>
+<ios_url> superstep://today/search/eyJ0aXRsZSI6ItCd0L7QstC40L3QutC4In0%3D </ios_url>
+<android_url> superstep://today/search/eyJ0aXRsZSI6ItCd0L7QstC40L3QutC4In0%3D </android_url>
 <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/172199548804978548?c={{campaign_id}}&amp;campaign_name={{campaign_name}}&amp;gender={{gender}}&amp;click_id={clickid}&amp;banner_id={{banner_id}}&amp;pid=mail.ru_int&amp;age={{age}}</ios_tracking_url>
 <android_tracking_url>https://redirect.appmetrica.yandex.com/serve/748660301058089724?c={{campaign_id}}&amp;campaign_name={{campaign_name}}&amp;gender={{gender}}&amp;click_id={clickid}&amp;banner_id={{banner_id}}&amp;pid=mail.ru_int&amp;age={{age}}</android_tracking_url>
 </offer>
@@ -99,6 +103,8 @@
 <param name='Пол'>Мужской</param>
 <bundle_id>ru.superstep.android</bundle_id>
 <ios_app_store_id>1620157080</ios_app_store_id>
+<ios_url> superstep://today/search/eyJ0aXRsZSI6ItCd0L7QstC40L3QutC4In0%3D </ios_url>
+<android_url> superstep://today/search/eyJ0aXRsZSI6ItCd0L7QstC40L3QutC4In0%3D </android_url>
 <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/172199548804978548?c={{campaign_id}}&amp;campaign_name={{campaign_name}}&amp;gender={{gender}}&amp;click_id={clickid}&amp;banner_id={{banner_id}}&amp;pid=mail.ru_int&amp;age={{age}}</ios_tracking_url>
 <android_tracking_url>https://redirect.appmetrica.yandex.com/serve/748660301058089724?c={{campaign_id}}&amp;campaign_name={{campaign_name}}&amp;gender={{gender}}&amp;click_id={clickid}&amp;banner_id={{banner_id}}&amp;pid=mail.ru_int&amp;age={{age}}</android_tracking_url>
 </offer>

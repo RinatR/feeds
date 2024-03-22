@@ -871,7 +871,7 @@
 				<param name="drug_type">ОТС</param>
 			</offer>
 			<offer available="true" id="101416" type="medicine">
-				<pharma_reg_number>ЛП-№(000879)-(РГ-RU)</pharma_reg_number>
+				<pharma_reg_number>ЛП-№(002128)-(РГ-RU)</pharma_reg_number>
 				<barcode>4606257000235</barcode>
 				<param name="BrandName">Полисорб</param>
 				<url>https://www.eapteka.ru/spb/goods/id101416/?utm_campaign=3975&amp;utm_content=3817&amp;utm_term=101416&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
@@ -893,7 +893,7 @@
 				<param name="drug_type">ОТС</param>
 			</offer>
 				<offer available="true" id="101416" type="medicine">
-				<pharma_reg_number>ЛП-№(000000)-(РГ-RU)</pharma_reg_number>
+				<pharma_reg_number>ЛП-№(002128)-(РГ-RU)</pharma_reg_number>
 				<barcode>4606257000235</barcode>
 				<param name="BrandName">Полисорб</param>
 				<url>https://www.eapteka.ru/spb/goods/id101416/?utm_campaign=3975&amp;utm_content=3817&amp;utm_term=101416&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>

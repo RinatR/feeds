@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-03-12 10:06">
+    <shop>
+        <name>Аптеки Столички</name>
+        <company>Сеть социальных аптек &quot;Столички&quot;</company>
+        <url>https://stolichki.ru/</url>
+        <agency>«Регистратура.Ру»</agency>
+        <email>vlasova@neo-pharm.ru</email>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="13452" parentId="18311">Лечебно-профилактическое белье</category>
+            <category id="14584" parentId="18217">Оптика</category>
+            <category id="18209">АССОРТИМЕНТ</category>
+            <category id="18210">ЛЕКАРСТВЕННЫЕ СРЕДСТВА</category>
+            <category id="18211">МЕДИЦИНСКАЯ ТЕХНИКА</category>
+            <category id="18212" parentId="18210">Средства для лечения простуды и заболеваний ЛОР-органов</category>
+            <category id="18213" parentId="18210">Средства для лечения заболеваний сердечно-сосудистой системы</category>
+            <category id="18214">ЛЕЧЕБНАЯ КОСМЕТИКА</category>
+            <category id="18215">КОСМЕТИКА И ГИГИЕНА</category>
+            <category id="18216">МАМА И МАЛЫШ</category>
+            <category id="18217">ТОВАРЫ ДЛЯ ЗДОРОВЬЯ</category>
+            <category id="18218" parentId="18496">Косметические средства для лица</category>
+            <category id="18219" parentId="18215">Средства для ухода за телом</category>
+            <category id="18222" parentId="18215">Средства для ухода за волосами</category>
+            <category id="18223" parentId="18215">Средства для ухода за полостью рта</category>
+            <category id="18224" parentId="18215">Женская гигиена</category>
+            <category id="18225" parentId="18215">Мужская гигиена</category>
+            <category id="18227" parentId="18215">Репелленты</category>
+            <category id="18228" parentId="18215">Ватно-бумажная продукция</category>
+            <category id="18229" parentId="18211">Тонометры</category>
+            <category id="18230" parentId="18211">Термометры</category>
+            <category id="18232" parentId="18211">Ингаляторы</category>
+            <category id="18233" parentId="18211">Весы</category>
+            <category id="18235" parentId="18214">Уход за лицом</category>
+            <category id="18236" parentId="18214">Уход за телом</category>
+            <category id="18237" parentId="18214">Уход за волосами</category>
+            <category id="18238" parentId="18215">Средства для безопасного загара</category>
+            <category id="18239" parentId="18235">Очищение лица</category>
+            <category id="18240" parentId="18235">Увлажнение лица</category>
+            <category id="18241" parentId="18235">Проблемная кожа</category>
+            <category id="18242" parentId="18235">Чувствительная кожа</category>
+            <category id="18243" parentId="18235">Первые признаки старения</category>
+            <category id="18244" parentId="18235">Антивозрастные средства</category>
+            <category id="18245" parentId="18236">Очищение тела</category>
+            <category id="18246" parentId="18236">Увлажнение тела</category>
+            <category id="18247" parentId="18236">Уход за руками и ногтями</category>
+            <category id="18248" parentId="18236">Антицеллюлитные и моделирующие средства</category>
+            <category id="18249" parentId="18236">Средства от растяжек</category>
+            <category id="18250" parentId="18236">Дезодоранты</category>
+            <category id="18251" parentId="18238">Средства для загара</category>
+            <category id="18252" parentId="18238">Средства после загара</category>
+            <category id="18253" parentId="18238">Солнцезащитные средства</category>
+            <category id="18254" parentId="18219">Гели для душа, скрабы</category>
+            <category id="18255" parentId="18219">Мыло</category>
+            <category id="18256" parentId="18219">Мочалки</category>
+            <category id="18257" parentId="18219">Средства для депиляции</category>
+            <category id="18258" parentId="18219">Дезодоранты</category>
+            <category id="18259" parentId="18219">Пена, соль для ванны</category>
+            <category id="18262" parentId="18219">Средства для ухода за руками</category>
+            <category id="18263" parentId="18219">Средства для ухода за ногами</category>
+            <category id="18264" parentId="18219">Средства для ухода за ногтями</category>
+            <category id="18265" parentId="18222">Средства для ухода</category>
+            <category id="18266" parentId="18222">Средства для укладки</category>
+            <category id="18267" parentId="18222">Средства от перхоти</category>
+            <category id="18268" parentId="18222">Средства для роста и против выпадения волос</category>
+            <category id="18269" parentId="18222">Аксессуары</category>
+            <category id="18270" parentId="18223">Зубные щетки</category>
+            <category id="18271" parentId="18223">Зубные щетки для детей</category>
+            <category id="18272" parentId="18223">Зубные пасты</category>
+            <category id="18273" parentId="18223">Ополаскиватели для полости рта</category>
+            <category id="18274" parentId="18223">Освежители для полости рта</category>
+            <category id="18275" parentId="18223">Зубные нити и ершики</category>
+            <category id="18276" parentId="18223">Средства для ухода за зубными протезами</category>
+            <category id="18277" parentId="18224">Прокладки гигиенические</category>
+            <category id="18278" parentId="18224">Прокладки ежедневные</category>
+            <category id="18279" parentId="18224">Тампоны</category>
+            <category id="18280" parentId="18224">Средства для интимной гигиены</category>
+            <category id="18281" parentId="18225">Принадлежности для бритья</category>
+            <category id="18282" parentId="18225">Средства для бритья</category>
+            <category id="18283" parentId="18225">Средства после бритья</category>
+            <category id="18284" parentId="18214">Солнечная серия</category>
+            <category id="18285" parentId="18227">Защита от насекомых для детей</category>
+            <category id="18286" parentId="18227">Защита от насекомых для взрослых</category>
+            <category id="18287" parentId="18228">Ватные палочки</category>
+            <category id="18288" parentId="18228">Ватные диски, шарики</category>
+            <category id="18289" parentId="18228">Влажные салфетки</category>
+            <category id="18290" parentId="18228">Туалетная бумага</category>
+            <category id="18291" parentId="18228">Платочки бумажные</category>
+            <category id="18292" parentId="18216">Косметические средства для мамы</category>
+            <category id="18293" parentId="18216">Гигиена для мамы</category>
+            <category id="18294" parentId="18216">Косметические средства для малыша</category>
+            <category id="18295" parentId="18216">Гигиена для малыша</category>
+            <category id="18298" parentId="18295">Подгузники</category>
+            <category id="18299" parentId="18295">Трусики</category>
+            <category id="18300" parentId="18295">Салфетки влажные</category>
+            <category id="18301" parentId="18295">Пеленки, клеенки для детей</category>
+            <category id="18302" parentId="18216">Принадлежности для кормления малыша</category>
+            <category id="18306" parentId="18302">Соски и пустышки</category>
+            <category id="18308" parentId="18216">Игрушки, прорезыватели</category>
+            <category id="18309">БИОЛОГИЧЕСКИ АКТИВНЫЕ ДОБАВКИ</category>
+            <category id="18310" parentId="18217">Наружные лечебно-профилактические средства</category>
+            <category id="18311" parentId="18217">Изделия медицинского назначения</category>
+            <category id="18312" parentId="18311">Перевязочные средства</category>
+            <category id="18315" parentId="18311">Уход за больными</category>
+            <category id="18316" parentId="18315">Подгузники для взрослых</category>
+            <category id="18317" parentId="18315">Трусики для взрослых</category>
+            <category id="18318" parentId="18315">Урологические прокладки</category>
+            <category id="18319" parentId="18315">Пеленки, клеенки для взрослых</category>
+            <category id="18320" parentId="18315">Средства для ухода за больными</category>
+            <category id="18321" parentId="18217">Здоровое питание и напитки</category>
+            <category id="18322" parentId="18321">Напитки</category>
+            <category id="18323" parentId="18321">Гематоген</category>
+            <category id="18324" parentId="18321">Мюсли, батончики</category>
+            <category id="18325" parentId="18321">Леденцы, мармелад</category>
+            <category id="18326" parentId="18321">Жевательные резинки</category>
+            <category id="18327" parentId="18321">Заменители сахара</category>
+            <category id="18328" parentId="18321">Минеральная вода</category>
+            <category id="18329">ПЛАНИРОВАНИЕ СЕМЬИ</category>
+            <category id="18330" parentId="18329">Презервативы</category>
+            <category id="18331" parentId="18329">Лубриканты</category>
+            <category id="18332" parentId="18329">Тесты</category>
+            <category id="18335" parentId="18309">Фиточаи</category>
+            <category id="18336" parentId="18295">Ватная продукция для детей</category>
+            <category id="18337" parentId="18210">Противовирусные средства</category>
+            <category id="18338" parentId="18210">Средства для лечения заболеваний желудочно-кишечного тракта</category>
+            <category id="18339" parentId="18210">Витамины и минералы</category>
+            <category id="18340" parentId="18210">Средства для лечения заболеваний нервной системы</category>
+            <category id="18341" parentId="18210">Гомеопатические средства</category>
+            <category id="18342" parentId="18210">Антибактериальные и противомикробные средства</category>
+            <category id="18344" parentId="18338">Средства для лечения заболеваний желудка и двенадцатиперстной кишки</category>
+            <category id="18345" parentId="18338">Средства для восстановления кишечной микрофлоры</category>
+            <category id="18346" parentId="18338">Противодиарейные средства</category>
+            <category id="18347" parentId="18338">Слабительные средства</category>
+            <category id="18348" parentId="18338">Средства для лечения заболеваний печени и желчевыводящих путей</category>
+            <category id="18349" parentId="18338">Ферменты</category>
+            <category id="18350" parentId="18338">Энтеросорбенты</category>
+            <category id="18351" parentId="18210">Гормональные средства и их антагонисты</category>
+            <category id="18352" parentId="18210">Средства для лечения варикозного расширения вен и геморроя</category>
+            <category id="18353" parentId="18210">Средства для лечения заболеваний опорно-двигательного аппарата</category>
+            <category id="18357" parentId="18210">Лекарственные травы и сборы</category>
+            <category id="18358" parentId="18210">Иммуномодуляторы</category>
+            <category id="18359" parentId="18210">Обезболивающие, жаропонижающие, противовоспалительные и спазмолитические средства</category>
+            <category id="18360" parentId="18210">Противогрибковые средства</category>
+            <category id="18363" parentId="18210">Офтальмологические средства</category>
+            <category id="18364" parentId="18210">Средства для лечения заболеваний уха</category>
+            <category id="18365" parentId="18210">Противоопухолевые средства</category>
+            <category id="18366" parentId="18210">Противодиабетические средства</category>
+            <category id="18367" parentId="18210">Средства для лечения бронхиальной астмы</category>
+            <category id="18368" parentId="18210">Противоаллергические средства</category>
+            <category id="18369" parentId="18210">Дерматологические средства</category>
+            <category id="18370" parentId="18369">Антибактериальные и антисептические средства для наружного применения</category>
+            <category id="18372" parentId="18369">Гормональные средства для наружного применения</category>
+            <category id="18373" parentId="18369">Ранозаживляющие и регенерирующие средства</category>
+            <category id="18374" parentId="18369">Средства для лечения угревой сыпи</category>
+            <category id="18377" parentId="18210">Средства для лечения заболеваний мочеполовой системы</category>
+            <category id="18378" parentId="18377">Мочегонные средства</category>
+            <category id="18379" parentId="18377">Средства для лечения заболеваний почек и мочевого пузыря</category>
+            <category id="18380" parentId="18377">Средства для лечения заболеваний предстательной железы</category>
+            <category id="18381" parentId="18377">Средства для лечения эректильной дисфункции</category>
+            <category id="18382" parentId="18210">Средства для парентерального и энтерального питания</category>
+            <category id="18383" parentId="18210">Противопаразитарные средства</category>
+            <category id="18384" parentId="18210">Тонизирующие средства</category>
+            <category id="18385" parentId="18340">Антидепрессанты</category>
+            <category id="18386" parentId="18340">Противопаркинсонические средства</category>
+            <category id="18387" parentId="18340">Седативные средства</category>
+            <category id="18389" parentId="18210">Вакцины, сыворотки, фаги</category>
+            <category id="18390" parentId="18210">Кровоостанавливающие средства</category>
+            <category id="18391" parentId="18210">Плазмозаменяющие растворы</category>
+            <category id="18393" parentId="18309">Витамины и минералы (БАД)</category>
+            <category id="18394" parentId="18309">Контроль массы тела (БАД)</category>
+            <category id="18397" parentId="18215">Ароматерапия, эфирные и косметические масла</category>
+            <category id="18398" parentId="18235">Уход за губами и глазами</category>
+            <category id="18399" parentId="18214">Мужская серия</category>
+            <category id="18400" parentId="18235">Средства против покраснений</category>
+            <category id="18401" parentId="18216">Молокоотсосы, стерилизаторы, подогреватели</category>
+            <category id="18403" parentId="18311">Уход за контактными линзами</category>
+            <category id="18404" parentId="18309">Сердечно-сосудистая система (БАД)</category>
+            <category id="18405" parentId="18210">Средства для контроля массы тела</category>
+            <category id="18406" parentId="18340">Противоэпилептические средства</category>
+            <category id="18407" parentId="18340">Анксиолитики</category>
+            <category id="18408" parentId="18235">Специальный уход за лицом</category>
+            <category id="18409" parentId="18236">Специальный уход за телом</category>
+            <category id="18410" parentId="18340">Нейролептики</category>
+            <category id="18411" parentId="18216">Детская бытовая химия</category>
+            <category id="18412" parentId="18496">Средства для ухода за губами</category>
+            <category id="18413" parentId="18309">Прочие (БАД)</category>
+            <category id="18415" parentId="18309">Общеукрепляющие (БАД)</category>
+            <category id="18417" parentId="18216">Лечебное белье, компрессионный трикотаж</category>
+            <category id="18418" parentId="18309">Для мужчин (БАД)</category>
+            <category id="18421" parentId="18309">Бальзамы, эликсиры</category>
+            <category id="18422" parentId="18309">Гепатопротекторы (БАД)</category>
+            <category id="18423" parentId="18369">Местнораздражающие</category>
+            <category id="18424" parentId="18340">Снотворные</category>
+            <category id="18425" parentId="18210">Противозачаточные средства</category>
+            <category id="18427" parentId="18210">Средства для лечения алкогольной, наркотической и никотиновой зависимости</category>
+            <category id="18430" parentId="18309">Алкогольная и никотиновая зависимость (БАД)</category>
+            <category id="18432" parentId="18309">Витамины для улучшения зрения (БАД)</category>
+            <category id="18434" parentId="18219">Средства моделирующие и антицеллюлитные</category>
+            <category id="18435" parentId="18309">Опорно-двигательный аппарат (БАД)</category>
+            <category id="18436" parentId="18223">Средства для ухода за деснами</category>
+            <category id="18437" parentId="18500">Аспираторы</category>
+            <category id="18438" parentId="18210">Средства для лечения заболеваний щитовидной железы</category>
+            <category id="18439" parentId="18309">Желудочно-кишечный тракт (БАД)</category>
+            <category id="18441" parentId="18309">Успокаивающие (БАД)</category>
+            <category id="18442" parentId="18338">Ветрогонные средства</category>
+            <category id="18447" parentId="18210">Средства для лечения гинекологических заболеваний</category>
+            <category id="18448" parentId="18211">Увлажнители воздуха</category>
+            <category id="18449" parentId="18210">Антигельминтные средства</category>
+            <category id="18450" parentId="18309">Для женщин (БАД)</category>
+            <category id="18452" parentId="18223">Отбеливающие средства</category>
+            <category id="18454" parentId="18211">Массажеры</category>
+            <category id="18455" parentId="18235">Макияж</category>
+            <category id="18457" parentId="18219">Средства для ухода за кожей</category>
+            <category id="18465" parentId="18311">Дезинфицирующие средства</category>
+            <category id="18466" parentId="18223">Зубной порошок</category>
+            <category id="18467" parentId="18311">Шприцы, иглы, системы, катетеры</category>
+            <category id="18469" parentId="18210">Стоматологические средства</category>
+            <category id="18470" parentId="18236">Депиляция</category>
+            <category id="18474" parentId="18210">Средства для анестезии и наркоза</category>
+            <category id="18476" parentId="18338">Противорвотные и средства от укачивания</category>
+            <category id="18484" parentId="18223">Зубные пасты для детей</category>
+            <category id="18492" parentId="18216">Детское питание</category>
+            <category id="18494" parentId="18211">Шагомеры</category>
+            <category id="18496" parentId="18215">Средства для ухода за лицом</category>
+            <category id="18497" parentId="18496">Принадлежности для ухода за лицом</category>
+            <category id="18499" parentId="18942">Ортопедические подушки, матрасы</category>
+            <category id="18500" parentId="18216">Предметы ухода за ребенком</category>
+            <category id="18501" parentId="18210">Миорелаксанты</category>
+            <category id="18502" parentId="18210">Средства для лечения анемии</category>
+            <category id="18503" parentId="18211">Пикфлоуметры</category>
+            <category id="18504" parentId="18210">Противотуберкулезные средства</category>
+            <category id="18505" parentId="18211">Устройства термо- и магнитотерапии</category>
+            <category id="18506" parentId="18340">Ингибиторы холинэстеразы</category>
+            <category id="18509" parentId="18210">Диагностические средства</category>
+            <category id="18510" parentId="18211">Ирригаторы</category>
+            <category id="18512" parentId="18211">Спейсеры</category>
+            <category id="18513" parentId="18211">Электронные сигареты</category>
+            <category id="18515" parentId="18210">Дезинтоксикационные средства, антидоты</category>
+            <category id="18536" parentId="18210">Средства для лечения псориаза</category>
+            <category id="18602" parentId="18210">Средства для лечения облысения</category>
+            <category id="18603" parentId="18210">Пиявки медицинские</category>
+            <category id="18658" parentId="18210">Антидоты</category>
+            <category id="18661" parentId="18210">Аллергены</category>
+            <category id="18676">ЦЕНООБРАЗОВАНИЕ</category>
+            <category id="18702" parentId="18321">Биомороженое</category>
+            <category id="18703" parentId="18211">Коагулометры</category>
+            <category id="18733" parentId="18210">Иммунодепрессивные средства</category>
+            <category id="18919" parentId="18211">Глюкометры и аксессуары к ним</category>
+            <category id="18920" parentId="18919">Тест-полоски</category>
+            <category id="18921" parentId="18919">Ланцеты</category>
+            <category id="18922" parentId="18919">Устройства для прокалывания пальца</category>
+            <category id="18923" parentId="18919">Глюкометры и анализаторы</category>
+            <category id="18924" parentId="18223">Зубные щетки электрические и аксессуары к ним</category>
+            <category id="18925" parentId="18230">Термометры ртутные</category>
+            <category id="18926" parentId="18230">Термометры электронные</category>
+            <category id="18927" parentId="18332">Тесты на беременность</category>
+            <category id="18929" parentId="18332">Тесты на овуляцию</category>
+            <category id="18934" parentId="18211">Грелки</category>
+            <category id="18935" parentId="18229">Тонометры автоматические</category>
+            <category id="18936" parentId="18229">Тонометры полуавтоматические</category>
+            <category id="18937" parentId="18229">Тонометры механические</category>
+            <category id="18938" parentId="18229">Аксессуары к тонометрам</category>
+            <category id="18939" parentId="18211">Прочая медицинская техника</category>
+            <category id="18940" parentId="18211">Диагностика (тесты, анализаторы)</category>
+            <category id="18941" parentId="18321">Прочие продукты питания</category>
+            <category id="18942" parentId="18311">Ортопедические, компрессионные, фиксирующие изделия</category>
+            <category id="18943" parentId="18311">Прочие изделия медицинского назначения</category>
+            <category id="18947" parentId="18315">Подгузники, трусики для взрослых</category>
+            <category id="18948" parentId="18312">Повязки</category>
+            <category id="18949" parentId="18312">Ватно-марлевые изделия</category>
+            <category id="18950" parentId="18312">Пластыри бактерицидные, противомозольные</category>
+            <category id="18951" parentId="18312">Пластыри фиксирующие</category>
+            <category id="18952" parentId="18312">Пластыри прочие</category>
+            <category id="18953" parentId="13452">Гольфы, чулки</category>
+            <category id="18954" parentId="13452">Дородовые и послеродовые изделия</category>
+            <category id="18955" parentId="13452">Изделия для похудения</category>
+            <category id="18956" parentId="13452">Колготки</category>
+            <category id="18957" parentId="13452">Носки</category>
+            <category id="18958" parentId="13452">Термобелье</category>
+            <category id="18959" parentId="18942">Бандажи, пояса послеоперационные, при опущении внутренних органов</category>
+            <category id="18960" parentId="18942">Бандажи, пояса для позвоночника</category>
+            <category id="18961" parentId="18942">Корректоры осанки</category>
+            <category id="18962" parentId="18942">Фиксаторы голеностопного и коленного суставов</category>
+            <category id="18963" parentId="18942">Фиксаторы запястья, локтевого и плечевого суставов</category>
+            <category id="18964" parentId="18942">Бандажи противогрыжевые</category>
+            <category id="18965" parentId="18942">Фиксаторы шейного отдела</category>
+            <category id="18966" parentId="18942">Бинты эластичные, фиксирующие</category>
+            <category id="18967" parentId="18942">Ортопедические приспособления для стопы</category>
+            <category id="18968" parentId="18942">Костыли, трости, опоры, ходунки</category>
+            <category id="18969" parentId="18942">Ортопедическая обувь</category>
+            <category id="18970" parentId="18942">Прочие изделия</category>
+            <category id="18982" parentId="18676">ЦО_ГРУППА 1</category>
+            <category id="18983" parentId="18676">ЦО_ГРУППА 2</category>
+            <category id="18984" parentId="18676">ЦО_ГРУППА 3</category>
+            <category id="18985" parentId="18676">ЦО_ГРУППА 4</category>
+            <category id="18986" parentId="18676">ЦО_ГРУППА ВАЛ</category>
+            <category id="19075" parentId="18217">Спортивное питание и добавки</category>
+            <category id="19109" parentId="18676">ЦО_ГРУППА 5</category>
+            <category id="19150">ТОВАРЫ ДЛЯ ДОМА</category>
+            <category id="19151" parentId="19150">Бытовая химия</category>
+            <category id="19152" parentId="19150">Уборочный инвентарь</category>
+            <category id="19153" parentId="19150">Товары для животных</category>
+            <category id="19154" parentId="19150">Прочее</category>
+            <category id="19155" parentId="19150">Печатные издания</category>
+            <category id="19156" parentId="18496">Средства ухода за кожей вокруг глаз</category>
+            <category id="19157" parentId="18225">Средства ухода за лицом</category>
+            <category id="19158" parentId="18225">Средства ухода за телом</category>
+            <category id="19159" parentId="18225">Средства ухода за волосами</category>
+            <category id="19160" parentId="18222">Краски для волос</category>
+            <category id="19161" parentId="18397">Аксессуары для ароматерапии</category>
+            <category id="19162" parentId="18397">Аромакосметика</category>
+            <category id="19163" parentId="18397">Масла эфирные</category>
+            <category id="19164" parentId="18397">Масла косметические</category>
+            <category id="19165" parentId="18228">Салфетки</category>
+            <category id="19166" parentId="18492">Пюре</category>
+            <category id="19167" parentId="18492">Смеси</category>
+            <category id="19168" parentId="18492">Напитки</category>
+            <category id="19169" parentId="18492">Каши</category>
+            <category id="19170" parentId="18492">Печенье</category>
+            <category id="19171" parentId="18216">Питание для мамы</category>
+            <category id="19172" parentId="18496">Средства ухода за проблемной кожей</category>
+            <category id="19173" parentId="18222">Шампуни</category>
+            <category id="19174" parentId="18302">Бутылочки</category>
+            <category id="19175" parentId="18302">Поильники</category>
+            <category id="19176" parentId="18302">Посуда</category>
+            <category id="19177" parentId="18308">Игрушки</category>
+            <category id="19178" parentId="18308">Прорезыватели</category>
+            <category id="19179" parentId="18294">Средства для купания</category>
+            <category id="19180" parentId="18294">Средства ухода за кожей малыша</category>
+            <category id="19181" parentId="18294">Средства для ухода за полостью рта</category>
+            <category id="19182" parentId="18294">Средства для ухода за волосами</category>
+            <category id="19183" parentId="18235">Средства против пигментации</category>
+            <category id="19184" parentId="18216">Одежда</category>
+            <category id="19185" parentId="18216">Техника</category>
+            <category id="19186" parentId="18496">Средства ухода за ресницами</category>
+            <category id="19187" parentId="18217">Спортивные товары</category>
+            <category id="19188" parentId="18496">Декоративная косметика</category>
+            <category id="19189" parentId="18214">Детская косметика</category>
+            <category id="19190" parentId="18500">Приспособления для купания</category>
+            <category id="19191" parentId="18295">Мочалки для малыша</category>
+            <category id="19192" parentId="18500">Средства безопасности</category>
+            <category id="19193" parentId="18210">Пищеварительный тракт и обмен веществ</category>
+            <category id="19194" parentId="19193">Стоматологические препараты</category>
+            <category id="19195" parentId="19194">Стоматологические препараты</category>
+            <category id="19196" parentId="19195">Препараты для профилактики кариеса</category>
+            <category id="19197" parentId="19193">Препараты для лечения заболеваний связанных с нарушением кислотности</category>
+            <category id="19198" parentId="19197">Антациды</category>
+            <category id="19199" parentId="19198">Препараты магния</category>
+            <category id="19200" parentId="19195">Противомикробные препараты для местного лечения заболеваний полости рта</category>
+            <category id="19201" parentId="19195">Глюкокортикостероиды для местного лечения заболеваний полости рта </category>
+            <category id="19202" parentId="19195">Прочие препараты для лечения заболеваний полости рта</category>
+            <category id="19203" parentId="19198">Препараты алюминия </category>
+            <category id="19204" parentId="19198">Препараты кальция </category>
+            <category id="19205" parentId="19198">Комбинация препаратов алюминия, кальция и магния </category>
+            <category id="19206" parentId="19198">Антациды в сочетании с ветрогонными препаратами</category>
+            <category id="19207" parentId="19198">Антациды в сочетании со спазмолитиками </category>
+            <category id="19208" parentId="19198">Антациды в сочетании с натрия бикарбонатом </category>
+            <category id="19209" parentId="19198">Антациды в сочетании с другими препаратами</category>
+            <category id="19210" parentId="19197">Противоязвенные препараты и препараты для лечения гастроэзофагеального рефлюкса</category>
+            <category id="19211" parentId="19210">Блокаторы H2-гистаминовых рецепторов </category>
+            <category id="19212" parentId="19210">Простагландины </category>
+            <category id="19213" parentId="19210">Ингибиторы протонового насоса</category>
+            <category id="19214" parentId="19210">Комбинации препаратов для эрадикации Helicobacter pylori </category>
+            <category id="19215" parentId="19210">Прочие противоязвенные препараты и препараты для лечения гастроэзофагеального рефлюкса </category>
+            <category id="19216" parentId="19197">Ветрогонные препараты</category>
+            <category id="19217" parentId="19216">Ветрогонные препараты</category>
+            <category id="19218" parentId="19197">Препараты альгиновой кислоты</category>
+            <category id="19219" parentId="19218">Препараты альгиновой кислоты</category>
+            <category id="19220" parentId="19197">Прочие препараты для лечения заболеваний, связанных с нарушением кислотности</category>
+            <category id="19221" parentId="19193">Препараты для лечения функциональных расстройств ЖКТ</category>
+            <category id="19222" parentId="19221">Препараты для лечения функциональных расстройств кишечника</category>
+            <category id="19223" parentId="19222">Синтетические холиноблокаторы — эфиры с третичной аминогруппой</category>
+            <category id="19224" parentId="19222">Синтетические холиноблокаторы — четвертичные аммониевые соединения</category>
+            <category id="19225" parentId="19222">Синтетические холиноблокаторы — амиды с третичной аминогруппой</category>
+            <category id="19226" parentId="19222">Папаверин и его производные</category>
+            <category id="19227" parentId="19222">Препараты, действующие на серотониновые рецепторы</category>
+            <category id="19228" parentId="19222">Другие препараты для лечения функциональных расстройств кишечника</category>
+            <category id="19229" parentId="19221">Белладонна и её производные</category>
+            <category id="19230" parentId="19229">Алкалоиды белладонны, третичные амины</category>
+            <category id="19231" parentId="19229">Полусинтетические алкалоиды белладонны, четвертичные аммониевые соединения</category>
+            <category id="19232" parentId="19221">Спазмолитики в комбинации с психотропными препаратами</category>
+            <category id="19233" parentId="19232">Синтетические холиноблокаторы в комбинации с психотропными препаратами</category>
+            <category id="19234" parentId="19232">Белладонна и её производные в комбинации с психотропными препаратами</category>
+            <category id="19235" parentId="19232">Прочие спазмолитики в комбинации с психотропными препаратами</category>
+            <category id="19236" parentId="19221">Спазмолитики в комбинации с анальгетиками</category>
+            <category id="19237" parentId="19236">Синтетические холиноблокаторы в комбинации с анальгетиками </category>
+            <category id="19238" parentId="19236">Белладонна и её производные в комбинации с анальгетиками</category>
+            <category id="19239" parentId="19236">Прочие спазмолитики в комбинации с анальгетиками</category>
+            <category id="19240" parentId="19221">Спазмолитики и холиноблокаторы в комбинации с другими препаратами</category>
+            <category id="19241" parentId="19240">Спазмолитики, психотропные препараты и анальгетики в комбинации</category>
+            <category id="19242" parentId="19240">Спазмолитики в комбинации с прочими препаратами</category>
+            <category id="19243" parentId="19221">Стимуляторы моторики ЖКТ</category>
+            <category id="19244" parentId="19243">Стимуляторы моторики ЖКТ</category>
+            <category id="19245" parentId="19193">Противорвотные препараты</category>
+            <category id="19246" parentId="19245">Противорвотные препараты</category>
+            <category id="19247" parentId="19246">Антагонисты серотонина </category>
+            <category id="19248" parentId="19246">Прочие противорвотные препараты</category>
+            <category id="19249" parentId="19193">Препараты для лечения заболеваний печени и желчевыводящих путей</category>
+            <category id="19250" parentId="19249">Препараты для лечения заболеваний желчного пузыря</category>
+            <category id="19251" parentId="19250">Препараты желчных кислот *И18) (Желчные кислоты и их производные)</category>
+            <category id="19252" parentId="19250">Препараты для лечения заболеваний желчевыводящих путей</category>
+            <category id="19253" parentId="19250">Прочие препараты для лечения заболеваний желчевыводящих путей </category>
+            <category id="19254" parentId="19249">Препараты для лечения заболеваний печени</category>
+            <category id="19255" parentId="19254">Препараты для лечения заболеваний печени</category>
+            <category id="19256" parentId="19249">Комбинация препаратов для лечения заболеваний печени и желчевыводящих путей</category>
+            <category id="19257" parentId="19193">Слабительные</category>
+            <category id="19258" parentId="19257">Смягчаюшие препараты </category>
+            <category id="19259" parentId="19257">Контактные слабительные </category>
+            <category id="19260" parentId="19257">Слабительные, увеличивающие объём кишечного содержимого</category>
+            <category id="19261" parentId="19257">Осмотические слабительные </category>
+            <category id="19262" parentId="19257">Слабительные препараты в клизмах</category>
+            <category id="19263" parentId="19257">Антагонисты периферических опиоидных рецепторов</category>
+            <category id="19264" parentId="19257">Прочие слабительные</category>
+            <category id="19265" parentId="19193">Противодиарейные препараты</category>
+            <category id="19266" parentId="19265">Кишечные противомикробные и противовоспалительные препараты</category>
+            <category id="19267" parentId="19266">Антибактериальные препараты </category>
+            <category id="19268" parentId="19266">Сульфаниламиды</category>
+            <category id="19269" parentId="19266">Производные имидазола</category>
+            <category id="19270" parentId="19266">Прочие кишечные противомикробные препараты</category>
+            <category id="19271" parentId="19265">Кишечные адсорбенты</category>
+            <category id="19272" parentId="19271">Препараты угля</category>
+            <category id="19273" parentId="19271">Висмута субгалат</category>
+            <category id="19274" parentId="19271">Прочие кишечные адсорбенты</category>
+            <category id="19275" parentId="19265">Электролиты с углеводами</category>
+            <category id="19276" parentId="19275">Регидратанты для перорального приёма</category>
+            <category id="19277" parentId="19265">Препараты, снижающие моторику ЖКТ</category>
+            <category id="19278" parentId="19277">Препараты, снижающие моторику ЖКТ </category>
+            <category id="19279" parentId="19265">Кишечные противовоспалительные препараты</category>
+            <category id="19280" parentId="19279">Глюкокортикостероиды местного действия</category>
+            <category id="19281" parentId="19279">Антиаллергические препараты (исключая глюкокортикостероиды)</category>
+            <category id="19282" parentId="19279">Аминосалициловая кислота и аналогичные препараты</category>
+            <category id="19283" parentId="19265">Антидиарейные микроорганизмы</category>
+            <category id="19284" parentId="19283">Антидиарейные микроорганизмы</category>
+            <category id="19285" parentId="19265">Прочие антидиарейные препараты</category>
+            <category id="19286" parentId="19285">Прочие антидиарейные препараты</category>
+            <category id="19287" parentId="19193">Препараты для лечения ожирения (исключая диетические продукты)</category>
+            <category id="19288" parentId="19287">Препараты для лечения ожирения (исключая диетические продукты)</category>
+            <category id="19289" parentId="19288">Препараты для лечения ожирения центрального действия </category>
+            <category id="19290" parentId="19288">Препараты для лечения ожирения периферического действия </category>
+            <category id="19291" parentId="19288">Другие средства против ожирения</category>
+            <category id="19292" parentId="19193">Препараты, способствующие пищеварению (включая ферментные препараты)</category>
+            <category id="19293" parentId="19292">Препараты, способствующие пищеварению (включая ферментные препараты)</category>
+            <category id="19294" parentId="19293">Пищеварительные ферментные препараты </category>
+            <category id="19295" parentId="19293">Кислоты</category>
+            <category id="19296" parentId="19293">Комбинация пищеварительных ферментных препаратов и кислотосодержащих препаратов</category>
+            <category id="19297" parentId="19193">Средства для лечения сахарного диабета</category>
+            <category id="19298" parentId="19297">Инсулины</category>
+            <category id="19299" parentId="19298">Инсулины быстрого действия для инъекций и их аналоги</category>
+            <category id="19300" parentId="19298">Инсулины среднего действия для инъекций и их аналоги</category>
+            <category id="19301" parentId="19298">Инсулины и их аналоги для инъекций: среднего или длительного действия в комбинации с инсулинами быст</category>
+            <category id="19302" parentId="19298">Инсулины длительного действия для инъекций и их аналоги </category>
+            <category id="19303" parentId="19298">Инсулины их их аналоги для ингаляций </category>
+            <category id="19304" parentId="19297">Гипогликемические препараты, за исключением инсулинов</category>
+            <category id="19305" parentId="19304">Бигуаниды</category>
+            <category id="19306" parentId="19304">Производные сульфонилмочевины </category>
+            <category id="19307" parentId="19304">Гетероциклические сульфонамиды</category>
+            <category id="19308" parentId="19304">Комбинации гипогликемических препаратов для приёма внутрь </category>
+            <category id="19309" parentId="19304">Альфа-глюкозидазы ингибиторы</category>
+            <category id="19310" parentId="19304">Тиазолиндионы</category>
+            <category id="19311" parentId="19304">Ингибиторы дипептидилпептидазы-4 (DPP-4) </category>
+            <category id="19312" parentId="19304">Аналоги рецепторов глюкагоноподобного пептида-1  (ГПП-1)</category>
+            <category id="19313" parentId="19304">Ингибиторы натрий-глюкозного котранспортера 2-го типа (SGLT2)</category>
+            <category id="19314" parentId="19304">Прочие гипогликемические препараты</category>
+            <category id="19315" parentId="19297">Прочие лекарственные препараты для лечения сахарного диабета</category>
+            <category id="19316" parentId="19315">Альдозоредуктазы ингибиторы</category>
+            <category id="19317" parentId="19193">Витамины</category>
+            <category id="19318" parentId="19317">Поливитамины в комбинации с другими препаратами</category>
+            <category id="19319" parentId="19318">Поливитамины с минеральными веществами </category>
+            <category id="19320" parentId="19318">Поливитамины в других комбинациях </category>
+            <category id="19321" parentId="19317">Поливитамины</category>
+            <category id="19322" parentId="19321">Поливитамины</category>
+            <category id="19323" parentId="19317">Витамины A и D и их комбинация</category>
+            <category id="19324" parentId="19323">Витамин A</category>
+            <category id="19325" parentId="19323">Комбинация витаминов A и D </category>
+            <category id="19326" parentId="19323">Витамин D и его производные </category>
+            <category id="19327" parentId="19317">Витамин B1 и его комбинация с витаминами B6 и B12</category>
+            <category id="19328" parentId="19327">Витамин B1 </category>
+            <category id="19329" parentId="19327">Комбинация витамина B1 с витаминами B6 и/или B12 </category>
+            <category id="19330" parentId="19317">Комплекс витаминов группы B, включая комбинации с другими препаратами</category>
+            <category id="19331" parentId="19330">Витамины группы B </category>
+            <category id="19332" parentId="19330">Витамины группы B в комбинации с аскорбиновой кислотой </category>
+            <category id="19333" parentId="19330">Витамины группы B в комбинации с минеральными веществами</category>
+            <category id="19334" parentId="19330">Витамины группы B в комбинации с анаболическими стероидными препаратами </category>
+            <category id="19335" parentId="19330">Витамины группы B в комбинации с другими препаратами</category>
+            <category id="19336" parentId="19317">Аскорбиновая кислота, включая комбинации с другими препаратами</category>
+            <category id="19337" parentId="19336">Аскорбиновая кислота в чистом виде</category>
+            <category id="19338" parentId="19336">Аскорбиновая кислота в комбинации с другими препаратами</category>
+            <category id="19339" parentId="19317">Другие витамины в чистом виде</category>
+            <category id="19340" parentId="19339">Другие витамины в чистом виде </category>
+            <category id="19341" parentId="19317">Другие комбинации витаминов </category>
+            <category id="19342" parentId="19341">Комбинации витаминов</category>
+            <category id="19343" parentId="19341">Комбинации витаминов с минералами</category>
+            <category id="19344" parentId="19341">Другие комбинации с витаминами </category>
+            <category id="19345" parentId="19193">Минеральные добавки</category>
+            <category id="19346" parentId="19345">Препараты кальция </category>
+            <category id="19347" parentId="19346">Препараты кальция в комбинации с другими препаратами </category>
+            <category id="19348" parentId="19345">Препараты калия</category>
+            <category id="19349" parentId="19348">Препараты калия </category>
+            <category id="19350" parentId="19345">Прочие минеральные вещества</category>
+            <category id="19351" parentId="19350">Препараты натрия </category>
+            <category id="19352" parentId="19350">Препараты цинка </category>
+            <category id="19353" parentId="19350">Препараты магния </category>
+            <category id="19354" parentId="19350">Препараты фтора </category>
+            <category id="19355" parentId="19350">Препараты селена </category>
+            <category id="19356" parentId="19350">Другие минеральные препараты </category>
+            <category id="19357" parentId="19193">Общетонизирующие препараты</category>
+            <category id="19358" parentId="19357">Общетонизирующие препараты</category>
+            <category id="19359" parentId="19193">Анаболические препараты для системного использования</category>
+            <category id="19360" parentId="19359">Анаболические стероидные препараты</category>
+            <category id="19361" parentId="19360">Производные андростана </category>
+            <category id="19362" parentId="19360">Анаболические стероидные препараты — эфиры</category>
+            <category id="19363" parentId="19359">Прочие анаболические препараты</category>
+            <category id="19364" parentId="19193">Стимуляторы аппетита</category>
+            <category id="19365" parentId="19193">Прочие препараты для лечения заболеваний ЖКТ и нарушения обмена веществ</category>
+            <category id="19366" parentId="19365">Прочие препараты для лечения заболеваний ЖКТ и нарушения обмена веществ</category>
+            <category id="19367" parentId="19366">Аминокислоты и их производные</category>
+            <category id="19368" parentId="19366">Ферментные препараты </category>
+            <category id="19369" parentId="19366">Различные прочие препараты для лечения заболеваний ЖКТ и обмена веществ</category>
+            <category id="19370" parentId="18210">Кроветворение и кровь</category>
+            <category id="19371" parentId="19370">Антикоагулянты</category>
+            <category id="19372" parentId="19371">Антикоагулянты</category>
+            <category id="19373" parentId="19372">Непрямые антикоагулянты (антагонисты витамина K)</category>
+            <category id="19374" parentId="19372">Гепарины</category>
+            <category id="19375" parentId="19372">Ингибиторы агрегации тромбоцитов (исключая гепарин)</category>
+            <category id="19376" parentId="19372">Ферментные препараты</category>
+            <category id="19377" parentId="19372">Прямые антикоагулянты</category>
+            <category id="19378" parentId="19372">Прямые ингибиторы фактора Ха</category>
+            <category id="19379" parentId="19372">Прочие антикоагулянты</category>
+            <category id="19380" parentId="19370">Гемостатики</category>
+            <category id="19381" parentId="19380">Ингибиторы фибринолиза</category>
+            <category id="19382" parentId="19381">Аминокислоты </category>
+            <category id="19383" parentId="19381">Ингибиторы протеиназ плазмы</category>
+            <category id="19384" parentId="19380">Витамин K и другие гемостатики</category>
+            <category id="19385" parentId="19384">Витамин K </category>
+            <category id="19386" parentId="19384">Фибриноген </category>
+            <category id="19387" parentId="19384">Гемостатики для местного применения</category>
+            <category id="19388" parentId="19384">Факторы свертывания крови</category>
+            <category id="19389" parentId="19384">Гемостатики системные другие</category>
+            <category id="19390" parentId="19370">Антианемические препараты</category>
+            <category id="19391" parentId="19390">Препараты железа</category>
+            <category id="19392" parentId="19391">Железа двухвалентного препараты для перорального назначения</category>
+            <category id="19393" parentId="19391">Железа трехвалентного препараты для перорального назначения</category>
+            <category id="19394" parentId="19391">Железа трехвалентного препараты для парентерального назначения</category>
+            <category id="19395" parentId="19391">Препараты железа в комбинации с фолиевой кислотой</category>
+            <category id="19396" parentId="19391">Препараты железа в комбинации с другими препаратами</category>
+            <category id="19397" parentId="19390">Витамин B12 и фолиевая кислота</category>
+            <category id="19398" parentId="19397">Цианокобаламин и его производные</category>
+            <category id="19399" parentId="19397">Фолиевая кислота и ее производные </category>
+            <category id="19400" parentId="19390">Прочие антианемические препараты</category>
+            <category id="19401" parentId="19400">Препараты для лечения анемии другие</category>
+            <category id="19402" parentId="19370">Плазмозамещающие и перфузионные растворы</category>
+            <category id="19403" parentId="19402">Препараты крови</category>
+            <category id="19404" parentId="19403">Плазмозамещающие препараты и белковые фракции плазмы</category>
+            <category id="19405" parentId="19403">Другие препараты крови</category>
+            <category id="19406" parentId="19402">Растворы для в/в введения</category>
+            <category id="19407" parentId="19406">Растворы для парентерального питания</category>
+            <category id="19408" parentId="19406">Растворы, влияющие на водно-электролитный баланс</category>
+            <category id="19409" parentId="19406">Осмодиуретики </category>
+            <category id="19410" parentId="19402">Ирригационные растворы</category>
+            <category id="19411" parentId="19410">Противомикробные растворы</category>
+            <category id="19412" parentId="19410">Солевые растворы</category>
+            <category id="19413" parentId="19410">Прочие ирригационные растворы</category>
+            <category id="19414" parentId="19402">Препараты для перитонеального диализа</category>
+            <category id="19415" parentId="19414">Изотонические растворы</category>
+            <category id="19416" parentId="19414">Гипертонические растворы</category>
+            <category id="19417" parentId="19402">Добавки к растворам для в/в введения</category>
+            <category id="19418" parentId="19417">Электролитные растворы</category>
+            <category id="19419" parentId="19417">Аминокислоты</category>
+            <category id="19420" parentId="19417">Витамины </category>
+            <category id="19421" parentId="19402">Гемодиализаты и гемофильтраты</category>
+            <category id="19422" parentId="19421">Гемодиализаты (концентраты) </category>
+            <category id="19423" parentId="19417">Прочие добавки к растворам для в/в введения</category>
+            <category id="19424" parentId="19421">Гемофильтраты </category>
+            <category id="19425" parentId="19370">Прочие гематологические препараты</category>
+            <category id="19426" parentId="19425">Прочие гематологические препараты</category>
+            <category id="19427" parentId="19426">Ферментные препараты</category>
+            <category id="19428" parentId="19426">Прочие гематологические препараты</category>
+            <category id="19429" parentId="19426">Средства для лечения наследственного ангионевротического отёка</category>
+            <category id="19430" parentId="18210">Сердечно-сосудистая система</category>
+            <category id="19431" parentId="19430">Препараты для лечения заболеваний сердца</category>
+            <category id="19432" parentId="19435">Гликозиды наперстянки</category>
+            <category id="19433" parentId="19435">Гликозиды морского лука (сциллы)</category>
+            <category id="19434" parentId="19435">Гликозиды строфанта</category>
+            <category id="19435" parentId="19431">Сердечные гликозиды</category>
+            <category id="19436" parentId="19435">Прочие сердечные гликозиды</category>
+            <category id="19437" parentId="19431">Антиаритмические препараты I и III классов</category>
+            <category id="19438" parentId="19437">Антиаритмические препараты Iа класса</category>
+            <category id="19439" parentId="19437">Антиаритмические препараты Ib класса</category>
+            <category id="19440" parentId="19437">Антиаритмические препараты Ic класса</category>
+            <category id="19441" parentId="19437">Антиаритмические препараты III класса</category>
+            <category id="19442" parentId="19437">Прочие антиаритмические препараты I класса</category>
+            <category id="19443" parentId="19431">Кардиотонические препараты (исключая сердечные гликозиды)</category>
+            <category id="19444" parentId="19443">Адрено- и допаминомиметики</category>
+            <category id="19445" parentId="19443">Ингибиторы фосфодиэстеразы</category>
+            <category id="19446" parentId="19443">Прочие кардиотонические препараты</category>
+            <category id="19447" parentId="19431">Вазодилататоры, применяемые для лечения заболеваний сердца</category>
+            <category id="19448" parentId="19447">Органические нитраты </category>
+            <category id="19449" parentId="19447">Вазодилататоры — производные хинолона</category>
+            <category id="19450" parentId="19447">Прочие вазодилататоры для лечения заболеваний сердца</category>
+            <category id="19451" parentId="19431">Препараты для лечения заболеваний сердца другие</category>
+            <category id="19452" parentId="19451">Простагландины </category>
+            <category id="19453" parentId="19451">Препараты для лечения заболеваний сердца другие</category>
+            <category id="19454" parentId="19451">Препараты для лечения заболеваний сердца комбинированные другие</category>
+            <category id="19455" parentId="19430">Антигипертензивные препараты</category>
+            <category id="19456" parentId="19455">Адренергические средства центрального действия</category>
+            <category id="19457" parentId="19456">Алкалоиды раувольфии</category>
+            <category id="19458" parentId="19456">Метилдопа </category>
+            <category id="19459" parentId="19456">Альфа-адреномиметики, производные имидазолина</category>
+            <category id="19460" parentId="19455">Ганглиоблокаторы</category>
+            <category id="19461" parentId="19460">Производные сульфония</category>
+            <category id="19462" parentId="19460">Вторичные и третичные амины</category>
+            <category id="19463" parentId="19460">Бисчетвертичные аммониевые соединения</category>
+            <category id="19464" parentId="19455">Антиадренергические препараты периферического действия</category>
+            <category id="19465" parentId="19464">Альфа-адреноблокаторы</category>
+            <category id="19466" parentId="19464">Альфа- и бета-адреноблокаторы</category>
+            <category id="19467" parentId="19464">Производные гуанидина </category>
+            <category id="19468" parentId="19455">Миолитики прямые</category>
+            <category id="19469" parentId="19468">Производные тиазида</category>
+            <category id="19470" parentId="19468">Гидразинофталазиновые производные</category>
+            <category id="19471" parentId="19468">Производные пиримидина</category>
+            <category id="19472" parentId="19468">Нитроферрицианидные производные</category>
+            <category id="19473" parentId="19468">Производные гуанидина</category>
+            <category id="19474" parentId="19455">Прочие антигипертензивные препараты</category>
+            <category id="19475" parentId="19474">Алкалоиды, исключающие раувольфию</category>
+            <category id="19476" parentId="19474">Тирозингидроксилазы ингибиторы</category>
+            <category id="19477" parentId="19474">Ингибиторы МАО</category>
+            <category id="19478" parentId="19474">Антагонисты серотонина</category>
+            <category id="19479" parentId="19474">Другие антигипертензивные средства </category>
+            <category id="19480" parentId="19455">Антигипертензивные препараты и диуретики в комбинации</category>
+            <category id="19481" parentId="19480">Раувольфии алкалоиды в комбинации с диуретиками </category>
+            <category id="19482" parentId="19480">Метилдопа в комбинации с диуретиками</category>
+            <category id="19483" parentId="19480">Агонисты имидазолиновых рецепторов в комбинации с диуретиками </category>
+            <category id="19484" parentId="19480">Антагонисты альфа-адренорецепторов и диуретики </category>
+            <category id="19485" parentId="19480">Производные гуанидина в комбинации с диуретиками</category>
+            <category id="19486" parentId="19480">Производные гидразинофталазина в комбинации с диуретиками</category>
+            <category id="19487" parentId="19480">Алкалоиды, исключающие рауфольфию, в сочетании с диуретиками</category>
+            <category id="19488" parentId="19480">Ингибиторы МАО и диуретики</category>
+            <category id="19489" parentId="19480">Антагонисты серотонина и диуретики</category>
+            <category id="19490" parentId="19480">Другие гипотензивные средства и диуретики</category>
+            <category id="19491" parentId="19455">Сочетание антигипертензивных средств в группе ATC C02</category>
+            <category id="19492" parentId="19430">Диуретики</category>
+            <category id="19493" parentId="19492">Тиазиды</category>
+            <category id="19494" parentId="19493">Тиазиды </category>
+            <category id="19495" parentId="19493">Тиазиды и калий в сочетании</category>
+            <category id="19496" parentId="19493">Тиазиды в комбинации с психолептиками и/или анальгетиками</category>
+            <category id="19497" parentId="19493">Тиазиды в комбинации с другими препаратами </category>
+            <category id="19498" parentId="19492">Нетиазидные диуретики, действующие на кортикальный сегмент петли Генле</category>
+            <category id="19499" parentId="19498">Сульфонамиды </category>
+            <category id="19500" parentId="19498">Сульфонамиды в комбинации с солями калия</category>
+            <category id="19501" parentId="19498">Ртутные диуретики</category>
+            <category id="19502" parentId="19498">Производные ксантина </category>
+            <category id="19503" parentId="19498">Сульфаниламидные препараты в комбинации с другими препаратами </category>
+            <category id="19504" parentId="19498">Прочие диуретики с низким потолком дозы</category>
+            <category id="19505" parentId="19492">«Петлевые» диуретики</category>
+            <category id="19506" parentId="19505">Сульфаниламидные диуретики </category>
+            <category id="19507" parentId="19505">Сульфаниламиды и калий в сочетании </category>
+            <category id="19508" parentId="19505">Производные арилоксиуксусной кислоты</category>
+            <category id="19509" parentId="19505">Производные пиразолона</category>
+            <category id="19510" parentId="19505">Прочие «петлевые» диуретики</category>
+            <category id="19511" parentId="19492">Калийсберегающие диуретики</category>
+            <category id="19512" parentId="19511">Альдостерона антагонисты </category>
+            <category id="19513" parentId="19511">Прочие калийсберегающие диуретики</category>
+            <category id="19514" parentId="19492">Комбинации диуретиков с калийсберегающими препаратами</category>
+            <category id="19515" parentId="19514">Диуретики, действующие на кортикальный сегмент петли Генле в комбинации с кальйсберегающими препарат</category>
+            <category id="19516" parentId="19514">«Петлевые» диуретики в комбинации с калийсберегающими препаратами</category>
+            <category id="19517" parentId="19492">Прочие диуретики</category>
+            <category id="19518" parentId="19517">Антагонисты вазопрессина</category>
+            <category id="19519" parentId="19430">Периферические вазодилататоры</category>
+            <category id="19520" parentId="19519">Периферические вазодилататоры</category>
+            <category id="19521" parentId="19520">Производные 2-амино-1-фенилэтанола </category>
+            <category id="19522" parentId="19520">Производные имидазолина</category>
+            <category id="19523" parentId="19520">Никотиновая кислота и её производные</category>
+            <category id="19524" parentId="19520">Пурины </category>
+            <category id="19525" parentId="19520">Спорыньи алкалоиды</category>
+            <category id="19526" parentId="19520">Ферменты </category>
+            <category id="19527" parentId="19520">Прочие периферические вазодилататоры</category>
+            <category id="19528" parentId="19430">Ангиопротекторы</category>
+            <category id="19529" parentId="19528">Средства для лечения геморроя и анальных трещин для местного применения</category>
+            <category id="19530" parentId="19529">Кортикостероиды </category>
+            <category id="19531" parentId="19529">Антибиотики </category>
+            <category id="19532" parentId="19529">Местные анестетики</category>
+            <category id="19533" parentId="19529">Миорелаксанты </category>
+            <category id="19534" parentId="19529">Препараты для лечения геморроя и анальных трещин для местного назначения другие</category>
+            <category id="19535" parentId="19528">Препараты для лечения варикозного расширения вен</category>
+            <category id="19536" parentId="19535">Гепаринсодержащие препараты для местного применения</category>
+            <category id="19537" parentId="19535">Веносклерозирующие препараты</category>
+            <category id="19538" parentId="19535">Прочие склерозирующие препараты</category>
+            <category id="19539" parentId="19528">Препараты, снижающие проницаемость капилляров</category>
+            <category id="19540" parentId="19539">Биофлавоноиды </category>
+            <category id="19541" parentId="19539">Прочие препараты, снижающие проницаемость капилляров</category>
+            <category id="19542" parentId="19430">Бета-адреноблокаторы</category>
+            <category id="19543" parentId="19542">Бета-адреноблокаторы</category>
+            <category id="19544" parentId="19543">Бета-адреноблокаторы неселективные</category>
+            <category id="19545" parentId="19543">Бета-адреноблокаторы селективные</category>
+            <category id="19546" parentId="19543">Альфа- и бета-адреноблокаторы</category>
+            <category id="19547" parentId="19542">Бета-адреноблокаторы в комбинации с тиазидами</category>
+            <category id="19548" parentId="19547">Неселективные бета-адреноблокаторы и тиазиды </category>
+            <category id="19549" parentId="19547">Селективные бета-адреноблокаторы в комбинации с тиазидами</category>
+            <category id="19550" parentId="19547">Альфа- и бета-адреноблокаторы и тиазиды </category>
+            <category id="19551" parentId="19542">Бета-адреноблокаторы в комбинации с другими диуретиками</category>
+            <category id="19552" parentId="19551">Бета-адреноблокатры неселективные в комбинации с другими диуретиками</category>
+            <category id="19553" parentId="19551">Селективные бета-адреноблокаторы в комбинации с другими диуретиками </category>
+            <category id="19554" parentId="19551">Альфа- и бета-адреноблокаторы в комбинации с другими диуретиками </category>
+            <category id="19555" parentId="19542">Бета-адреноблокаторы в комбинации с тиазидами и другими диуретиками</category>
+            <category id="19556" parentId="19555">Неселективные бета-адреноблокаторы в комбинации с тиазидами и другими диуретиками</category>
+            <category id="19557" parentId="19555">Селективные бета-адреноблокаторы в комбинации с тиазидами и другими диуретиками</category>
+            <category id="19558" parentId="19542">Бета-адреноблокаторы в комбинации с вазодилататорами</category>
+            <category id="19559" parentId="19558">Неселективные бета-адреноблокаторы и вазодилятаторы </category>
+            <category id="19560" parentId="19558">Бета-адреноблокаторы селективные в комбинации с вазодилататорами </category>
+            <category id="19561" parentId="19542">Бета-адреноблокаторы в комбинации с другими антигипертензивными препаратами</category>
+            <category id="19562" parentId="19561">Неселективные бета-адреноблокаторы в комбинации с другими антигипертензивными препаратами</category>
+            <category id="19563" parentId="19561">Селективные бета-адреноблокаторы в комбинации с другими антигипертензивными средствами блокаторами к</category>
+            <category id="19564" parentId="19561">Бета-адреноблокаторы в комбинации с другими средствами</category>
+            <category id="19565" parentId="19430">Блокаторы кальциевых каналов</category>
+            <category id="19566" parentId="19565">Селективные блокаторы кальциевых каналов преимущественно с сосудистым эффектом</category>
+            <category id="19567" parentId="19566">Производные дигидропиридина</category>
+            <category id="19568" parentId="19566">Прочие селективные блокаторы кальциевых каналов с преимущественным влиянием на сосуды</category>
+            <category id="19569" parentId="19565">Селективные блокаторы кальциевых каналов с прямым действием на сердце</category>
+            <category id="19570" parentId="19569">Производные фенилалкиламина</category>
+            <category id="19571" parentId="19569">Производные бензотиазепина</category>
+            <category id="19572" parentId="19565">Неселективные блокаторы кальциевых каналов </category>
+            <category id="19573" parentId="19572">Фенилалкиламиновые производные </category>
+            <category id="19574" parentId="19572">Прочие блокаторы кальциевых каналов </category>
+            <category id="19575" parentId="19565">Блокаторы кальциевых каналов в комбинации с диуретиками </category>
+            <category id="19576" parentId="19575">Блокаторы кальциевых каналов в комбинации с диуретиками </category>
+            <category id="19577" parentId="19430">Препараты, влияющие на ренин-ангиотензиновую систему </category>
+            <category id="19578" parentId="19577">Ингибиторы ангиотензин-превращающего фермента (АПФ) </category>
+            <category id="19579" parentId="19578">Ингибиторы АПФ </category>
+            <category id="19580" parentId="19577">Ингибиторы АПФ в комбинации с другими препаратами </category>
+            <category id="19581" parentId="19580">Ингибиторы АПФ в комбинации с диуретиками </category>
+            <category id="19582" parentId="19580">Ингибиторы АПФ в комбинации с блокаторами кальциевых каналов </category>
+            <category id="19583" parentId="19580">Ингибиторы АПФ, другие комбинации </category>
+            <category id="19584" parentId="19577">Антагонисты ангиотензина II </category>
+            <category id="19585" parentId="19584">Антагонисты ангиотензина II </category>
+            <category id="19586" parentId="19577">Антагонисты ангиотензина II в комбинации с другими препаратами </category>
+            <category id="19587" parentId="19586">Антагонисты ангиотензина II в комбинации с диуретиками </category>
+            <category id="19588" parentId="19586">Антагонисты ангиотензина II в комбинации с блокаторами кальциевых каналов </category>
+            <category id="19589" parentId="19586">Антагонисты ангиотензина II в комбинации с другими препаратами</category>
+            <category id="19590" parentId="19577">Другие препараты, влияющие на ренин-ангиотензиновую систему </category>
+            <category id="19591" parentId="19590">Ингибиторы секреции ренина </category>
+            <category id="19592" parentId="19430">Гиполипидемические препараты</category>
+            <category id="19593" parentId="19592">Гипохолестеринемические и гипотриглицеридемические препараты </category>
+            <category id="19594" parentId="19593">Ингибиторы ГМГ-КoA-редуктазы </category>
+            <category id="19595" parentId="19593">Фибраты</category>
+            <category id="19596" parentId="19593">Препараты, связывающие желчные кислоты </category>
+            <category id="19597" parentId="19593">Никотиновая кислота и ее производные</category>
+            <category id="19598" parentId="19593">Прочие гиполипидемические препараты </category>
+            <category id="19599" parentId="19592">Гиполипидемические препараты, комбинации </category>
+            <category id="19600" parentId="19599">Ингибиторы ГМГ-КоА-редуктазы в комбинации с другими гиполипидемическими препаратами </category>
+            <category id="19601" parentId="19599">Ингибиторы ГМГ-КоА-редуктазы, другие комбинации </category>
+            <category id="19602" parentId="18210">Дерматология</category>
+            <category id="19603" parentId="19602">Противогрибковые препараты для лечения заболеваний кожи</category>
+            <category id="19604" parentId="19603">Противогрибковые препараты для местного применения</category>
+            <category id="19605" parentId="19604">Противогрибковые антибиотики</category>
+            <category id="19606" parentId="19604">Производные имидазола</category>
+            <category id="19607" parentId="19604">Прочие противогрибковые препараты для местного применения</category>
+            <category id="19608" parentId="19603">Противогрибковые препараты для системного применения</category>
+            <category id="19609" parentId="19608">Противогрибковые препараты для системного применения</category>
+            <category id="19610" parentId="19602">Дерматопротекторы</category>
+            <category id="19611" parentId="19610">Дерматопротекторы</category>
+            <category id="19612" parentId="19611">Производные силикона</category>
+            <category id="19613" parentId="19611">Препараты цинка</category>
+            <category id="19614" parentId="19611">Парафина и жиров препараты</category>
+            <category id="19615" parentId="19611">Пластыри жидкие </category>
+            <category id="19616" parentId="19611">Производные мочевины </category>
+            <category id="19617" parentId="19611">Препараты салициловой кислоты</category>
+            <category id="19618" parentId="19611">Дерматопротекторы прочие</category>
+            <category id="19619" parentId="19610">Препараты с протекторным действием от УФ-облучения </category>
+            <category id="19620" parentId="19619">Препараты с протекторным действием от УФ-облучения для наружного применения </category>
+            <category id="19621" parentId="19619">Препараты с протекторным действием от УФ-облучения для системного применения </category>
+            <category id="19622" parentId="19602">Препараты для лечения ран и язв </category>
+            <category id="19623" parentId="19622">Препараты, способствующие нормальному рубцеванию </category>
+            <category id="19624" parentId="19623">Мази, содержащие жир печени трески </category>
+            <category id="19625" parentId="19623">Прочие препараты, способствующие нормальному рубцеванию </category>
+            <category id="19626" parentId="19622">Ферментные препараты </category>
+            <category id="19627" parentId="19626">Протеолитические ферменты </category>
+            <category id="19628" parentId="19602">Препараты для лечения зуда (включая антигистаминные препараты и анестетики) </category>
+            <category id="19629" parentId="19628">Препараты для лечения зуда (включая антигистаминные препараты и анестетики) </category>
+            <category id="19630" parentId="19629">Антигистаминные препараты для наружного применения </category>
+            <category id="19631" parentId="19629">Местные анестетики для наружного применения </category>
+            <category id="19632" parentId="19629">Прочие препараты для лечения зуда </category>
+            <category id="19633" parentId="19602">Препараты для лечения псориаза </category>
+            <category id="19634" parentId="19633">Препараты для лечения псориаза для наружного применения </category>
+            <category id="19635" parentId="19634">Препараты, содержащие деготь </category>
+            <category id="19636" parentId="19634">Производные антрацена</category>
+            <category id="19637" parentId="19634">Псоралены для наружного применения </category>
+            <category id="19638" parentId="19634">Прочие препараты для лечения псориаза для наружного применения </category>
+            <category id="19639" parentId="19633">Препараты для лечения псориаза для системного применения</category>
+            <category id="19640" parentId="19639">Псоралены для системного применения </category>
+            <category id="19641" parentId="19639">Ретиноиды для лечения псориаза </category>
+            <category id="19642" parentId="19639">Прочие препараты для лечения псориаза для системного применения</category>
+            <category id="19643" parentId="19602">Противомикробные препараты для лечения заболеваний кожи </category>
+            <category id="19644" parentId="19643">Антибиотики для наружного применения </category>
+            <category id="19645" parentId="19644">Тетрациклин и его производные </category>
+            <category id="19646" parentId="19644">Прочие антибиотики для наружного применения </category>
+            <category id="19647" parentId="19643">Другие противомикробные препараты для наружного применения </category>
+            <category id="19648" parentId="19647">Сульфаниламиды </category>
+            <category id="19649" parentId="19647">Противовирусные препараты </category>
+            <category id="19650" parentId="19647">Прочие противомикробные препараты</category>
+            <category id="19651" parentId="19643">Антибиотики в комбинации с другими противомикробными препаратами </category>
+            <category id="19652" parentId="19602">Кортикостероиды для лечения заболеваний кожи для наружного применения </category>
+            <category id="19653" parentId="19652">Кортикостероиды </category>
+            <category id="19654" parentId="19653">Кортикостероиды слабоактивные (группа I)</category>
+            <category id="19655" parentId="19653">Кортикостероиды умеренноактивные (группа II)</category>
+            <category id="19656" parentId="19653">Кортикостероиды высокоактивные (группа III) </category>
+            <category id="19657" parentId="19653">Кортикостероиды очень высокоактивные (группа IV) </category>
+            <category id="19658" parentId="19957">Производные колхицина</category>
+            <category id="19659" parentId="19652">Кортикостероиды в комбинации с антисептиками </category>
+            <category id="19660" parentId="19659">Кортикостероиды слабоактивные в комбинации с антисептиками</category>
+            <category id="19661" parentId="19659">Кортикостероиды умеренноактивные в комбинации с антисептиками</category>
+            <category id="19662" parentId="19659">Кортикостероиды высокоактивные в комбинации с антисептиками</category>
+            <category id="19663" parentId="19659">Кортикостероиды очень высокоактивные в комбинации с антисептиками</category>
+            <category id="19664" parentId="19652">Кортикостероиды в комбинации с антибиотиками</category>
+            <category id="19665" parentId="19664">Кортикостероиды слабоактивные в комбинации с антибиотиками</category>
+            <category id="19666" parentId="19664">Кортикостероиды умеренноактивные в комбинации с антибиотиками</category>
+            <category id="19667" parentId="19664">Кортикостероиды высокоактивные в комбинации с антибиотиками</category>
+            <category id="19668" parentId="19664">Кортикостероиды очень высокоактивные в комбинации с антибиотиками</category>
+            <category id="19669" parentId="19652">Кортикостероиды в комбинации с другими препаратами</category>
+            <category id="19670" parentId="19669">Кортикостероиды слабоактивные в комбинации с другими препаратами</category>
+            <category id="19671" parentId="19669">Кортикостероиды с умеренной активностью в комбинации с другими препаратами </category>
+            <category id="19672" parentId="19669">Кортикостероиды высокоактивные в комбинации с другими препаратами </category>
+            <category id="19673" parentId="19669">Кортикостероиды очень высокоактивные в комбинации с другими препаратами</category>
+            <category id="19674" parentId="19602">Антисептики и дезинфицирующие препараты</category>
+            <category id="19675" parentId="19674">Антисептики и дезинфицирующие препараты </category>
+            <category id="19676" parentId="19675">Производные акридина </category>
+            <category id="19677" parentId="19675">Препараты алюминия </category>
+            <category id="19678" parentId="19675">Бигуаниды и амидины</category>
+            <category id="19679" parentId="19675">Препараты борной кислоты </category>
+            <category id="19680" parentId="19675">Производные нитрофурана </category>
+            <category id="19681" parentId="19675">Препараты йода </category>
+            <category id="19682" parentId="19675">Производные хинолина </category>
+            <category id="19683" parentId="19675">Четвертичные аммониевые соединения </category>
+            <category id="19684" parentId="19675">Препараты ртути </category>
+            <category id="19685" parentId="19675">Препараты серебра </category>
+            <category id="19686" parentId="19675">Прочие антисептики и дезинфицирующие препараты </category>
+            <category id="19687" parentId="19675">Фенол и его производные </category>
+            <category id="19688" parentId="19602">Перевязочный материал</category>
+            <category id="19689" parentId="19688">Перевязочный материал </category>
+            <category id="19690" parentId="19689">Перевязочный материал с противомикробными препаратами на мазевой основе</category>
+            <category id="19691" parentId="19689">Бинты с препаратами цинка </category>
+            <category id="19692" parentId="19689">Повязки с мягким парафином </category>
+            <category id="19693" parentId="19602">Препараты для лечения угревой сыпи</category>
+            <category id="19694" parentId="19693">Препараты для лечения угрей для наружного применения</category>
+            <category id="19695" parentId="19694">Препараты для лечения угрей для наружного применения, содержащие глюкокортикоиды</category>
+            <category id="19696" parentId="19694">Препараты для лечения угрей для наружного применения, содержащие серу</category>
+            <category id="19697" parentId="19694">Препараты для лечения угрей для наружного применения, содержащие ретиноиды</category>
+            <category id="19698" parentId="19957">Таксаны</category>
+            <category id="19699" parentId="19694">Препараты для лечения угрей для наружного применения, содержащие пероксиды</category>
+            <category id="19700" parentId="19694">Противомикробные препараты для лечения угрей для наружного применения </category>
+            <category id="19701" parentId="19694">Прочие препараты для лечения угрей для наружного применения </category>
+            <category id="19702" parentId="19693">Препараты для лечения угрей для системного применения</category>
+            <category id="19703" parentId="19702">Ретиноиды для лечения угрей для системного применения </category>
+            <category id="19704" parentId="19702">Прочие препараты для лечения угрей для системного применения</category>
+            <category id="19705" parentId="19602">Прочие препараты для лечения заболеваний кожи</category>
+            <category id="19706" parentId="19705">Прочие препараты для лечения заболеваний кожи </category>
+            <category id="19707" parentId="19706">Препараты для лечения повышенного потоотделения </category>
+            <category id="19708" parentId="19706">Шампуни лечебного действия</category>
+            <category id="19709" parentId="19706">Андрогены для наружного применения</category>
+            <category id="19710" parentId="19706">Препараты для лечения мозолей и бородавок </category>
+            <category id="19711" parentId="19706">Препараты для лечения атопического дерматита, исключая кортикостероиды</category>
+            <category id="19712" parentId="19706">Прочие препараты для лечения заболеваний кожи </category>
+            <category id="19713" parentId="18210">Mочеполовая система и половые гормоны</category>
+            <category id="19714" parentId="19713">Антисептики и противомикробные препараты для лечения гинекологических заболеваний </category>
+            <category id="19715" parentId="19714">Антисептики и противомикробные препараты для лечения гинекологических заболеваний (исключая комбин</category>
+            <category id="19716" parentId="19715">Антибиотики</category>
+            <category id="19717" parentId="19715">Соединения мышьяка </category>
+            <category id="19718" parentId="19715">Производные хинолина</category>
+            <category id="19719" parentId="19715">Органические кислоты</category>
+            <category id="19720" parentId="19715">Сульфаниламиды</category>
+            <category id="19721" parentId="19715">Производные имидазола </category>
+            <category id="19722" parentId="19715">Производные триазола</category>
+            <category id="19723" parentId="19715">Прочие антисептики и противомикробные препараты для лечения гинекологических заболеваний </category>
+            <category id="19724" parentId="19714">Антисептики и противомикробные препараты для лечения гинекологических заболеваний в комбинации с кор</category>
+            <category id="19725" parentId="19724">Антибиотики в комбинации с кортикостероидами </category>
+            <category id="19726" parentId="19724">Производные хинолина в комбинации с кортикостероидами </category>
+            <category id="19727" parentId="19724">Антисептики в комбинации с кортикостероидами </category>
+            <category id="19728" parentId="19724">Сульфаниламиды в комбинации с кортикостероидами </category>
+            <category id="19729" parentId="19724">Производные имидазола в комбинации с кортикостероидами </category>
+            <category id="19730" parentId="19713">Прочие гинекологические препараты </category>
+            <category id="19731" parentId="19730">Препараты, повышающие тонус миометрия </category>
+            <category id="19732" parentId="19731">Препараты алкалоидов спорыньи</category>
+            <category id="19733" parentId="19731">Алкалоиды спорыньи в комбинации с окситоцином и его производными </category>
+            <category id="19734" parentId="19731">Простагландины</category>
+            <category id="19735" parentId="19731">Прочие препараты, повышающие тонус миометрия </category>
+            <category id="19736" parentId="19730">Контрацептивы для местного применения</category>
+            <category id="19737" parentId="19736">Внутриматочные контрацептивы</category>
+            <category id="19738" parentId="19736">Интравагинальные контрацептивы </category>
+            <category id="19739" parentId="19730">Прочие препараты для лечения гинекологических заболеваний </category>
+            <category id="19740" parentId="19739">Токолитические препараты - симпатомиметики </category>
+            <category id="19741" parentId="19739">Ингибиторы секреции пролактина</category>
+            <category id="19742" parentId="19739">Противовоспалительные препараты для интравагинального применения </category>
+            <category id="19743" parentId="19739">Другие препараты для применения в гинекологии </category>
+            <category id="19744" parentId="19713">Половые гормоны и модуляторы половой системы </category>
+            <category id="19745" parentId="19744">Гормональные контрацептивы для системного применения</category>
+            <category id="19746" parentId="19745">Прогестагены и эстрогены (фиксированные комбинации) </category>
+            <category id="19747" parentId="19745">Прогестагены и эстрогены (комбинации для последовательного приема) </category>
+            <category id="19748" parentId="19745">Прогестагены</category>
+            <category id="19749" parentId="19745">Препараты для экстренной контрацепции</category>
+            <category id="19750" parentId="19744">Андрогены</category>
+            <category id="19751" parentId="19750">Производные 3-оксоандростена</category>
+            <category id="19752" parentId="19750">Производные 5-андростанона </category>
+            <category id="19753" parentId="19744">Эстрогены </category>
+            <category id="19754" parentId="19753">Природные и полусинтетические эстрогены</category>
+            <category id="19755" parentId="19753">Синтетические эстрогены </category>
+            <category id="19756" parentId="19753">Эстрогены в комбинации с другими препаратами </category>
+            <category id="19757" parentId="19753">Прочие эстрогены</category>
+            <category id="19758" parentId="19744">Прогестагены </category>
+            <category id="19759" parentId="19758">Производные прегнина </category>
+            <category id="19760" parentId="19758">Производные прегнадиена </category>
+            <category id="19761" parentId="19758">Производные эстрена </category>
+            <category id="19762" parentId="19744">Андрогены в комбинации с женскими половыми гормонами </category>
+            <category id="19763" parentId="19762">Андрогены и эстрогены</category>
+            <category id="19764" parentId="19762">Андрогены в комбинации с прогестагенами и эстрогенами </category>
+            <category id="19765" parentId="19762">Андрогены и женские половые гормоны в комбинации с другими препаратами</category>
+            <category id="19766" parentId="19744">Прогестагены в комбинации с эстрогенами </category>
+            <category id="19767" parentId="19766">Прогестагены и эстрогены </category>
+            <category id="19768" parentId="19766">Прогестагены в комбинации с эстрогенами (комбинации для последовательного приема)</category>
+            <category id="19769" parentId="19744">Гонадотропины и другие стимуляторы овуляции </category>
+            <category id="19770" parentId="19769">Гонадотропины </category>
+            <category id="19771" parentId="19769">Синтетические стимуляторы овуляции</category>
+            <category id="19772" parentId="19744">Антиандрогены </category>
+            <category id="19773" parentId="19772">Антиандрогены</category>
+            <category id="19774" parentId="19772">Антиандрогены и эстрогены </category>
+            <category id="19775" parentId="19744">Прочие половые гормоны и модуляторы половой системы </category>
+            <category id="19776" parentId="19775">Антигонадотропины</category>
+            <category id="19777" parentId="19775">Модуляторы прогестероновых рецепторов </category>
+            <category id="19778" parentId="19775">Селективные модуляторы эстрогенных рецепторов </category>
+            <category id="19779" parentId="19713">Препараты для лечения урологических заболеваний </category>
+            <category id="19780" parentId="19779">Другие препараты для лечения урологических заболеваний (в т.ч. спазмолитики) </category>
+            <category id="19781" parentId="19780">Препараты, вызывающие кислую реакцию мочи </category>
+            <category id="19782" parentId="19780">Препараты для лечения нефроуролитиаза </category>
+            <category id="19783" parentId="19780">Спазмолитики </category>
+            <category id="19784" parentId="19780">Препараты для лечения нарушений эрекции </category>
+            <category id="19785" parentId="19780">Прочие препараты для лечения урологических заболеваний </category>
+            <category id="19786" parentId="19779">Препараты для лечения доброкачественной гиперплазии предстательной железы </category>
+            <category id="19787" parentId="19786">Альфа-адреноблокаторы </category>
+            <category id="19788" parentId="19786">Ингибиторы 5-альфа-редуктазы тестостерона</category>
+            <category id="19789" parentId="19786">Прочие препараты для лечения доброкачественной гиперплазии предстательной железы </category>
+            <category id="19790" parentId="18210">Гормоны для системного применения (исключая половые гормоны и инсулины)</category>
+            <category id="19791" parentId="19790">Гормоны гипоталамуса и гипофиза и их аналоги </category>
+            <category id="19792" parentId="19791">Гормоны передней доли гипофиза и их аналоги </category>
+            <category id="19793" parentId="19792">АКТГ</category>
+            <category id="19794" parentId="19792">Тиротропин </category>
+            <category id="19795" parentId="19792">Соматропин и его аналоги </category>
+            <category id="19796" parentId="19792">Другие гормоны передней доли гипофиза и их аналоги </category>
+            <category id="19797" parentId="19791">Гормоны задней доли гипофиза</category>
+            <category id="19798" parentId="19797">Вазопрессин и его аналоги</category>
+            <category id="19799" parentId="19797">Окситоцин и его производные</category>
+            <category id="19800" parentId="19791">Гормоны гипоталамуса</category>
+            <category id="19801" parentId="19800">Гонадотропин-рилизинг гормоны</category>
+            <category id="19802" parentId="19800">Гормоны, замедляющие рост </category>
+            <category id="19803" parentId="19800">Антигонадотропин-рилизинг гормон </category>
+            <category id="19804" parentId="19790">Кортикостероиды для системного применения </category>
+            <category id="19805" parentId="19804">Кортикостероиды для системного применения</category>
+            <category id="19806" parentId="19805">Минералокортикоиды</category>
+            <category id="19807" parentId="19805">Глюкокортикоиды </category>
+            <category id="19808" parentId="19804">Комбинации кортикостероидов для системного применения </category>
+            <category id="19809" parentId="19808">Комбинации кортикостероидов для системного применения </category>
+            <category id="19810" parentId="19804">Препараты, подавляющие функцию коры надпочечников </category>
+            <category id="19811" parentId="19810">Ингибиторы синтеза кортикостероидов </category>
+            <category id="19812" parentId="19790">Препараты для лечения заболеваний щитовидной железы </category>
+            <category id="19813" parentId="19812">Препараты для лечения заболеваний щитовидной железы</category>
+            <category id="19814" parentId="19813">Гормоны щитовидной железы</category>
+            <category id="19815" parentId="19812">Антитиреоидные препараты</category>
+            <category id="19816" parentId="19815">Производные тиоурацила </category>
+            <category id="19817" parentId="19815">Производные имидазола, содержащие серу</category>
+            <category id="19818" parentId="19815">Перхлораты</category>
+            <category id="19819" parentId="19815">Прочие антитиреоидные препараты</category>
+            <category id="19820" parentId="19812">Препараты йода</category>
+            <category id="19821" parentId="19820">Препараты йода </category>
+            <category id="19822" parentId="19790">Гормоны поджелудочной железы </category>
+            <category id="19823" parentId="19822">Гормоны, расщепляющие гликоген</category>
+            <category id="19824" parentId="19823">Гормоны, расщепляющие гликоген </category>
+            <category id="19825" parentId="19790">Препараты, регулирующие обмен кальция </category>
+            <category id="19826" parentId="19825">Паратиреоидные гормоны</category>
+            <category id="19827" parentId="19826">Паратиреоидные гормоны</category>
+            <category id="19828" parentId="19825">Антипаратиреоидные гормоны</category>
+            <category id="19829" parentId="19828">Препараты кальцитонина </category>
+            <category id="19830" parentId="19828">Прочие антипаратиреоидные препараты</category>
+            <category id="19831" parentId="18210">Противомикробные препараты для системного использования</category>
+            <category id="19832" parentId="19831">Противомикробные препараты для системного применения </category>
+            <category id="19833" parentId="19832">Тетрациклины </category>
+            <category id="19834" parentId="19833">Тетрациклины </category>
+            <category id="19835" parentId="19832">Амфениколы</category>
+            <category id="19836" parentId="19835">Амфениколы </category>
+            <category id="19837" parentId="19832">Бета-лактамные антибиотики - пенициллины</category>
+            <category id="19838" parentId="19837">Пенициллины широкого спектра действия</category>
+            <category id="19839" parentId="19837">Пенициллины, чувствительные к бета-лактамазам</category>
+            <category id="19840" parentId="19837">Пенициллины, устойчивые к бета-лактамазам</category>
+            <category id="19841" parentId="19837">Ингибиторы бета-лактамаз</category>
+            <category id="19842" parentId="19837">Комбинации пенициллинов (в т.ч. с ингибиторами бета-лактамаз)</category>
+            <category id="19843" parentId="19832">Другие бета-лактамные антибиотики </category>
+            <category id="19844" parentId="19843">Цефалоспорины первого поколения</category>
+            <category id="19845" parentId="19843">Цефалоспорины второго поколения</category>
+            <category id="19846" parentId="19843">Цефалоспорины третьего поколения </category>
+            <category id="19847" parentId="19843">Цефалоспорины четвертого поколения </category>
+            <category id="19848" parentId="19843">Монобактамы</category>
+            <category id="19849" parentId="19843">Карбапенемы</category>
+            <category id="19850" parentId="19843">Другие цефалоспорины и пенемы </category>
+            <category id="19851" parentId="19832">Сульфаниламиды и триметоприм</category>
+            <category id="19852" parentId="19851">Триметоприм и его производные</category>
+            <category id="19853" parentId="19851">Сульфаниламиды короткого действия</category>
+            <category id="19854" parentId="19851">Сульфаниламиды средней продолжительности действия </category>
+            <category id="19855" parentId="19851">Сульфаниламиды длительного действия </category>
+            <category id="19856" parentId="19851">Сульфаниламиды в комбинации с триметопримом (включая его производные) </category>
+            <category id="19857" parentId="19832">Макролиды и линкозамиды </category>
+            <category id="19858" parentId="19857">Макролиды</category>
+            <category id="19859" parentId="19857">Линкозамиды</category>
+            <category id="19860" parentId="19857">Стрептограмины</category>
+            <category id="19861" parentId="19832">Аминогликозиды</category>
+            <category id="19862" parentId="19861">Стрептомицины</category>
+            <category id="19863" parentId="19861">Прочие аминогликозиды </category>
+            <category id="19864" parentId="19832">Антибактериальные препараты - производные хинолона </category>
+            <category id="19865" parentId="19864">Фторхинолоны</category>
+            <category id="19866" parentId="19864">Прочие хинолоны </category>
+            <category id="19867" parentId="19832">Комбинации антибактериальных препаратов </category>
+            <category id="19868" parentId="19867">Комбинации антибактериальных препаратов </category>
+            <category id="19869" parentId="19832">Другие антибактериальные препараты </category>
+            <category id="19870" parentId="19869">Антибиотики гликопептидной структуры </category>
+            <category id="19871" parentId="19869">Полимиксины</category>
+            <category id="19872" parentId="19869">Антибиотики стероидной структуры </category>
+            <category id="19873" parentId="19869">Производные имидазола </category>
+            <category id="19874" parentId="19869">Производные нитрофурана </category>
+            <category id="19875" parentId="19869">Другие антибактериальные препараты </category>
+            <category id="19876" parentId="19831">Противогрибковые препараты для системного применения </category>
+            <category id="19877" parentId="19876">Противогрибковые препараты для системного применения </category>
+            <category id="19878" parentId="19877">Противогрибковые антибиотики</category>
+            <category id="19879" parentId="19877">Производные имидазола</category>
+            <category id="19880" parentId="19877">Производные триазола</category>
+            <category id="19881" parentId="19877">Прочие противогрибковые препараты для системного применения</category>
+            <category id="19882" parentId="19831">Препараты, активные в отношении микобактерий </category>
+            <category id="19883" parentId="19882">Противотуберкулезные препараты</category>
+            <category id="19884" parentId="19883">Аминосалициловая кислота и ее производные</category>
+            <category id="19885" parentId="19883">Антибиотики</category>
+            <category id="19886" parentId="19883">Производные гидразида изоникотиновой кислоты </category>
+            <category id="19887" parentId="19883">Производные тиокарбамида</category>
+            <category id="19888" parentId="19883">Прочие противотуберкулезные препараты </category>
+            <category id="19889" parentId="19883">Комбинации противотуберкулезных препаратов </category>
+            <category id="19890" parentId="19882">Противолепрозные препараты</category>
+            <category id="19891" parentId="19890">Противолепрозные препараты</category>
+            <category id="19892" parentId="19831">Противовирусные препараты для системного применения </category>
+            <category id="19893" parentId="19892">Противовирусные препараты прямого действия </category>
+            <category id="19894" parentId="19893">Тиосемикарбазоны</category>
+            <category id="19895" parentId="19893">Нуклеозиды и нуклеотиды</category>
+            <category id="19896" parentId="19893">Циклические амины</category>
+            <category id="19897" parentId="19893">Производные фосфоновой кислоты </category>
+            <category id="19898" parentId="19893">Ингибиторы протеазы </category>
+            <category id="19899" parentId="19893">Нуклеозиды - ингибиторы обратной транскриптазы </category>
+            <category id="19900" parentId="19893">Ненуклеозиды - ингибиторы обратной транскриптазы </category>
+            <category id="19901" parentId="19893">Ингибиторы нейраминидазы</category>
+            <category id="19902" parentId="19893">Комбинации противовирусных препаратов, активных в отношении ВИЧ </category>
+            <category id="19903" parentId="19893">Прочие противовирусные препараты </category>
+            <category id="19904" parentId="19831">Иммунные сыворотки и иммуноглобулины </category>
+            <category id="19905" parentId="19904">Иммунные сыворотки</category>
+            <category id="19906" parentId="19905">Иммунные сыворотки</category>
+            <category id="19907" parentId="19904">Иммуноглобулины </category>
+            <category id="19908" parentId="19907">Иммуноглобулин нормальный человеческий </category>
+            <category id="19909" parentId="19907">Иммуноглобулины специфические</category>
+            <category id="19910" parentId="19907">Прочие иммуноглобулины </category>
+            <category id="19911" parentId="19831">Вакцины </category>
+            <category id="19912" parentId="19911">Вакцины для профилактики бактериальных инфекций</category>
+            <category id="19913" parentId="19912">Вакцина для профилактики сибирской язвы</category>
+            <category id="19914" parentId="19912">Вакцина для профилактики бруцеллеза</category>
+            <category id="19915" parentId="19912">Вакцина для профилактики холеры </category>
+            <category id="19916" parentId="19912">Вакцина для профилактики дифтерии </category>
+            <category id="19917" parentId="19912">Вакцина для профилактики инфекций, вызываемых Haemophilus influenza B</category>
+            <category id="19918" parentId="19912">Вакцина для профилактики менингита </category>
+            <category id="19919" parentId="19912">Вакцина для профилактики коклюша </category>
+            <category id="19920" parentId="19912">Вакцина для профилактики чумы </category>
+            <category id="19921" parentId="19912">Вакцина для профилактики пневмококковой инфекции</category>
+            <category id="19922" parentId="19912">Вакцина для профилактики столбняка</category>
+            <category id="19923" parentId="19912">Вакцина для профилактики туберкулеза </category>
+            <category id="19924" parentId="19912">Вакцина для профилактики брюшного тифа </category>
+            <category id="19925" parentId="19912">Вакцины для профилактики сыпного тифа</category>
+            <category id="19926" parentId="19912">Другие вакцины для профилактики бактериальных инфекций </category>
+            <category id="19927" parentId="19911">Вакцины для профилактики вирусных инфекций </category>
+            <category id="19928" parentId="19927">Вакцина для профилактики энцефалита </category>
+            <category id="19929" parentId="19927">Вакцина для профилактики гриппа </category>
+            <category id="19930" parentId="19927">Вакцина для профилактики гепатита</category>
+            <category id="19931" parentId="19927">Вакцина для профилактики кори</category>
+            <category id="19932" parentId="19927">Вакцина для профилактики паротита </category>
+            <category id="19933" parentId="19927">Вакцины для профилактики полиомиелита</category>
+            <category id="19934" parentId="19927">Вакцина для профилактики бешенства </category>
+            <category id="19935" parentId="19927">Вакцина для профилактики рота-вирусной диареи</category>
+            <category id="19936" parentId="19927">Вакцина для профилактики краснухи</category>
+            <category id="19937" parentId="19927">Вакцина для профилактики заболеваний, вызываемых вирусом Varicella zoster </category>
+            <category id="19938" parentId="19927">Вакцина для профилактики желтой лихорадки</category>
+            <category id="19939" parentId="19927">Вакцина для профилактики заболеваний, вызываемых вирусом папилломы человека </category>
+            <category id="19940" parentId="19927">Другие вакцины для профилактики вирусных инфекций </category>
+            <category id="19941" parentId="19911">Комбинация вакцин для профилактики вирусных и бактериальных инфекций </category>
+            <category id="19942" parentId="19941">Комбинация вакцин для профилактики вирусных и бактериальных инфекций </category>
+            <category id="19943" parentId="19911">Другие вакцины </category>
+            <category id="19944" parentId="18210">Противоопухолевые препараты и иммуномодуляторы</category>
+            <category id="19945" parentId="19944">Противоопухолевые препараты</category>
+            <category id="19946" parentId="19945">Алкилирующие препараты</category>
+            <category id="19947" parentId="19946">Аналоги азотистого иприта</category>
+            <category id="19948" parentId="19946">Алкилсульфонаты</category>
+            <category id="19949" parentId="19946">Этиленимина производные</category>
+            <category id="19950" parentId="19946">Производные нитрозомочевины</category>
+            <category id="19951" parentId="19946">Эпоксиды</category>
+            <category id="19952" parentId="19946">Другие алкилирующие средства</category>
+            <category id="19953" parentId="19945">Антиметаболиты</category>
+            <category id="19954" parentId="19953">Аналоги фолиевой кислоты</category>
+            <category id="19955" parentId="19953">Аналоги пурина</category>
+            <category id="19956" parentId="19953">Аналоги пиримидина</category>
+            <category id="19957" parentId="19945">Алкалоиды растительного происхождения</category>
+            <category id="19958" parentId="19957">Алкалоиды барвинка и их аналоги</category>
+            <category id="19959" parentId="19957">Производные подофиллотоксина</category>
+            <category id="19960" parentId="19957">Алкалоиды растительного происхождения и другие препараты природного происхождения другие</category>
+            <category id="19961" parentId="19945">Противоопухолевые антибиотики</category>
+            <category id="19962" parentId="19961">Актиномицины</category>
+            <category id="19963" parentId="19961">Антрациклины и родственные соединения</category>
+            <category id="19964" parentId="19961">Другие противоопухолевые антибиотики</category>
+            <category id="19965" parentId="19945">Другие противоопухолевые препараты</category>
+            <category id="19966" parentId="19965">Препараты платины</category>
+            <category id="19967" parentId="19965">Метилгидразины</category>
+            <category id="19968" parentId="19965">Моноклональные антитела</category>
+            <category id="19969" parentId="19965">Препараты для фотодинамической терапии</category>
+            <category id="19970" parentId="19965">Ингибиторы протеинкиназы</category>
+            <category id="19971" parentId="19965">Прочие противоопухолевые препараты</category>
+            <category id="19972" parentId="19965">Комбинация противоопухолевых препаратов</category>
+            <category id="19973" parentId="19944">Противоопухолевые гормональные препараты</category>
+            <category id="19974" parentId="19973">Гормоны и родственные соединения</category>
+            <category id="19975" parentId="19974">Эстрогены</category>
+            <category id="19976" parentId="19974">Прогестагены</category>
+            <category id="19977" parentId="19974">Аналоги гонадотропин-рилизинг гормона</category>
+            <category id="19978" parentId="19974">Прочие гормоны</category>
+            <category id="19979" parentId="19973">Антагонисты гормонов и родственные соединения</category>
+            <category id="19980" parentId="19979">Антиэстрогены</category>
+            <category id="19981" parentId="19979">Антиандрогены</category>
+            <category id="19982" parentId="19979">Ингибиторы ферментов</category>
+            <category id="19983" parentId="19979">Гормонов антагонисты и их аналоги прочие</category>
+            <category id="19984" parentId="19944">Иммуномодуляторы</category>
+            <category id="19985" parentId="19984">Иммуностимуляторы</category>
+            <category id="19986" parentId="19985">Колониестимулирующие факторы</category>
+            <category id="19987" parentId="19985">Интерфероны</category>
+            <category id="19988" parentId="19985">Интерлейкины</category>
+            <category id="19989" parentId="19985">Иммуностимуляторы другие</category>
+            <category id="19990" parentId="19944">Иммунодепрессанты</category>
+            <category id="19991" parentId="19990">Иммунодепрессанты</category>
+            <category id="19992" parentId="19991">Селективные иммунодепрессанты</category>
+            <category id="19993" parentId="19991">Ингибиторы фактора некроза опухоли альфа</category>
+            <category id="19994" parentId="19991">Ингибиторы интерлейкина</category>
+            <category id="19995" parentId="19991">Ингибиторы кальциневрина</category>
+            <category id="19996" parentId="19991">Другие иммунодепрессанты</category>
+            <category id="19997" parentId="18210">Костно-мышечная система</category>
+            <category id="19998" parentId="19997">Противовоспалительные и противоревматические препараты </category>
+            <category id="19999" parentId="19998">Нестероидные противовоспалительные препараты</category>
+            <category id="20000" parentId="19999">Бутилпиразолидоны </category>
+            <category id="20001" parentId="19999">Производные уксусной кислоты </category>
+            <category id="20002" parentId="19999">Оксикамы </category>
+            <category id="20003" parentId="19999">Производные пропионовой кислоты</category>
+            <category id="20004" parentId="19999">Фенаматы </category>
+            <category id="20005" parentId="19999">Коксибы </category>
+            <category id="20006" parentId="19999">Прочие нестероидные противовоспалительные препараты </category>
+            <category id="20007" parentId="19998">Комбинации противовоспалительных препаратов</category>
+            <category id="20008" parentId="20007">Нестероидные противовоспалительные препараты в комбинации с кортикостероидами </category>
+            <category id="20009" parentId="20007">Другие комбинации противовоспалительных препаратов </category>
+            <category id="20010" parentId="19998">Базисные противоревматические препараты </category>
+            <category id="20011" parentId="20010">Хинолины</category>
+            <category id="20012" parentId="20010">Препараты золота </category>
+            <category id="20013" parentId="20010">Пеницилламин и подобные препараты </category>
+            <category id="20014" parentId="20010">Прочие специфические противоревматические препараты </category>
+            <category id="20015" parentId="19997">Препараты для наружного применения при болевом синдроме при заболеваниях костно-мышечной системы</category>
+            <category id="20016" parentId="20015">Препараты для наружного применения при болевом синдроме при заболеваниях костно-мышечной системы </category>
+            <category id="20017" parentId="20016">Нестероидные противовоспалительные препараты для наружного применения </category>
+            <category id="20018" parentId="20016">Капсаицин и подобные </category>
+            <category id="20019" parentId="20016">Препараты, содержащие производные салициловой кислоты </category>
+            <category id="20020" parentId="20016">Другие препараты для наружного применения при болевом синдроме при заболеваниях костно-мышечной си</category>
+            <category id="20021" parentId="19997">Миорелаксанты </category>
+            <category id="20022" parentId="20021">Миорелаксанты периферического действия </category>
+            <category id="20023" parentId="20022">Алкалоиды кураре</category>
+            <category id="20024" parentId="20022">Производные холина</category>
+            <category id="20025" parentId="20022">Прочие четвертичные аммониевые соединения</category>
+            <category id="20026" parentId="20022">Прочие миорелаксанты периферического действия </category>
+            <category id="20027" parentId="20021">Миорелаксанты центрального действия</category>
+            <category id="20028" parentId="20027">Эфиры мочевой кислоты</category>
+            <category id="20029" parentId="20027">Производные оксазола, тиазина и триазина</category>
+            <category id="20030" parentId="20027">Эфиры, химически близкие к антигистаминным препаратам</category>
+            <category id="20031" parentId="20027">Прочие миорелаксанты центрального действия</category>
+            <category id="20032" parentId="20021">Миорелаксанты прямого действия</category>
+            <category id="20033" parentId="20032">Дантролен и его производные </category>
+            <category id="20034" parentId="19997">Противоподагрические препараты</category>
+            <category id="20035" parentId="20034">Противоподагрические препараты</category>
+            <category id="20036" parentId="20035">Ингибиторы синтеза мочевой кислоты</category>
+            <category id="20037" parentId="20035">Препараты, увеличивающие выведение мочевой кислоты</category>
+            <category id="20038" parentId="20035">Противоподагрические препараты, не влияющие на метаболизм мочевой кислоты </category>
+            <category id="20039" parentId="20035">Прочие противоподагрические препараты </category>
+            <category id="20040" parentId="19997">Препараты для лечения заболеваний костей</category>
+            <category id="20041" parentId="20040">Препараты, влияющие на минерализацию костей</category>
+            <category id="20042" parentId="20041">Биcфосфонаты</category>
+            <category id="20043" parentId="20041">Биcфосфонаты в комбинации с препаратами кальция </category>
+            <category id="20044" parentId="20041">Костные морфогенетические белки (BMP) </category>
+            <category id="20045" parentId="20041">Прочие препараты, влияющие на минерализацию костей </category>
+            <category id="20046" parentId="19997">Другие препараты для лечения заболеваний костно-мышечной системы </category>
+            <category id="20047" parentId="20046">Другие препараты для лечения заболеваний костно-мышечной системы</category>
+            <category id="20048" parentId="20047">Хинин и его производные </category>
+            <category id="20049" parentId="20047">Ферментные препараты </category>
+            <category id="20050" parentId="20047">Прочие препараты для лечения заболеваний костно-мышечной системы </category>
+            <category id="20051" parentId="18210">Нервная система</category>
+            <category id="20052" parentId="20051">Анестетики </category>
+            <category id="20053" parentId="20052">Препараты для общей анестезии</category>
+            <category id="20054" parentId="20053">Эфиры</category>
+            <category id="20055" parentId="20053">Галогенизированные углеводороды</category>
+            <category id="20056" parentId="20053">Барбитураты </category>
+            <category id="20057" parentId="20053">Барбитураты в комбинации с другими препаратами </category>
+            <category id="20058" parentId="20053">Опиоидные анальгетики</category>
+            <category id="20059" parentId="20053">Другие препараты для общей анестезии </category>
+            <category id="20060" parentId="20052">Препараты для местной анестезии </category>
+            <category id="20061" parentId="20060">Эфиры аминобензойной кислоты</category>
+            <category id="20062" parentId="20060">Амиды</category>
+            <category id="20063" parentId="20060">Эфиры бензойной кислоты </category>
+            <category id="20064" parentId="20060">Прочие препараты для местной анестезии</category>
+            <category id="20065" parentId="20051">Анальгетики</category>
+            <category id="20066" parentId="20065">Опиоиды</category>
+            <category id="20067" parentId="20066">Природные алкалоиды опия </category>
+            <category id="20068" parentId="20066">Производные фенилпиперидина </category>
+            <category id="20069" parentId="20066">Производные дифенилпропиламина </category>
+            <category id="20070" parentId="20066">Производные бензоморфана </category>
+            <category id="20071" parentId="20066">Производные орипавина </category>
+            <category id="20072" parentId="20066">Производные морфина</category>
+            <category id="20073" parentId="20066">Опиоиды в комбинации со спазмолитиками </category>
+            <category id="20074" parentId="20066">Опиоиды в комбинации с неопиоидными анальгетиками </category>
+            <category id="20075" parentId="20066">Прочие опиоиды</category>
+            <category id="20076" parentId="20065">Анальгетики и антипиретики</category>
+            <category id="20077" parentId="20076">Салициловая кислота и ее производные</category>
+            <category id="20078" parentId="20076">Пиразолоны </category>
+            <category id="20079" parentId="20076">Анилиды</category>
+            <category id="20080" parentId="20076">Прочие анальгетики и антипиретики </category>
+            <category id="20081" parentId="20065">Противомигренозные препараты</category>
+            <category id="20082" parentId="20081">Алкалоиды спорыньи</category>
+            <category id="20083" parentId="20081">Производные кортикостероидов</category>
+            <category id="20084" parentId="20081">Селективные агонисты 5НТ1-рецепторов </category>
+            <category id="20085" parentId="20081">Прочие противомигренозные препараты </category>
+            <category id="20086" parentId="20051">Противоэпилептические препараты</category>
+            <category id="20087" parentId="20086">Противоэпилептические препараты</category>
+            <category id="20088" parentId="20087">Барбитураты и их производные </category>
+            <category id="20089" parentId="20087">Производные гидантоина</category>
+            <category id="20090" parentId="20087">Производные оксазолидина</category>
+            <category id="20091" parentId="20087">Производные сукцинимида</category>
+            <category id="20092" parentId="20087">Производные бензодиазепина</category>
+            <category id="20093" parentId="20087">Производные карбоксамида </category>
+            <category id="20094" parentId="20087">Производные жирных кислот</category>
+            <category id="20095" parentId="20087">Прочие противоэпилептические препараты </category>
+            <category id="20096" parentId="20266">Алкиламины замещенные</category>
+            <category id="20097" parentId="20051">Противопаркинсонические препараты </category>
+            <category id="20098" parentId="20097">Центральные холиноблокаторы</category>
+            <category id="20099" parentId="20098">Третичные амины </category>
+            <category id="20100" parentId="20098">Эфиры, химически близкие к антигистаминным препаратам</category>
+            <category id="20101" parentId="20098">Тропиновые эфиры или производные тропина</category>
+            <category id="20102" parentId="20097">Допаминергические препараты</category>
+            <category id="20103" parentId="20102">Допа и допа-производные</category>
+            <category id="20104" parentId="20102">Производные адамантана</category>
+            <category id="20105" parentId="20102">Стимуляторы допаминовых рецепторов</category>
+            <category id="20106" parentId="20102">Ингибиторы моноаминоксидазы типа B</category>
+            <category id="20107" parentId="20102">Прочие допаминергические препараты</category>
+            <category id="20108" parentId="20051">Психолептики </category>
+            <category id="20109" parentId="20108">Антипсихотические препараты </category>
+            <category id="20110" parentId="20109">Производные фенотиазина с алифатической структурой</category>
+            <category id="20111" parentId="20109">Производные фенотиазина с пиперазиновой структурой</category>
+            <category id="20112" parentId="20109">Производные фенотиазина с пиперидиновой структурой </category>
+            <category id="20113" parentId="20109">Производные бутирофенона </category>
+            <category id="20114" parentId="20109">Производные индола </category>
+            <category id="20115" parentId="20109">Производные тиоксантена</category>
+            <category id="20116" parentId="20109">Производные дифенилбутилпиперидина </category>
+            <category id="20117" parentId="20109">Производные диазепина, тиазепина и оксазепина </category>
+            <category id="20118" parentId="20109">Нейролептики для лечения медленных дискинезий </category>
+            <category id="20119" parentId="20109">Бензамиды</category>
+            <category id="20120" parentId="20109">Литий</category>
+            <category id="20121" parentId="20109">Прочие антипсихотические препараты </category>
+            <category id="20122" parentId="20108">Анксиолитики </category>
+            <category id="20123" parentId="20122">Производные бензодиазепина </category>
+            <category id="20124" parentId="20122">Производные дифенилметана </category>
+            <category id="20125" parentId="20122">Карбаматы</category>
+            <category id="20126" parentId="20122">Производные дибензо-бицикло-октадиена </category>
+            <category id="20127" parentId="20122">Производные азаспиродеканедиона </category>
+            <category id="20128" parentId="20122">Прочие анксиолитики </category>
+            <category id="20129" parentId="20108">Снотворные и седативные средства </category>
+            <category id="20130" parentId="20129">Барбитураты </category>
+            <category id="20131" parentId="20129">Барбитураты в комбинации с другими препаратами</category>
+            <category id="20132" parentId="20129">Альдегиды и их производные </category>
+            <category id="20133" parentId="20129">Производные бензодиазепина </category>
+            <category id="20134" parentId="20129">Производные пиперидинедиона</category>
+            <category id="20135" parentId="20129">Бензодиазепиноподобные средства</category>
+            <category id="20136" parentId="20129">Агонисты мелатониновых рецепторов </category>
+            <category id="20137" parentId="20129">Прочие снотворные и седативные препараты </category>
+            <category id="20138" parentId="20129">Снотворные и седативные препараты (исключая барбитураты) в комбинации с другими препаратами </category>
+            <category id="20139" parentId="20051">Психоаналептики</category>
+            <category id="20140" parentId="20139">Антидепрессанты</category>
+            <category id="20141" parentId="20140">Неселективные ингибиторы обратного захвата моноаминов </category>
+            <category id="20142" parentId="20140">Cелективные ингибиторы обратного захвата серотонина</category>
+            <category id="20143" parentId="20140">Неселективные ингибиторы моноаминоксидазы </category>
+            <category id="20144" parentId="20140">Ингибиторы моноаминоксидазы типа A </category>
+            <category id="20145" parentId="20140">Прочие антидепрессанты </category>
+            <category id="20146" parentId="20139">Психостимуляторы и ноотропные препараты </category>
+            <category id="20147" parentId="20146">Симпатомиметики центрального действия</category>
+            <category id="20148" parentId="20146">Производные ксантина</category>
+            <category id="20149" parentId="20146">Другие психостимуляторы и ноотропные препараты</category>
+            <category id="20150" parentId="20139">Комбинации психолептиков и психоаналептиков </category>
+            <category id="20151" parentId="20150">Антидепрессанты в комбинации с психолептиками </category>
+            <category id="20152" parentId="20150">Психостимуляторы в комбинации с психолептиками </category>
+            <category id="20153" parentId="20139">Препараты для лечения деменции</category>
+            <category id="20154" parentId="20153">Ингибиторы холинэстеразы </category>
+            <category id="20155" parentId="20153">Прочие препараты для лечения деменции </category>
+            <category id="20156" parentId="20051">Другие препараты для лечения заболеваний нервной системы</category>
+            <category id="20157" parentId="20156">Парасимпатомиметики </category>
+            <category id="20158" parentId="20157">Антихолинэстеразные препараты </category>
+            <category id="20159" parentId="20157">Холина эфиры</category>
+            <category id="20160" parentId="20157">Прочие парасимпатомиметики</category>
+            <category id="20161" parentId="20156">Препараты, применяемые при психологической или физиологической зависимости от различных веществ </category>
+            <category id="20162" parentId="20161">Препараты, применяемые при никотиновой зависимости</category>
+            <category id="20163" parentId="20161">Препараты, применяемые при алкогольной зависимости </category>
+            <category id="20164" parentId="20161">Препараты, применяемые при опиоидной зависимости </category>
+            <category id="20165" parentId="20156">Препараты для устранения головокружения </category>
+            <category id="20166" parentId="20165">Препараты для устранения головокружения </category>
+            <category id="20167" parentId="20156">Другие препараты для лечения заболеваний нервной системы </category>
+            <category id="20168" parentId="20167">Ганглиозиды и их производные</category>
+            <category id="20169" parentId="20167">Прочие препараты для лечения заболеваний нервной системы </category>
+            <category id="20170" parentId="18210">Противопаразитарные препараты, инсектициды и репелленты</category>
+            <category id="20171" parentId="20170">Противопротозойные препараты </category>
+            <category id="20172" parentId="20171">Препараты для лечения амебиаза и других протозойных инфекций </category>
+            <category id="20173" parentId="20172">Производные гидроксихинолина </category>
+            <category id="20174" parentId="20172">Производные нитроимидазола </category>
+            <category id="20175" parentId="20172">Производные дихлороацетамида </category>
+            <category id="20176" parentId="20172">Соединения мышьяка</category>
+            <category id="20177" parentId="20172">Другие препараты для лечения амебиаза и других протозойных инфекций </category>
+            <category id="20178" parentId="20171">Препараты для лечения малярии </category>
+            <category id="20179" parentId="20178">Аминохинолины</category>
+            <category id="20180" parentId="20178">Бигуаниды</category>
+            <category id="20181" parentId="20178">Метанолхинолины</category>
+            <category id="20182" parentId="20178">Диаминопиримидины </category>
+            <category id="20183" parentId="20178">Артемисинин и его производные</category>
+            <category id="20184" parentId="20178">Прочие препараты для лечения малярии </category>
+            <category id="20185" parentId="20171">Препараты для лечения лейшманиоза и трипаносомоза </category>
+            <category id="20186" parentId="20185">Производные нитроимидазола </category>
+            <category id="20187" parentId="20185">Соединения сурьмы </category>
+            <category id="20188" parentId="20185">Производные нитрофурана </category>
+            <category id="20189" parentId="20185">Соединения мышьяка</category>
+            <category id="20190" parentId="20185">Прочие препараты для лечения лейшманиоза и трипаносомоза </category>
+            <category id="20191" parentId="20170">Противогельминтные препараты</category>
+            <category id="20192" parentId="20191">Препараты для лечения трематодоза</category>
+            <category id="20193" parentId="20192">Производные хинолина</category>
+            <category id="20194" parentId="20192">Фосфоро-органические соединения</category>
+            <category id="20195" parentId="20192">Прочие препараты для лечения трематодоза</category>
+            <category id="20196" parentId="20191">Препараты для лечения нематодоза</category>
+            <category id="20197" parentId="20196">Производные бензимидазола </category>
+            <category id="20198" parentId="20196">Пиперазин и его производные</category>
+            <category id="20199" parentId="20196">Производные тетрагидропиримидина</category>
+            <category id="20200" parentId="20196">Производные имидазотиазола</category>
+            <category id="20201" parentId="20196">Авермектины </category>
+            <category id="20202" parentId="20196">Прочие препараты для лечения нематодоза </category>
+            <category id="20203" parentId="20191">Препараты для лечения цестодозов </category>
+            <category id="20204" parentId="20203">Производные салициловой кислоты </category>
+            <category id="20205" parentId="20203">Прочие препараты для лечения цестодоза</category>
+            <category id="20206" parentId="20170">Препараты для уничтожения эктопаразитов (в т.ч. чесоточного клеща), инсектициды и репелленты </category>
+            <category id="20207" parentId="20206">Препараты для уничтожения эктопаразитов (в т.ч. чесоточного клеща) </category>
+            <category id="20208" parentId="20207">Серосодержащие препараты </category>
+            <category id="20209" parentId="20207">Хлорсодержащие препараты </category>
+            <category id="20210" parentId="20207">Пиретрины (в т.ч. синтетические соединения) </category>
+            <category id="20211" parentId="20207">Прочие препараты для уничтожения эктопаразитов </category>
+            <category id="20212" parentId="20206">Инсектициды и репелленты</category>
+            <category id="20213" parentId="20212">Пиретрины</category>
+            <category id="20214" parentId="20212">Прочие инсектициды и репелленты </category>
+            <category id="20215" parentId="20178">Артемисинин и его производные в комбинации с другими препаратами</category>
+            <category id="20216" parentId="18210">Дыхательная система</category>
+            <category id="20217" parentId="20216">Препараты для лечения заболеваний носа </category>
+            <category id="20218" parentId="20217">Деконгестанты и другие препараты для местного применения </category>
+            <category id="20219" parentId="20218">Симпатомиметики </category>
+            <category id="20220" parentId="20218">Симпатомиметики в комбинации с другими препаратами (исключая кортикостероиды) </category>
+            <category id="20221" parentId="20218">Кортикостероиды </category>
+            <category id="20222" parentId="20218">Прочие препараты для местного применения при заболеваниях носа </category>
+            <category id="20223" parentId="20217">Деконгестанты для системного применения </category>
+            <category id="20224" parentId="20223">Симпатомиметики </category>
+            <category id="20225" parentId="20216">Препараты для лечения заболеваний глотки </category>
+            <category id="20226" parentId="20225">Препараты для лечения заболеваний глотки </category>
+            <category id="20227" parentId="20226">Антисептики </category>
+            <category id="20228" parentId="20226">Антибиотики </category>
+            <category id="20229" parentId="20226">Местные анестетики</category>
+            <category id="20230" parentId="20226">Другие препараты для лечения заболеваний глотки </category>
+            <category id="20231" parentId="20216">Препараты для лечения бронхиальной астмы</category>
+            <category id="20232" parentId="20231">Симпатомиметики для ингаляционного применения </category>
+            <category id="20233" parentId="20232">Альфа- и бета-адреномиметики</category>
+            <category id="20234" parentId="20232">Неселективные бета-адреномиметики</category>
+            <category id="20235" parentId="20232">Селективные бета-2-адреномиметики</category>
+            <category id="20236" parentId="20232">Комбинации симпатомиметиков</category>
+            <category id="20237" parentId="20232">Симпатомиметики в комбинации с кортикостероидами или другими препаратами, исключая антихолинергическ</category>
+            <category id="20238" parentId="20232">Симпатомиметики в комбинации с антихолинергическими препаратами </category>
+            <category id="20239" parentId="20231">Другие препараты для ингаляционного применения для лечения бронхиальной астмы</category>
+            <category id="20240" parentId="20239">Глюкокортикоиды </category>
+            <category id="20241" parentId="20239">Холиноблокаторы </category>
+            <category id="20242" parentId="20239">Противоаллергические препараты (исключая глюкокортикоиды) </category>
+            <category id="20243" parentId="20239">Прочие препараты для ингаляционного применения для лечения бронхиальной астмы </category>
+            <category id="20244" parentId="20231">Симпатомиметики для системного применения</category>
+            <category id="20245" parentId="20244">Альфа- и бета-адреномиметики </category>
+            <category id="20246" parentId="20244">Неселективные бета-адреномиметики </category>
+            <category id="20247" parentId="20244">Селективные бета-2-адреномиметики </category>
+            <category id="20248" parentId="20244">Симпатомиметики в комбинации с другими препаратами </category>
+            <category id="20249" parentId="20231">Другие препараты для лечения бронхиальной астмы для системного применения </category>
+            <category id="20250" parentId="20249">Производные ксантина </category>
+            <category id="20251" parentId="20249">Производные ксантина в комбинации с симпатомиметиками</category>
+            <category id="20252" parentId="20249">Антагонисты лейкотриеновых рецепторов</category>
+            <category id="20253" parentId="20249">Прочие препараты для лечения бронхиальной астмы для системного применения </category>
+            <category id="20254" parentId="20216">Препараты, применяемые при кашле и простудных заболеваниях </category>
+            <category id="20255" parentId="20254">Отхаркивающие препараты (исключая комбинации с противокашлевыми препаратами) </category>
+            <category id="20256" parentId="20255">Отхаркивающие препараты </category>
+            <category id="20257" parentId="20255">Муколитики</category>
+            <category id="20258" parentId="20254">Противокашлевые препараты (исключая комбинации с отхаркивающими препаратами) </category>
+            <category id="20259" parentId="20258">Алкалоиды опия и его производные </category>
+            <category id="20260" parentId="20258">Прочие противокашлевые препараты </category>
+            <category id="20261" parentId="20254">Противокашлевые препараты в комбинации с отхаркивающими препаратами </category>
+            <category id="20262" parentId="20261">Производные опия в комбинации с отхаркивающими препаратами </category>
+            <category id="20263" parentId="20261">Прочие противокашлевые препараты в комбинации с отхаркивающими препаратами </category>
+            <category id="20264" parentId="20254">Другие комбинированные препараты, применяемые при простудных заболеваниях </category>
+            <category id="20265" parentId="20216">Антигистаминные препараты для системного применения </category>
+            <category id="20266" parentId="20265">Антигистаминные препараты для системного применения </category>
+            <category id="20267" parentId="20266">Аминоалкильные эфиры </category>
+            <category id="20268" parentId="20266">Этилендиамины замещенные </category>
+            <category id="20269" parentId="20266">Производные фенотиазина</category>
+            <category id="20270" parentId="20266">Производные пиперазина </category>
+            <category id="20271" parentId="20266">Комбинации антигистаминных препаратов </category>
+            <category id="20272" parentId="20266">Прочие антигистаминные препараты для системного применения </category>
+            <category id="20273" parentId="20216">Другие препараты для лечения заболеваний органов дыхания</category>
+            <category id="20274" parentId="20273">Другие препараты для лечения заболеваний органов дыхания </category>
+            <category id="20275" parentId="20274">Легочные сурфактанты </category>
+            <category id="20276" parentId="20274">Дыхательные стимуляторы </category>
+            <category id="20277" parentId="20274">Прочие препараты для лечения заболеваний органов дыхания </category>
+            <category id="20278" parentId="20218">Противоаллергические препараты (исключая кортикостероиды)</category>
+            <category id="20279" parentId="18210">Ветеринарные препараты</category>
+            <category id="20280" parentId="18210">Препараты для лечения заболеваний органов чувств</category>
+            <category id="20281" parentId="20280">Препараты для лечения заболеваний глаз </category>
+            <category id="20282" parentId="20281">Противомикробные препараты </category>
+            <category id="20283" parentId="20282">Антибиотики</category>
+            <category id="20284" parentId="20282">Сульфонамиды </category>
+            <category id="20285" parentId="20282">Противовирусные препараты </category>
+            <category id="20286" parentId="20282">Фторхинолоны </category>
+            <category id="20287" parentId="20282">Прочие противомикробные препараты </category>
+            <category id="20288" parentId="20281">Противовоспалительные препараты </category>
+            <category id="20289" parentId="20288">Кортикостероиды </category>
+            <category id="20290" parentId="20288">Кортикостероиды в комбинации с мидриатиками</category>
+            <category id="20291" parentId="20288">Нестероидные противовоспалительные препараты (НПВП) </category>
+            <category id="20292" parentId="20281">Противовоспалительные препараты в комбинации с противомикробными препаратами </category>
+            <category id="20293" parentId="20292">Кортикостероиды в комбинации с противомикробными препаратами</category>
+            <category id="20294" parentId="20292">Кортикостероиды в комбинации с противомикробными препаратами и мидриатиками </category>
+            <category id="20295" parentId="20292">НПВС в комбинации с противомикробными препаратами </category>
+            <category id="20296" parentId="20281">Противоглаукомные препараты и миотики </category>
+            <category id="20297" parentId="20296">Симпатомиметики для лечения глаукомы </category>
+            <category id="20298" parentId="20296">Парасимпатомиметики </category>
+            <category id="20299" parentId="20296">Ингибиторы карбоангидразы </category>
+            <category id="20300" parentId="20296">Бета-адреноблокаторы</category>
+            <category id="20301" parentId="20296">Аналоги простагландина </category>
+            <category id="20302" parentId="20296">Прочие противоглаукомные препараты </category>
+            <category id="20303" parentId="20281">Мидриатики</category>
+            <category id="20304" parentId="20303">Холиноблокаторы </category>
+            <category id="20305" parentId="20303">Симпатомиметики (исключая противоглаукомные препараты)</category>
+            <category id="20306" parentId="20281">Деконгестанты и противоаллергические препараты</category>
+            <category id="20307" parentId="20306">Симпатомиметики, применяемые в качестве деконгестантов </category>
+            <category id="20308" parentId="20306">Прочие противоаллергические препараты</category>
+            <category id="20309" parentId="20281">Местные анестетики</category>
+            <category id="20310" parentId="20309">Местные анестетики</category>
+            <category id="20311" parentId="20281">Диагностические препараты </category>
+            <category id="20312" parentId="20311">Красящие вещества </category>
+            <category id="20313" parentId="20311">Прочие препараты для диагностики заболеваний глаз </category>
+            <category id="20314" parentId="20281">Препараты, используемые при хирургических вмешательствах в офтальмологии </category>
+            <category id="20315" parentId="20314">Вискозоэластичные соединения </category>
+            <category id="20316" parentId="20314">Прочие препараты, используемые при хирургических вмешательствах в офтальмологии </category>
+            <category id="20317" parentId="20281">Препараты, применяемые при сосудистых нарушениях в офтальмологии</category>
+            <category id="20318" parentId="20317">Препараты, препятствующие неоваскуляризации </category>
+            <category id="20319" parentId="20281">Другие препараты для лечения заболеваний глаз </category>
+            <category id="20320" parentId="20319">Прочие препараты для лечения заболеваний глаз </category>
+            <category id="20321" parentId="20280">Препараты для лечения заболеваний уха </category>
+            <category id="20322" parentId="20321">Противомикробные препараты </category>
+            <category id="20323" parentId="20322">Противомикробные препараты </category>
+            <category id="20324" parentId="20321">Кортикостероиды</category>
+            <category id="20325" parentId="20324">Кортикостероиды</category>
+            <category id="20326" parentId="20321">Кортикостероиды в комбинации с противомикробными препаратами </category>
+            <category id="20327" parentId="20326">Кортикостероиды в комбинации с противомикробными препаратами </category>
+            <category id="20328" parentId="20321">Другие препараты для лечения заболеваний уха </category>
+            <category id="20329" parentId="20328">Анальгетики и анестетики </category>
+            <category id="20330" parentId="20328">Индифферентные препараты </category>
+            <category id="20331" parentId="20280">Препараты для лечения заболеваний глаз и уха </category>
+            <category id="20332" parentId="20331">Противомикробные препараты</category>
+            <category id="20333" parentId="20332">Противомикробные препараты </category>
+            <category id="20334" parentId="20331">Кортикостероиды </category>
+            <category id="20335" parentId="20334">Кортикостероиды</category>
+            <category id="20336" parentId="20331">Кортикостероиды в комбинации с противомикробными препаратами</category>
+            <category id="20337" parentId="20336">Кортикостероиды в комбинации с противомикробными препаратами</category>
+            <category id="20338" parentId="20331">Другие препараты для лечения заболеваний глаз и уха </category>
+            <category id="20339" parentId="18210">Прочие препараты</category>
+            <category id="20340" parentId="20339">Аллергены</category>
+            <category id="20341" parentId="20340">Аллергены </category>
+            <category id="20342" parentId="20341">Экстракты аллергенов</category>
+            <category id="20343" parentId="20339">Прочие разные препараты </category>
+            <category id="20344" parentId="20343">Прочие разные препараты </category>
+            <category id="20345" parentId="20344">Препараты для лечения хронического алкоголизма </category>
+            <category id="20346" parentId="20344">Антидоты </category>
+            <category id="20347" parentId="20344">Железосвязывающие препараты </category>
+            <category id="20348" parentId="20344">Препараты для лечения гиперкалиемии и гиперфосфатемии </category>
+            <category id="20349" parentId="20344">Препараты, снижающие токсичность цитостатической терапии </category>
+            <category id="20350" parentId="20344">Препараты для лечения гиперкальциемии </category>
+            <category id="20351" parentId="20344">Препараты для лечения гипогликемии </category>
+            <category id="20352" parentId="20344">Тканевые повязки </category>
+            <category id="20353" parentId="20344">Препараты для эмболизации</category>
+            <category id="20354" parentId="20344">Медицинские газы</category>
+            <category id="20355" parentId="20344">Прочие лекарственные препараты </category>
+            <category id="20356" parentId="20344">Препараты, угнетающие нервную систему </category>
+            <category id="20357" parentId="20339">Диагностические препараты </category>
+            <category id="20358" parentId="20357">Тесты для анализа мочи</category>
+            <category id="20359" parentId="20357">Прочие диагностические препараты</category>
+            <category id="20360" parentId="20359">Тесты для выявления сахарного диабета</category>
+            <category id="20361" parentId="20359">Тесты для определения всасывания жиров </category>
+            <category id="20362" parentId="20359">Тесты для определения проходимости желчного протока</category>
+            <category id="20363" parentId="20359">Тесты для определения функции гипофиза </category>
+            <category id="20364" parentId="20359">Тесты для определения функционального состояния печени</category>
+            <category id="20365" parentId="20359">Тест для диагностики тубекулеза </category>
+            <category id="20366" parentId="20359">Тесты для определения желудочной секреции</category>
+            <category id="20367" parentId="20359">Тесты для определения функции почек </category>
+            <category id="20368" parentId="20359">Тесты для определения функции щитовидной железы </category>
+            <category id="20369" parentId="20359">Тесты для определения функции поджелудочной железы </category>
+            <category id="20370" parentId="20359">Тесты для выявления аллергических заболеваний </category>
+            <category id="20371" parentId="20359">Тесты для выявления нарушений репродуктивной функции</category>
+            <category id="20372" parentId="20359">Прочие диагностические препараты</category>
+            <category id="20373" parentId="20339">Препараты для питания </category>
+            <category id="20374" parentId="20373">Диетические средства для лечения ожирения</category>
+            <category id="20375" parentId="20374">Низкокалорийные диетические смеси </category>
+            <category id="20376" parentId="20373">Белковые добавки </category>
+            <category id="20377" parentId="20373">Детские питательные смеси</category>
+            <category id="20378" parentId="20373">Другие препараты для питания</category>
+            <category id="20379" parentId="20377">Препараты для питания без фенилаланина </category>
+            <category id="20380" parentId="20378">Комплекс углеводов, белков, минералов и витаминов </category>
+            <category id="20381" parentId="20378">Комплекс белков, жиров, углеводов, минералов и витаминов</category>
+            <category id="20382" parentId="20378">Углеводы</category>
+            <category id="20383" parentId="20378">Аминокислоты, включая комбинации с полипептидами </category>
+            <category id="20384" parentId="20378">Комплекс аминокислот, углеводов, минералов и витаминов</category>
+            <category id="20385" parentId="20378">Заменители молока </category>
+            <category id="20386" parentId="20378">Прочие комбинированные препараты для питания </category>
+            <category id="20387" parentId="20339">Другие разные нелечебные средства</category>
+            <category id="20388" parentId="20387">Другие разные нелечебные средства </category>
+            <category id="20389" parentId="20388">Пластыри</category>
+            <category id="20390" parentId="20388">Растворители и растворы для разведения, включая ирригационные растворы </category>
+            <category id="20391" parentId="20388">Вспомогательные средства для гемотрансфузии </category>
+            <category id="20392" parentId="20388">Вспомогательные тесты для анализа крови</category>
+            <category id="20393" parentId="20388">Моче- и калоприемники</category>
+            <category id="20394" parentId="20388">Тесты для определения чувствительности микробов, диски и таблетки</category>
+            <category id="20395" parentId="20388">Оборудование для стом</category>
+            <category id="20396" parentId="20388">Косметика</category>
+            <category id="20397" parentId="20388">Дезинфектанты технические </category>
+            <category id="20398" parentId="20388">Моющие вещества </category>
+            <category id="20399" parentId="20388">Прочие вспомогательные нелечебные средства</category>
+            <category id="20400" parentId="20388">Химические реагенты для лабораторного анализа </category>
+            <category id="20401" parentId="20339">Контрастные вещества </category>
+            <category id="20402" parentId="20401">Рентгеноконтрастные йодсодежащие вещества</category>
+            <category id="20403" parentId="20402">Водорастворимые высокоосмолярные рентгеноконтрастные вещества для исследования почек </category>
+            <category id="20404" parentId="20402">Водорастворимые низкоосмолярные рентгеноконтрастные вещества для исследования почек </category>
+            <category id="20405" parentId="20402">Гепатотропные водорастворимые рентгеноконтрастные вещества</category>
+            <category id="20406" parentId="20402">Водонерастворимые рентгеноконтрастные вещества</category>
+            <category id="20407" parentId="20401">Рентгеноконтрастные нейодированные вещества</category>
+            <category id="20408" parentId="20407">Рентгеноконтрастные препараты, содержащие бария сульфат </category>
+            <category id="20409" parentId="20401">Контрастные вещества для ядерно-магнитного резонанса </category>
+            <category id="20410" parentId="20409">Парамагнитные контрастные средства</category>
+            <category id="20411" parentId="20409">Суперпарамагнитные контрастные средства </category>
+            <category id="20412" parentId="20409">Прочие контрастные средства для ядерно-магнитного резонанса </category>
+            <category id="20413" parentId="20401">Контрастные средства для ультразвуковой диагностики </category>
+            <category id="20414" parentId="20413">Контрастные средства для ультразвуковой диагностики </category>
+            <category id="20415" parentId="20339">Диагностические радиофармацевтические средства </category>
+            <category id="20416" parentId="20415">Радиофармацевтические средства для выявления заболеваний ЦНС </category>
+            <category id="20417" parentId="20416">Соединения технеция 99m </category>
+            <category id="20418" parentId="20416">Соединения йода-123 </category>
+            <category id="20419" parentId="20416">Прочие радиофармацевтические средства для выявления заболеваний ЦНС </category>
+            <category id="20420" parentId="20415">Радиофармацевтические средства для выявления заболеваний костной ткани</category>
+            <category id="20421" parentId="20420">Соединения технеция 99m </category>
+            <category id="20422" parentId="20415">Радиофармацевтические средства для выявления заболеваний почек </category>
+            <category id="20423" parentId="20422">Соединения технеция 99m</category>
+            <category id="20424" parentId="20422">Прочие радиофармацевтические средства для выявления заболеваний почек </category>
+            <category id="20425" parentId="20415">Радиофармацевтические средства для выявления заболеваний печени и ретикулоэндотелиальной системы </category>
+            <category id="20426" parentId="20425">Соединения технеция 99m</category>
+            <category id="20427" parentId="20425">Технеций 99m коллоидный</category>
+            <category id="20428" parentId="20425">Прочие радиофармацевтические средства для выявления заболеваний печени и ретикулоэндотелиальной си</category>
+            <category id="20429" parentId="20415">Радиофармацевтические средства для выявления заболеваний органов дыхания</category>
+            <category id="20430" parentId="20429">Технеций 99m ингаляционный</category>
+            <category id="20431" parentId="20429">Технеций 99m коллоидный для инъекций </category>
+            <category id="20432" parentId="20429">Прочие радиофармацевтические препараты для диагностики заболеваний органов дыхания </category>
+            <category id="20433" parentId="20415">Радиофармацевтические препараты для диагностики заболеваний щитовидной железы</category>
+            <category id="20434" parentId="20433">Прочие радиофармацевтические препараты для диагностики заболеваний щитовидной железы</category>
+            <category id="20435" parentId="20415">Радиофармацевтические препараты для диагностики заболеваний сердечно-сосудистой системы </category>
+            <category id="20436" parentId="20435">Соединения технеция 99m</category>
+            <category id="20437" parentId="20435">Соединения йода -125</category>
+            <category id="20438" parentId="20435">Прочие радиофармацевтические препараты для диагностики заболеваний сердечно-сосудистой системы </category>
+            <category id="20439" parentId="20415">Радиофармацевтические препараты для диагностики воспалений и инфекций </category>
+            <category id="20440" parentId="20439">Соединения технеция 99m</category>
+            <category id="20441" parentId="20439">Соединения индия -111 </category>
+            <category id="20442" parentId="20439">Прочие радиофармацевтические препараты для диагностики воспалений и инфекций</category>
+            <category id="20443" parentId="20415">Радиофармацевтические препараты для диагностики новообразовани</category>
+            <category id="20444" parentId="20443">Соединения технеция 99m </category>
+            <category id="20445" parentId="20443">Соединения индия-111</category>
+            <category id="20446" parentId="20443">Прочие радиофармацевтические препараты для диагностики новообразовани</category>
+            <category id="20447" parentId="20415">Прочие радиофармацевтические препараты </category>
+            <category id="20448" parentId="20447">Соединения йода-131 </category>
+            <category id="20449" parentId="20447">Различные прочие диагностические радиофармацевтические препараты</category>
+            <category id="20450" parentId="20339">Лечебные радиофармацевтические средства </category>
+            <category id="20451" parentId="20450">Радиотерапевтические противовоспалительные средства </category>
+            <category id="20452" parentId="20451">Соединения иттрия-90 </category>
+            <category id="20453" parentId="20451">Прочие радиотерапевтические противовоспалительные средства</category>
+            <category id="20454" parentId="20450">Радиотерапевтические противоопухолевые (костная ткань) средства </category>
+            <category id="20455" parentId="20454">Различные прочие препараты для паллиативного лечения костных метастазов </category>
+            <category id="20456" parentId="20450">Прочие лечебные радиофармацевтические препараты </category>
+            <category id="20457" parentId="20456">Соединения йода-131 </category>
+            <category id="20458" parentId="20456">Различные прочие радиотерапевтические средства </category>
+            <category id="20459" parentId="20339">Хирургические повязки </category>
+            <category id="20460" parentId="20339">Не присвоен</category>
+            <category id="20461" parentId="19346">Препараты кальция</category>
+            <category id="20462" parentId="18210">Гомеопатия</category>
+            <category id="20463" parentId="18321">Средства для парентерального и энтерального питания</category>
+            <category id="20464" parentId="18219">Инструменты для маникюра и педикюра</category>
+            <category id="20465" parentId="18214">Нутрикосметика</category>
+            <category id="20466" parentId="18227">Средства после укусов насекомых</category>
+            <category id="20467" parentId="18293">Вкладыши</category>
+            <category id="20468" parentId="18293">Прокладки послеродовые</category>
+            <category id="20469" parentId="18500">Предметы ухода и аксессуары</category>
+        </categories>
+        <pickup-options>
+            <option cost="0" days="1"/>
+        </pickup-options>
+        <offers>
+            <offer available="true" id="8079">
+                <pharma_reg_number>П N012507/01</pharma_reg_number>
+                <name>7 Нот Здоровья Бадяга форте гель 75мл</name>
+                <url>https://stolichki.ru/drugs/badyaga-forte-gel-75ml</url>
+                <price>104</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>18310</categoryId>
+                <picture>https://f.stolichki.ru/s/drugs/medium/8/8079.jpg</picture>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <pickup-options>
+                    <option cost="0" days="1"/>
+                </pickup-options>
+                <description>
+                    <![CDATA[ Бадяга форте гель 75мл Купить Гель в аптеках  ГРУППА Средства ухода за кожей МЕЖДУНАРОДНОЕ НЕПАТЕНТОВАННОЕ НАИМЕНОВАНИЕнет ]]>
+                </description>
+                <barcode>1705770103829</barcode>
+            </offer>
+            <offer available="true" id="24271" type="medicine">
+                <pharma_reg_number>ЛП-006933d3333</pharma_reg_number>
+                <name>Лекарственный препарат 9 месяцев фолиевая к-та таблетки 400мкг №30</name>
+                <url>https://stolichki.ru/drugs/9-mesyacev-folievaya-k-ta-tab-400mkg-30</url>
+                <price>136</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>19399</categoryId>
+                <picture>https://f.stolichki.ru/s/drugs/medium/24/24271.jpg</picture>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <pickup-options>
+                    <option cost="0" days="1"/>
+                </pickup-options>
+                <description>
+                    <![CDATA[ Купить 9 месяцев Фолиевая кислота в аптеках 9 месяцев Фолиевая кислота в справочникe лекарств Название 9 месяцев Фолиевая кислотаТорговое наименование: 9 месяцев Фолиевая кислотаМеждународное название: фолиевая кислотаСтрана РоссияЛатинское наименование... ]]>
+                </description>
+                <barcode>4602193010086</barcode>
+            </offer>
+            <offer available="true" id="48066" type="medicine">
+                <pharma_reg_number>ЛП-№(002590)-(РГ-RU)</pharma_reg_number>
+                <name>Лекарственный препарат 9 месяцев фолиевая к-та таблетки 400мкг №90</name>
+                <url>https://stolichki.ru/drugs/9-mesyacev-folievaya-k-ta-tab-400mkg-90</url>
+                <price>382</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>19399</categoryId>
+                <picture>https://f.stolichki.ru/s/drugs/medium/48/48066.jpg</picture>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <pickup-options>
+                    <option cost="0" days="1"/>
+                </pickup-options>
+                <description>
+                    <![CDATA[ Лекарственная форма таблетки круглой двояковыпуклой формы, покрытые оболочкой желтого цвета. На изломе светло-желтого цвета с вкраплениями. Состав 1 таблетка содержит активное вещество: фолиевой кислоты – 0,0004 г, вспомогательные вещества лактозы моног... ]]>
+                </description>
+                <barcode>4602193010109</barcode>
+            </offer>
+             <offer available="true" id="48066" type="medicine">
+                 <pharma_reg_number>ЛП-№(002128)-(РГ-RU)</pharma_reg_number>
+                <name>Алгелдрат+Бензокаин+Магния гидроксид</name>
+                <url>https://stolichki.ru/drugs/9-mesyacev-folievaya-k-ta-tab-400mkg-90</url>
+                <price>382</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>19399</categoryId>
+                <picture>https://f.stolichki.ru/s/drugs/medium/48/48066.jpg</picture>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <pickup-options>
+                    <option cost="0" days="1"/>
+                </pickup-options>
+                <description>
+                    <![CDATA[ Лекарственная форма таблетки круглой двояковыпуклой формы, покрытые оболочкой желтого цвета. На изломе светло-желтого цвета с вкраплениями. Состав 1 таблетка содержит активное вещество: фолиевой кислоты – 0,0004 г, вспомогательные вещества лактозы моног... ]]>
+                </description>
+                <barcode>4602193010109</barcode>
+            </offer>
+            <offer available="true" id="48066" type="medicine">
+                 <pharma_reg_number>ЛП-№(002128)-(РГ-RU)</pharma_reg_number>
+                <name>Алгелдрат+Бензокаин+Магния гидроксид</name>
+                <url>https://stolichki.ru/drugs/9-mesyacev-folievaya-k-ta-tab-400mkg-90</url>
+                <price>382</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>19399</categoryId>
+                <picture>https://f.stolichki.ru/s/drugs/medium/48/48066.jpg</picture>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <pickup-options>
+                    <option cost="0" days="1"/>
+                </pickup-options>
+                <description>
+                    <![CDATA[ Лекарственная форма таблетки круглой двояковыпуклой формы, покрытые оболочкой желтого цвета. На изломе светло-желтого цвета с вкраплениями. Состав 1 таблетка содержит активное вещество: фолиевой кислоты – 0,0004 г, вспомогательные вещества лактозы моног... ]]>
+                </description>
+                <barcode>4602193010109</barcode>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

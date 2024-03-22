@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-03-21 03:33:00">
+	<shop>
+		<name>eАптека</name>
+		<company>eАптека</company>
+		<url>https://www.eapteka.ru/spb/</url>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<delivery-options>
+			<option cost="79" days="0-1"/>
+		</delivery-options>
+		<categories>
+			<category id="3817">Лекарства</category>
+			<category id="3922" parentId="3817">Акушерство, гинекология</category>
+			<category id="12856" parentId="3922">Беременность</category>
+			<category id="3929" parentId="3922">Бесплодие</category>
+			<category id="3932" parentId="3922">Другие</category>
+			<category id="3926" parentId="3922">Инфекции</category>
+			<category id="3931" parentId="3922">Климакс</category>
+			<category id="12125" parentId="3922">Мастопатия</category>
+			<category id="3928" parentId="3922">Молочница</category>
+			<category id="3924" parentId="3922">Повышают тонус матки</category>
+			<category id="3930" parentId="3922">Противозачаточные средства</category>
+			<category id="4199" parentId="3930">Гормональная контрацепция </category>
+			<category id="4203" parentId="3930">Негормональная контрацепция</category>
+			<category id="4206" parentId="3930">Экстренная контрацепция</category>
+			<category id="3923" parentId="3922">Трихомоноз</category>
+			<category id="3885" parentId="3817">Аллергия</category>
+			<category id="3916" parentId="3817">Анестезия, реанимация</category>
+			<category id="3918" parentId="3916">Местные обезболивающие</category>
+			<category id="3920" parentId="3916">Питание в реанимации</category>
+			<category id="3919" parentId="3916">Растворы</category>
+			<category id="3917" parentId="3916">Средства для наркоза</category>
+			<category id="3850" parentId="3817">Антибиотики</category>
+			<category id="3851" parentId="3850">Антибиотики</category>
+			<category id="3852" parentId="3850">Другие противомикробные</category>
+			<category id="4074" parentId="3850">Экоантибиотики</category>
+			<category id="3911" parentId="3817">Болезни крови</category>
+			<category id="3913" parentId="3911">Анемии</category>
+			<category id="3914" parentId="3911">Кровоостанавливающие</category>
+			<category id="3915" parentId="3911">Противосвертывающие</category>
+			<category id="3912" parentId="3911">Стимуляторы кроветворения</category>
+			<category id="3843" parentId="3817">Боль, температура</category>
+			<category id="3846" parentId="3843">Боль и спазмы</category>
+			<category id="3845" parentId="3843">Боль и температура</category>
+			<category id="3848" parentId="3843">Гормоны-кортикостероиды</category>
+			<category id="3880" parentId="3848">Бронхиальная астма</category>
+			<category id="3844" parentId="3843">Обезболивающие</category>
+			<category id="12855" parentId="3817">Витамины, минералы и микроэлементы</category>
+			<category id="3950" parentId="3817">Геморрой</category>
+			<category id="3942" parentId="3817">Глаза</category>
+			<category id="3945" parentId="3942">Аллергия, покраснение</category>
+			<category id="3946" parentId="3942">Воспаление и инфекции</category>
+			<category id="3943" parentId="3942">Глаукома</category>
+			<category id="3949" parentId="3942">Другие</category>
+			<category id="3944" parentId="3942">Катаракта</category>
+			<category id="3948" parentId="3942">Обезболивающие</category>
+			<category id="3947" parentId="3942">Противовирусные средства</category>
+			<category id="12253" parentId="3942">Увлажняющие</category>
+			<category id="3858" parentId="3817">Глисты, вши, чесотка</category>
+			<category id="3860" parentId="3858">Вши</category>
+			<category id="3859" parentId="3858">Глисты</category>
+			<category id="3861" parentId="3858">Чесотка</category>
+			<category id="3976" parentId="3817">Гомеопатия</category>
+			<category id="9882" parentId="3817">Детское здоровье</category>
+			<category id="9884" parentId="9882">Боль и температура</category>
+			<category id="9885" parentId="9882">Колики и вздутие</category>
+			<category id="9883" parentId="9882">При прорезывании зубов</category>
+			<category id="4303" parentId="3817">Диабет</category>
+			<category id="4304" parentId="4303">Гипогликемические препараты</category>
+			<category id="4327" parentId="4304">Препараты, повышающие чувствительность клеток к инсулину</category>
+			<category id="4328" parentId="4304">Препараты, способствующие выведению избытка глюкозы с мочой</category>
+			<category id="4330" parentId="4304">Препараты, уменьшающие всасывание углеводов в кишечнике</category>
+			<category id="4331" parentId="4304">Препараты, усиливающие выделение инсулина поджелудочной железой</category>
+			<category id="4332" parentId="4304">Препараты, усиливающие выделение инсулина поджелудочной железой в комбинации с повышающими чувствительность клеток к инсулину</category>
+			<category id="4305" parentId="4303">Инсулины</category>
+			<category id="4323" parentId="4305">Инсулины быстрого действия и их аналоги</category>
+			<category id="4324" parentId="4305">Инсулины длительного действия и их аналоги</category>
+			<category id="4326" parentId="4305">Инсулины среднего действия и их аналоги</category>
+			<category id="4307" parentId="4303">Купирование гипогликемии</category>
+			<category id="4312" parentId="4303">Лечение осложнений</category>
+			<category id="4310" parentId="4303">Шприц-ручки</category>
+			<category id="3973" parentId="3817">Диагностические средства</category>
+			<category id="3878" parentId="3817">Дыхательная система</category>
+			<category id="3879" parentId="3878">Бронхиальная астма</category>
+			<category id="10641" parentId="3878">Другие препараты для лечения органов дыхания</category>
+			<category id="10637" parentId="3878">Звездочка от простуды</category>
+			<category id="3882" parentId="3878">Отхаркивающие</category>
+			<category id="3884" parentId="3878">Простуда, грипп</category>
+			<category id="3883" parentId="3878">Противокашлевые</category>
+			<category id="3881" parentId="3878">Разжижающие мокроту</category>
+			<category id="3864" parentId="3817">Желудок, кишечник, печень</category>
+			<category id="3869" parentId="3864">Влияющие на тонус кишечника</category>
+			<category id="3870" parentId="3864">Газы</category>
+			<category id="3872" parentId="3864">Дисбактериоз</category>
+			<category id="3877" parentId="3864">Другие</category>
+			<category id="3874" parentId="3864">Желчегонные</category>
+			<category id="3875" parentId="3864">Камни желчного пузыря</category>
+			<category id="3876" parentId="3864">Печень</category>
+			<category id="3873" parentId="3864">Понос</category>
+			<category id="3865" parentId="3864">При язве и гастрите</category>
+			<category id="3867" parentId="3864">Рвота, тошнота</category>
+			<category id="3871" parentId="3864">Слабительные</category>
+			<category id="10626" parentId="3864">Слабительные Дюфалак</category>
+			<category id="3866" parentId="3864">Ферменты</category>
+			<category id="3939" parentId="3817">Зубы и рот</category>
+			<category id="3940" parentId="3939">Инфекции и воспаление</category>
+			<category id="3941" parentId="3939">Стоматология</category>
+			<category id="3886" parentId="3817">Иммунная система</category>
+			<category id="10666" parentId="3886">Бактериофаги</category>
+			<category id="3890" parentId="3886">Иммуноглобулины, сыворотки</category>
+			<category id="3888" parentId="3886">Иммунодепрессанты</category>
+			<category id="3887" parentId="3886">Иммуностимуляторы</category>
+			<category id="12250" parentId="3886">Интерфероны</category>
+			<category id="3958" parentId="3817">Кожа</category>
+			<category id="3971" parentId="3958">Бородавки</category>
+			<category id="3959" parentId="3958">Воспаление и инфекции</category>
+			<category id="3972" parentId="3958">Другие</category>
+			<category id="3962" parentId="3958">Обезболивающие</category>
+			<category id="3970" parentId="3958">Облысение</category>
+			<category id="3964" parentId="3958">Опрелости</category>
+			<category id="3969" parentId="3958">Перхоть</category>
+			<category id="3961" parentId="3958">Противовирусные</category>
+			<category id="3960" parentId="3958">Противогрибковые</category>
+			<category id="7928" parentId="3958">Противоожоговые</category>
+			<category id="3968" parentId="3958">Псориаз</category>
+			<category id="3963" parentId="3958">Ранозаживляющие</category>
+			<category id="12255" parentId="3963">Мази от трещин</category>
+			<category id="12256" parentId="3963">Мази с антибиотиком</category>
+			<category id="3965" parentId="3958">Рубцы</category>
+			<category id="3967" parentId="3958">Угри</category>
+			<category id="3966" parentId="3958">Ушибы, растяжения</category>
+			<category id="3951" parentId="3817">Мочеполовая система</category>
+			<category id="3952" parentId="3951">Аденома простаты</category>
+			<category id="3953" parentId="3951">Влияющие на тонус</category>
+			<category id="3957" parentId="3951">Импотенция у мужчин</category>
+			<category id="3956" parentId="3951">Инфекции</category>
+			<category id="3954" parentId="3951">Мочекаменная болезнь</category>
+			<category id="3955" parentId="3951">Почечная недостаточность</category>
+			<category id="3897" parentId="3817">Нарушения обмена веществ</category>
+			<category id="3905" parentId="3897">Астения, слабость</category>
+			<category id="3898" parentId="3897">Атеросклероз</category>
+			<category id="3904" parentId="3897">Баланс калия, магния</category>
+			<category id="3902" parentId="3897">Болезни суставов</category>
+			<category id="3901" parentId="3897">Ломкость костей</category>
+			<category id="3903" parentId="3897">Обмен веществ в тканях</category>
+			<category id="3899" parentId="3897">Ожирение</category>
+			<category id="3900" parentId="3897">Подагра</category>
+			<category id="12252" parentId="3897">Ускорение метаболизма</category>
+			<category id="3826" parentId="3817">Неврология, психиатрия</category>
+			<category id="3839" parentId="3826">Алкоголизм</category>
+			<category id="3828" parentId="3826">Антидепрессанты</category>
+			<category id="3832" parentId="3826">Болезнь Альцгеймера</category>
+			<category id="3831" parentId="3826">Болезнь Паркинсона</category>
+			<category id="6671" parentId="3826">Головокружение</category>
+			<category id="3841" parentId="3826">Другие</category>
+			<category id="3838" parentId="3826">Курение</category>
+			<category id="9519" parentId="3826">Лекарства для терапии других неврологических болезней (специфические)</category>
+			<category id="3837" parentId="3826">Мигрень</category>
+			<category id="3827" parentId="3826">Нейролептики</category>
+			<category id="3830" parentId="3826">Противосудорожные</category>
+			<category id="3835" parentId="3826">Рассеянный склероз</category>
+			<category id="3868" parentId="3826">Рвота, тошнота</category>
+			<category id="3833" parentId="3826">Снотворные и седативные</category>
+			<category id="3834" parentId="3826">Стимуляторы</category>
+			<category id="3829" parentId="3826">Транквилизаторы</category>
+			<category id="3836" parentId="3826">Улучшающие работу мозга</category>
+			<category id="12254" parentId="3826">Успокоительные средства</category>
+			<category id="3974" parentId="3817">Обеззараживающие средства</category>
+			<category id="3921" parentId="3817">Онкология</category>
+			<category id="3975" parentId="3817">Отравления</category>
+			<category id="3910" parentId="3817">Питательные смеси</category>
+			<category id="3863" parentId="3817">Противовирусные средства</category>
+			<category id="9800" parentId="3863">Против коронавируса</category>
+			<category id="8139" parentId="3863">Специфические противовирусные</category>
+			<category id="3862" parentId="3817">Противогрибковые средства</category>
+			<category id="3842" parentId="3817">Разное</category>
+			<category id="3849" parentId="3842">Болезни суставов</category>
+			<category id="3847" parentId="3842">Боль и воспаление</category>
+			<category id="3818" parentId="3817">Сердечно-сосудистые</category>
+			<category id="3822" parentId="3818">Аритмия</category>
+			<category id="3823" parentId="3818">Боль в сердце</category>
+			<category id="3819" parentId="3818">Высокое давление</category>
+			<category id="3824" parentId="3818">Для улучшения кровообращения</category>
+			<category id="3825" parentId="3818">Заболевания вен</category>
+			<category id="3821" parentId="3818">Мочегонные</category>
+			<category id="3854" parentId="3817">Трихомоноз и малярия</category>
+			<category id="3855" parentId="3854">Другие противомикробные</category>
+			<category id="3857" parentId="3854">Малярия</category>
+			<category id="3933" parentId="3817">Ухо, горло, нос</category>
+			<category id="3937" parentId="3933">Аллергия</category>
+			<category id="3935" parentId="3933">Боль</category>
+			<category id="3934" parentId="3933">Воспаление и инфекции</category>
+			<category id="3938" parentId="3933">Головокружение</category>
+			<category id="3936" parentId="3933">Насморк</category>
+			<category id="3891" parentId="3817">Эндокринология</category>
+			<category id="3896" parentId="3891">Другие</category>
+			<category id="3895" parentId="3891">Препараты половых гормонов</category>
+			<category id="3892" parentId="3891">Сахарный диабет</category>
+			<category id="3893" parentId="3891">Щитовидная железа</category>
+			<category id="10917" parentId="3817">7-ВЗН</category>
+			<category id="9465">БАД и продукты питания</category>
+			<category id="9534" parentId="9465">Биологически активные добавки</category>
+			<category id="9535" parentId="9534">Аминокислоты</category>
+			<category id="9564" parentId="9535">L-аргинин</category>
+			<category id="9566" parentId="9535">L-карнитин</category>
+			<category id="9567" parentId="9535">L-лизин</category>
+			<category id="9568" parentId="9535">L-теанин</category>
+			<category id="9569" parentId="9535">L-тирозин</category>
+			<category id="9676" parentId="9535">L-фенилаланин</category>
+			<category id="9570" parentId="9535">Альфа-липоевая кислота + L-карнитин</category>
+			<category id="9571" parentId="9535">Смеси аминокислот</category>
+			<category id="9572" parentId="9535">Таурин</category>
+			<category id="9536" parentId="9534">Антиоксиданты</category>
+			<category id="9573" parentId="9536">Альфа-липоевая кислота</category>
+			<category id="9575" parentId="9536">Коэнзим Q10</category>
+			<category id="9537" parentId="9534">БАД витаминсодержащие + минералы</category>
+			<category id="9577" parentId="9537">Антиоксиданты</category>
+			<category id="9578" parentId="9537">БАД для волос, кожи и ногтей</category>
+			<category id="9579" parentId="9537">БАД для зрения</category>
+			<category id="9580" parentId="9537">БАД сердечно-сосудистые</category>
+			<category id="9581" parentId="9537">Витамин Д3</category>
+			<category id="9582" parentId="9537">Витамин Е</category>
+			<category id="9583" parentId="9537">Витамин К</category>
+			<category id="9584" parentId="9537">Витамин С</category>
+			<category id="9585" parentId="9537">Витаминно-минеральные комплексы</category>
+			<category id="9586" parentId="9537">Витамины А + Е</category>
+			<category id="9587" parentId="9537">Витамины группы В</category>
+			<category id="9588" parentId="9537">Железо</category>
+			<category id="9589" parentId="9537">Женская репродуктивная система</category>
+			<category id="9590" parentId="9537">Йод</category>
+			<category id="9591" parentId="9537">Кальций</category>
+			<category id="9592" parentId="9537">Кальций Д3</category>
+			<category id="9593" parentId="9537">Комплекс минералов</category>
+			<category id="9594" parentId="9537">Магний</category>
+			<category id="9595" parentId="9537">Марганец</category>
+			<category id="9596" parentId="9537">Медь</category>
+			<category id="9597" parentId="9537">Мужская репродуктивная система</category>
+			<category id="9598" parentId="9537">Поливитамины</category>
+			<category id="9599" parentId="9537">Селен</category>
+			<category id="9600" parentId="9537">Фолиевая кислота </category>
+			<category id="9601" parentId="9537">Цинк</category>
+			<category id="9538" parentId="9534">БАД вредные привычки</category>
+			<category id="9602" parentId="9538">Лечение алкоголизма</category>
+			<category id="9603" parentId="9538">Отвыкание от табакокурения</category>
+			<category id="9539" parentId="9534">БАД гинекологические</category>
+			<category id="9540" parentId="9534">БАД для коррекции веса</category>
+			<category id="9604" parentId="9534">БАД для суставов</category>
+			<category id="9541" parentId="9534">БАД для ушей</category>
+			<category id="9542" parentId="9534">БАД желудочно-кишечные</category>
+			<category id="9607" parentId="9542">Желудочно-кишечные</category>
+			<category id="9609" parentId="9542">Про- и пребиотики</category>
+			<category id="9612" parentId="9542">Слабительные</category>
+			<category id="9613" parentId="9542">Сорбенты</category>
+			<category id="9614" parentId="9542">Фермент Лактаза</category>
+			<category id="9543" parentId="9534">БАД здоровый перекус</category>
+			<category id="9616" parentId="9543">Батончики</category>
+			<category id="9617" parentId="9543">Леденцы, пастилки</category>
+			<category id="9544" parentId="9534">БАД лечебное питание</category>
+			<category id="9545" parentId="9534">БАД наружные</category>
+			<category id="9546" parentId="9534">БАД ноотропные средства</category>
+			<category id="9547" parentId="9534">БАД от паразитов</category>
+			<category id="9548" parentId="9534">БАД пищеварительный тракт и обмен веществ</category>
+			<category id="9622" parentId="9548">Желудочно-кишечные</category>
+			<category id="9620" parentId="9548">При диарее</category>
+			<category id="9621" parentId="9548">При заболеваниях печени и желчевыводящих путей</category>
+			<category id="9549" parentId="9534">БАД при венозной недостаточности</category>
+			<category id="9550" parentId="9534">БАД при диабете</category>
+			<category id="9551" parentId="9534">БАД при климаксе</category>
+			<category id="9552" parentId="9534">БАД при простуде</category>
+			<category id="9625" parentId="9552">Мультисимптомные</category>
+			<category id="9626" parentId="9552">Наружные</category>
+			<category id="9627" parentId="9552">От боли в горле</category>
+			<category id="9628" parentId="9552">От кашля</category>
+			<category id="9629" parentId="9552">От насморка</category>
+			<category id="9630" parentId="9552">При простуде</category>
+			<category id="9553" parentId="9534">БАД при эректильной дисфункции</category>
+			<category id="9554" parentId="9534">БАД рыбий жир и омега</category>
+			<category id="9555" parentId="9534">БАД седативные</category>
+			<category id="9556" parentId="9534">БАД сердечно-сосудистые</category>
+			<category id="9557" parentId="9534">БАД стоматологические</category>
+			<category id="9558" parentId="9534">БАД тонизирующие и общеукрепляющие</category>
+			<category id="9636" parentId="9558">Водоросли</category>
+			<category id="9637" parentId="9558">Тонизирующие и общеукрепляющие</category>
+			<category id="9559" parentId="9534">БАД травы и сборы</category>
+			<category id="9560" parentId="9534">БАД урологические</category>
+			<category id="9638" parentId="9560">При простатите</category>
+			<category id="9639" parentId="9560">При цистите</category>
+			<category id="9640" parentId="9560">Урологические</category>
+			<category id="9561" parentId="9534">Добавки для спортсменов</category>
+			<category id="9641" parentId="9561">L-карнитин</category>
+			<category id="9642" parentId="9561">Для внутреннего применения</category>
+			<category id="9643" parentId="9561">Для спортсменов</category>
+			<category id="9645" parentId="9561">Минералы</category>
+			<category id="9647" parentId="9561">Спортивное питание</category>
+			<category id="9562" parentId="9534">Заменители сахара</category>
+			<category id="9563" parentId="9534">Пивные дрожжи</category>
+			<category id="12746" parentId="9465">Продукты питания</category>
+			<category id="12747" parentId="12746">Напитки</category>
+			<category id="12797" parentId="12746">Специализированное питание</category>
+			<category id="5468">Красота</category>
+			<category id="5497" parentId="5468">Ароматерапия</category>
+			<category id="5437" parentId="5497">Масла эфирные</category>
+			<category id="5476" parentId="5468">Волосы</category>
+			<category id="5412" parentId="5476">Аксессуары</category>
+			<category id="5381" parentId="5476">Бальзамы и кондиционеры</category>
+			<category id="5419" parentId="5476">Интенсивный уход</category>
+			<category id="6927" parentId="5476">Маски</category>
+			<category id="7638" parentId="5476">Окрашивание бровей и ресниц</category>
+			<category id="5518" parentId="5476">Окрашивание и тонирование</category>
+			<category id="6930" parentId="5476">Стайлинг</category>
+			<category id="6931" parentId="6930">Гели и кремы</category>
+			<category id="6936" parentId="6930">Спреи</category>
+			<category id="6929" parentId="5476">Сухие шампуни</category>
+			<category id="5541" parentId="5476">Шампуни</category>
+			<category id="5500" parentId="5468">Депиляция и бритье</category>
+			<category id="8690" parentId="5500">Бритвенные принадлежности</category>
+			<category id="8689" parentId="8690">Бальзамы после бритья</category>
+			<category id="5706" parentId="8690">Бритвенные станки</category>
+			<category id="5709" parentId="8690">Гели для бритья</category>
+			<category id="5708" parentId="8690">Кремы для бритья</category>
+			<category id="8692" parentId="8690">Кремы после бритья</category>
+			<category id="8693" parentId="8690">Лосьоны после бритья</category>
+			<category id="5710" parentId="8690">Пены для бритья</category>
+			<category id="5707" parentId="8690">Сменные кассеты</category>
+			<category id="8696" parentId="5500">Депиляция лица</category>
+			<category id="8697" parentId="8696">Воск для депиляции лица</category>
+			<category id="8699" parentId="8696">Замедление роста волос на лице</category>
+			<category id="8700" parentId="8696">Кремы для депиляции лица</category>
+			<category id="8702" parentId="8696">Средства после депиляции лица</category>
+			<category id="8703" parentId="5500">Депиляция тела</category>
+			<category id="8704" parentId="8703">Воск для депиляции тела</category>
+			<category id="8705" parentId="8703">Восковые полоски для тела</category>
+			<category id="8706" parentId="8703">Замедление роста волос на теле</category>
+			<category id="8707" parentId="8703">Кремы для депиляции тела</category>
+			<category id="8709" parentId="8703">Против вросших волос на теле</category>
+			<category id="8710" parentId="8703">Средства после депиляции тела</category>
+			<category id="8714" parentId="5500">Депиляция чувствительных зон</category>
+			<category id="8715" parentId="8714">Воск для депиляции чувствительных зон</category>
+			<category id="8716" parentId="8714">Восковые полоски для чувствительных зон</category>
+			<category id="8718" parentId="8714">Кремы для депиляции чувствительных зон</category>
+			<category id="8719" parentId="8714">Против вросших волос на чувствительных зонах</category>
+			<category id="8720" parentId="8714">Средства после депиляции чувствительных зон</category>
+			<category id="5496" parentId="5468">Загар</category>
+			<category id="5428" parentId="5496">Крем</category>
+			<category id="9370" parentId="5496">Лосьон</category>
+			<category id="5438" parentId="5496">Масло</category>
+			<category id="5576" parentId="5496">Молочко</category>
+			<category id="5575" parentId="5496">Спрей</category>
+			<category id="5958" parentId="5496">Средства от загара</category>
+			<category id="6857" parentId="5496">Средства от ожогов</category>
+			<category id="5521" parentId="5496">Средства после загара</category>
+			<category id="9364" parentId="5496">Флюид</category>
+			<category id="5957" parentId="5496">Эмульсия</category>
+			<category id="5493" parentId="5468">Макияж</category>
+			<category id="6925" parentId="5493">Брови</category>
+			<category id="5433" parentId="5493">Глаза</category>
+			<category id="5967" parentId="5493">Основы для макияжа</category>
+			<category id="5544" parentId="5493">Тональные средства</category>
+			<category id="6859" parentId="5468">Маникюр и педикюр</category>
+			<category id="6897" parentId="6859">Гигиена ногтей</category>
+			<category id="6895" parentId="6859">Защитные покрытия</category>
+			<category id="6898" parentId="6859">Масла и воски</category>
+			<category id="6900" parentId="6859">От мозолей и натоптышей</category>
+			<category id="6901" parentId="6859">Пемзы и терки</category>
+			<category id="6902" parentId="6859">Пилки</category>
+			<category id="6891" parentId="6859">СПА-уход</category>
+			<category id="6904" parentId="6859">Средства для снятия лака</category>
+			<category id="6906" parentId="6859">Уход за кутикулой</category>
+			<category id="6907" parentId="6859">Цветные лаки</category>
+			<category id="5498" parentId="5468">Подарочные наборы</category>
+			<category id="5634" parentId="5498">Для бани и душа</category>
+			<category id="5444" parentId="5498">Для женщин</category>
+			<category id="5445" parentId="5498">Для мужчин</category>
+			<category id="6858" parentId="5468">Товары для мужчин</category>
+			<category id="6861" parentId="6858">Гели для душа</category>
+			<category id="6862" parentId="6858">Дезодоранты</category>
+			<category id="6863" parentId="6858">Стайлинг для волос и бороды</category>
+			<category id="6868" parentId="6858">Товары для бритья</category>
+			<category id="6864" parentId="6868">Бритвенные станки</category>
+			<category id="6869" parentId="6868">Гели для бритья</category>
+			<category id="6870" parentId="6868">Кремы для бритья</category>
+			<category id="6871" parentId="6868">Пены для бритья</category>
+			<category id="6872" parentId="6868">Сменные кассеты</category>
+			<category id="6873" parentId="6868">Средства после бритья</category>
+			<category id="6865" parentId="6858">Уход за лицом</category>
+			<category id="6866" parentId="6858">Уход за телом</category>
+			<category id="6867" parentId="6858">Шампуни</category>
+			<category id="8429" parentId="5468">Уход за лицом</category>
+			<category id="8430" parentId="8429">Для жирной кожи</category>
+			<category id="8434" parentId="8430">Интенсивный уход для жирной кожи</category>
+			<category id="8431" parentId="8430">Очищение жирной кожи</category>
+			<category id="8432" parentId="8430">Тонизирование жирной кожи</category>
+			<category id="8433" parentId="8430">Увлажнение и питание жирной кожи</category>
+			<category id="8435" parentId="8429">Для зрелой кожи</category>
+			<category id="8459" parentId="8435">Интенсивный уход для зрелой кожи</category>
+			<category id="8436" parentId="8435">Очищение зрелой кожи</category>
+			<category id="8437" parentId="8435">Тонизирование зрелой кожи</category>
+			<category id="8438" parentId="8435">Увлажнение и питание зрелой кожи</category>
+			<category id="8439" parentId="8429">Для комбинированной кожи</category>
+			<category id="8443" parentId="8439">Интенсивный уход для комбинированной кожи</category>
+			<category id="8440" parentId="8439">Очищение комбинированной кожи</category>
+			<category id="8441" parentId="8439">Тонизирование комбинированной кожи</category>
+			<category id="8442" parentId="8439">Увлажнение и питание комбинированной кожи</category>
+			<category id="8444" parentId="8429">Для молодой кожи</category>
+			<category id="8448" parentId="8444">Интенсивный уход для молодой кожи</category>
+			<category id="8445" parentId="8444">Очищение молодой кожи</category>
+			<category id="8446" parentId="8444">Тонизирование молодой кожи</category>
+			<category id="8447" parentId="8444">Увлажнение и питание молодой кожи</category>
+			<category id="8449" parentId="8429">Для сухой кожи</category>
+			<category id="8453" parentId="8449">Интенсивный уход для сухой кожи</category>
+			<category id="8450" parentId="8449">Очищение сухой кожи</category>
+			<category id="8451" parentId="8449">Тонизирование сухой кожи</category>
+			<category id="8452" parentId="8449">Увлажнение и питание сухой кожи</category>
+			<category id="8454" parentId="8429">Для чувствительной кожи</category>
+			<category id="8458" parentId="8454">Интенсивный уход для чувствительной кожи</category>
+			<category id="8455" parentId="8454">Очищение чувствительной кожи</category>
+			<category id="8456" parentId="8454">Тонизирование чувствительной кожи</category>
+			<category id="8457" parentId="8454">Увлажнение и питание чувствительной кожи</category>
+			<category id="5659" parentId="8429">Приборы и аксессуары для ухода за лицом</category>
+			<category id="5661" parentId="5659">Массажеры</category>
+			<category id="5663" parentId="5659">Омоложение</category>
+			<category id="8460" parentId="8429">Сезонный уход</category>
+			<category id="8461" parentId="8460">Зимний уход</category>
+			<category id="8462" parentId="8460">УФ-защита</category>
+			<category id="8479" parentId="8429">Уход для век</category>
+			<category id="8721" parentId="8479">Для зрелой кожи век</category>
+			<category id="8722" parentId="8479">Кремы для век</category>
+			<category id="8723" parentId="8479">Маски для век</category>
+			<category id="8724" parentId="8479">От мешков под глазами</category>
+			<category id="8725" parentId="8479">От морщин вокруг глаз</category>
+			<category id="8726" parentId="8479">От темных кругов под глазами</category>
+			<category id="8727" parentId="8479">Патчи под глаза</category>
+			<category id="8728" parentId="8479">Средства для снятия макияжа с глаз</category>
+			<category id="8729" parentId="8479">Сыворотки для век</category>
+			<category id="8480" parentId="8429">Уход для губ</category>
+			<category id="8730" parentId="8480">Бальзамы для губ</category>
+			<category id="8820" parentId="8480">Защита от солнца для губ</category>
+			<category id="8731" parentId="8480">Кремы для губ</category>
+			<category id="8735" parentId="8480">Помады гигиенические</category>
+			<category id="8737" parentId="8480">Средства для снятия макияжа с губ</category>
+			<category id="8464" parentId="8429">Уходовая косметика</category>
+			<category id="8465" parentId="8464">BB и CC кремы</category>
+			<category id="8466" parentId="8464">SOS-средства</category>
+			<category id="8467" parentId="8464">Ампульная косметика</category>
+			<category id="8772" parentId="8464">Гели для лица</category>
+			<category id="8773" parentId="8464">Кремы для лица</category>
+			<category id="8469" parentId="8464">Лифтинговые средства</category>
+			<category id="8774" parentId="8464">Лосьоны для лица</category>
+			<category id="8470" parentId="8464">Маски для лица</category>
+			<category id="8775" parentId="8464">Масла для лица</category>
+			<category id="8807" parentId="8464">Мицеллярные растворы</category>
+			<category id="8875" parentId="8464">Наборы косметики</category>
+			<category id="8797" parentId="8464">Пенки для умывания</category>
+			<category id="8471" parentId="8464">Пилинг для лица</category>
+			<category id="8472" parentId="8464">Скрабы для лица</category>
+			<category id="8468" parentId="8464">Средства для бровей и ресниц</category>
+			<category id="8473" parentId="8464">Средства для снятия макияжа</category>
+			<category id="8474" parentId="8464">Сыворотки для лица</category>
+			<category id="8475" parentId="8464">Тонизирование</category>
+			<category id="8476" parentId="8464">Уход 24 часа</category>
+			<category id="8477" parentId="8464">Уход дневной</category>
+			<category id="8478" parentId="8464">Уход ночной</category>
+			<category id="8776" parentId="8464">Флюиды для лица</category>
+			<category id="8777" parentId="8464">Эмульсии для лица</category>
+			<category id="8481" parentId="5468">Уход за телом</category>
+			<category id="8482" parentId="8481">Антицеллюлитный уход</category>
+			<category id="8738" parentId="8482">Антицеллюлитные средства для душа и ванны</category>
+			<category id="8484" parentId="8482">Кремы и гели от целлюлита</category>
+			<category id="8485" parentId="8482">Маски и обертывания от целлюлита</category>
+			<category id="8626" parentId="8482">Масла от целлюлита</category>
+			<category id="8627" parentId="8482">Массажеры против целлюлита</category>
+			<category id="8631" parentId="8482">Массажные средства от целлюлита</category>
+			<category id="8630" parentId="8482">Скрабы против целлюлита</category>
+			<category id="8634" parentId="8482">Средства с разогревающим эффектом</category>
+			<category id="8635" parentId="8481">Косметика для ванной</category>
+			<category id="8636" parentId="8635">Гели для душа</category>
+			<category id="8637" parentId="8635">Мыло</category>
+			<category id="8638" parentId="8635">Пена для ванны</category>
+			<category id="8639" parentId="8635">Соль для ванны</category>
+			<category id="8640" parentId="8635">Экстракты и смеси для принятия ванн</category>
+			<category id="8641" parentId="8481">Средства для ног</category>
+			<category id="8642" parentId="8641">Для здоровья сосудов ног</category>
+			<category id="8643" parentId="8641">Защитные средства для ног</category>
+			<category id="8646" parentId="8641">От боли в суставах ног</category>
+			<category id="8647" parentId="8641">Питательные кремы для ног</category>
+			<category id="8648" parentId="8641">Против тяжести и усталости ног</category>
+			<category id="8649" parentId="8641">Увлажняющие средства для ног</category>
+			<category id="8650" parentId="8481">Средства для рук</category>
+			<category id="8651" parentId="8650">Кремы для рук</category>
+			<category id="8652" parentId="8650">Лосьоны и бальзамы для рук</category>
+			<category id="8653" parentId="8650">Маски для рук и перчатки</category>
+			<category id="8655" parentId="8650">Парафин для рук</category>
+			<category id="8657" parentId="8650">Средства для мытья рук</category>
+			<category id="8658" parentId="8650">Уход за кутикулой</category>
+			<category id="8659" parentId="8481">Средства для стоп и пяток</category>
+			<category id="8660" parentId="8659">Маски для стоп и носочки</category>
+			<category id="8667" parentId="8659">Профилактические противогрибковые средства</category>
+			<category id="8662" parentId="8659">Средства от мозолей и натоптышей</category>
+			<category id="8664" parentId="8659">Средства от потливости и запаха стоп</category>
+			<category id="8665" parentId="8659">Средства против пяточной шпоры</category>
+			<category id="8666" parentId="8659">Средства против трещин и сухости стоп</category>
+			<category id="8669" parentId="8481">Средства для тела</category>
+			<category id="8670" parentId="8669">Антивозрастной уход для тела</category>
+			<category id="8671" parentId="8669">Бальзамы и лосьоны для тела</category>
+			<category id="8681" parentId="8669">Заживляющие средства для кожи</category>
+			<category id="8675" parentId="8669">Кремы и гели для тела</category>
+			<category id="8676" parentId="8669">Маски и обертывания для тела</category>
+			<category id="8677" parentId="8669">Масла для тела</category>
+			<category id="8678" parentId="8669">Массажные средства для тела</category>
+			<category id="8679" parentId="8669">Молочко для тела</category>
+			<category id="8680" parentId="8669">Наборы для ухода за телом</category>
+			<category id="8685" parentId="8669">Скрабы и пилинги для тела</category>
+			<category id="8686" parentId="8669">Спреи для тела</category>
+			<category id="8672" parentId="8669">Средства для здоровья суставов</category>
+			<category id="8673" parentId="8669">Средства для коррекции фигуры</category>
+			<category id="8682" parentId="8669">Средства от косметических дефектов кожи</category>
+			<category id="8683" parentId="8669">Средства против мышечной боли</category>
+			<category id="8684" parentId="8669">Средства против растяжек</category>
+			<category id="8687" parentId="8669">Сыворотки для тела</category>
+			<category id="8674" parentId="8669">Уход для шеи и зоны декольте</category>
+			<category id="8688" parentId="8669">Уход за проблемной кожей тела</category>
+			<category id="6854">Гигиена</category>
+			<category id="5473" parentId="6854">Антибактериальные средства гигиены</category>
+			<category id="5374" parentId="5473">Антибактериальное мыло</category>
+			<category id="5375" parentId="5473">Антибактериальные гели</category>
+			<category id="5376" parentId="5473">Антибактериальные салфетки</category>
+			<category id="5377" parentId="5473">Антибактериальные спреи</category>
+			<category id="5378" parentId="5473">Антибактериальные средства</category>
+			<category id="5481" parentId="6854">Ватные и бумажные изделия</category>
+			<category id="5391" parentId="5481">Бумага туалетная</category>
+			<category id="5394" parentId="5481">Ватные диски</category>
+			<category id="5395" parentId="5481">Ватные палочки</category>
+			<category id="5959" parentId="5481">Покрытия для унитаза</category>
+			<category id="5505" parentId="5481">Салфетки бумажные, платочки</category>
+			<category id="5506" parentId="5481">Салфетки влажные</category>
+			<category id="8816" parentId="6854">Гигиена дома</category>
+			<category id="5516" parentId="8816">Средства для мытья посуды</category>
+			<category id="12743" parentId="6854">Гигиена носа</category>
+			<category id="12811" parentId="6854">Гигиена ушей</category>
+			<category id="5346" parentId="6854">Дезодоранты</category>
+			<category id="5680" parentId="5346">Дезодоранты женские</category>
+			<category id="5679" parentId="5346">Дезодоранты мужские</category>
+			<category id="5681" parentId="5346">Дезодоранты универсальные</category>
+			<category id="5490" parentId="6854">Средства женской гигиены</category>
+			<category id="5420" parentId="5490">Интимная гигиена</category>
+			<category id="8897" parentId="5490">Менструальные чаши и капы</category>
+			<category id="5463" parentId="5490">Прокладки гигиенические</category>
+			<category id="5464" parentId="5490">Прокладки ежедневные</category>
+			<category id="5527" parentId="5490">Тампоны</category>
+			<category id="5370" parentId="6854">Средства защиты от насекомых</category>
+			<category id="12863" parentId="6854">Средства от педикулеза</category>
+			<category id="5559" parentId="6854">Урологические прокладки</category>
+			<category id="9089" parentId="6854">Уход за одеждой и обувью</category>
+			<category id="9091" parentId="9089">Уход за одеждой</category>
+			<category id="5489" parentId="6854">Уход за полостью рта</category>
+			<category id="10603" parentId="5489">Жидкость для ирригаторов</category>
+			<category id="5693" parentId="5489">Зубные ершики</category>
+			<category id="5692" parentId="5489">Зубные нити</category>
+			<category id="5416" parentId="5489">Зубные пасты</category>
+			<category id="7636" parentId="5489">Зубные порошки</category>
+			<category id="5417" parentId="5489">Зубные щетки</category>
+			<category id="5555" parentId="5489">Ирригаторы</category>
+			<category id="6777" parentId="5489">Наборы для ухода за зубами</category>
+			<category id="5697" parentId="5489">Ополаскиватели полости рта</category>
+			<category id="5698" parentId="5489">Освежители полости рта</category>
+			<category id="5524" parentId="5489">Стоматологические средства</category>
+			<category id="5537" parentId="5489">Уход за протезами</category>
+			<category id="8185">Зоотовары</category>
+			<category id="8186" parentId="8185">Ветаптека</category>
+			<category id="8307" parentId="8186">Антиоксиданты и кардиопротекторы</category>
+			<category id="8308" parentId="8186">Вакцины</category>
+			<category id="8309" parentId="8186">Витамины и пищевые добавки</category>
+			<category id="8333" parentId="8309">Витаминные комплексы</category>
+			<category id="8336" parentId="8309">Для здоровья суставов</category>
+			<category id="8337" parentId="8309">Для зубов и костей</category>
+			<category id="8339" parentId="8309">Для нормализации обмена веществ</category>
+			<category id="8344" parentId="8309">Пробиотики и пребиотики</category>
+			<category id="8345" parentId="8309">Против анемии</category>
+			<category id="8310" parentId="8186">Гомеопатические средства</category>
+			<category id="8311" parentId="8186">Гормональные препараты</category>
+			<category id="8313" parentId="8186">Дерматологические средства</category>
+			<category id="8314" parentId="8186">Иммуностимуляторы</category>
+			<category id="8315" parentId="8186">Капли и лосьоны глазные</category>
+			<category id="8316" parentId="8186">Капли и лосьоны ушные</category>
+			<category id="8318" parentId="8186">Лечение заболеваний мочеполовой системы</category>
+			<category id="8319" parentId="8186">Лечение заболеваний опорно-двигательного аппарата</category>
+			<category id="8320" parentId="8186">Лечение заболеваний печени</category>
+			<category id="8321" parentId="8186">Лечение заболеваний сердечно-сосудистой системы</category>
+			<category id="8322" parentId="8186">Лечение и профилактика заболеваний ЖКТ</category>
+			<category id="8324" parentId="8186">Противовоспалительные препараты</category>
+			<category id="8325" parentId="8186">Противогрибковые препараты</category>
+			<category id="8326" parentId="8186">Противомикробные препараты</category>
+			<category id="8327" parentId="8186">Противоопухолевые препараты</category>
+			<category id="8328" parentId="8186">Противопаразитарные средства</category>
+			<category id="8347" parentId="8328">Для обработки помещений</category>
+			<category id="8349" parentId="8328">Ошейники против паразитов</category>
+			<category id="8350" parentId="8328">Против гельминтов</category>
+			<category id="8353" parentId="8328">Против эктопаразитов</category>
+			<category id="8329" parentId="8186">Противорвотные средства</category>
+			<category id="8330" parentId="8186">Растворы и электролиты</category>
+			<category id="8331" parentId="8186">Сыворотки и иммуноглобулины</category>
+			<category id="8332" parentId="8186">Успокоительные и снотворные средства</category>
+			<category id="8187" parentId="8185">Контроль поведения</category>
+			<category id="8197" parentId="8187">Антигрызин</category>
+			<category id="8200" parentId="8187">Средства для приучения к месту</category>
+			<category id="8201" parentId="8187">Успокоительные средства</category>
+			<category id="8190" parentId="8185">Косметика и уход</category>
+			<category id="8211" parentId="8190">Гигиена полости рта</category>
+			<category id="8210" parentId="8190">Салфетки и полотенца</category>
+			<category id="8216" parentId="8190">Уход за лапами и когтями</category>
+			<category id="8217" parentId="8190">Уход за лошадьми</category>
+			<category id="8218" parentId="8190">Шампуни</category>
+			<category id="8192" parentId="8185">Медицинские товары</category>
+			<category id="8224" parentId="8192">Бинты</category>
+			<category id="8225" parentId="8192">Воротники защитные</category>
+			<category id="8293" parentId="8192">Попоны послеоперационные</category>
+			<category id="8193" parentId="8185">Пеленки и подгузники</category>
+			<category id="8301" parentId="8193">Подгузники</category>
+			<category id="5638">Линзы</category>
+			<category id="5640" parentId="5638">Двухнедельные линзы</category>
+			<category id="5642" parentId="5638">Квартальные линзы</category>
+			<category id="5641" parentId="5638">Линзы на месяц</category>
+			<category id="5639" parentId="5638">Однодневные линзы</category>
+			<category id="5643" parentId="5638">Средства по уходу за линзами</category>
+			<category id="5675" parentId="5638">Увлажняющие капли</category>
+			<category id="5652" parentId="5638">Цветные линзы</category>
+			<category id="5469">Мать и дитя</category>
+			<category id="5499" parentId="5469">Бытовая химия</category>
+			<category id="5517" parentId="5499">Средства для мытья посуды</category>
+			<category id="5486" parentId="5469">Все для кормления ребенка</category>
+			<category id="5405" parentId="5486">Детские бутылочки</category>
+			<category id="5410" parentId="5486">Детские поильники</category>
+			<category id="5439" parentId="5486">Молокоотсосы</category>
+			<category id="5460" parentId="5486">Посуда для кормления</category>
+			<category id="5511" parentId="5486">Соски, пустышки</category>
+			<category id="5482" parentId="5469">Все для купания ребенка</category>
+			<category id="6052" parentId="5482">Гели и пена для купания</category>
+			<category id="6051" parentId="5482">Интимная гигиена</category>
+			<category id="6007" parentId="5482">Мыло детское</category>
+			<category id="5515" parentId="5482">Средства для купания</category>
+			<category id="6006" parentId="5482">Шампуни детские</category>
+			<category id="5543" parentId="5482">Экстракты для ванны</category>
+			<category id="5474" parentId="5469">Гигиена малыша</category>
+			<category id="5379" parentId="5474">Аптечки</category>
+			<category id="5380" parentId="5474">Аспираторы</category>
+			<category id="7002" parentId="5474">Бумажные платочки</category>
+			<category id="5398" parentId="5474">Влажные салфетки для детей</category>
+			<category id="5814" parentId="5474">Впитывающие пеленки</category>
+			<category id="5393" parentId="5474">Детские ватные изделия</category>
+			<category id="5406" parentId="5474">Детские зубные пасты</category>
+			<category id="5407" parentId="5474">Детские зубные щетки</category>
+			<category id="5408" parentId="5474">Детские маникюрные принадлежности, расчески</category>
+			<category id="5411" parentId="5474">Детский крем</category>
+			<category id="5414" parentId="5474">Защита от насекомых</category>
+			<category id="5422" parentId="5474">Клеенки</category>
+			<category id="6010" parentId="5474">Масла для младенцев</category>
+			<category id="5440" parentId="5474">Молочко, лосьоны, бальзамы для детей</category>
+			<category id="6008" parentId="5474">Помады гигиенические</category>
+			<category id="5462" parentId="5474">Присыпки</category>
+			<category id="5466" parentId="5474">Прорезывание зубов</category>
+			<category id="5510" parentId="5474">Солнцезащитные средства</category>
+			<category id="7644" parentId="5474">Средство от ожогов</category>
+			<category id="5475" parentId="5469">Детская бытовая техника</category>
+			<category id="5529" parentId="5475">Термометры</category>
+			<category id="5483" parentId="5469">Детское питание</category>
+			<category id="5507" parentId="5483">Смеси</category>
+			<category id="5538" parentId="5483">Чаи</category>
+			<category id="5948" parentId="5469">Игрушки</category>
+			<category id="8143" parentId="5948">Прорезыватели</category>
+			<category id="5478" parentId="5469">Кормящим и беременным</category>
+			<category id="6046" parentId="5478">Аксессуары</category>
+			<category id="5390" parentId="5478">Белье для беременных</category>
+			<category id="5397" parentId="5478">Вкладыши для бюстгальтеров</category>
+			<category id="6009" parentId="5478">Косметика для мам</category>
+			<category id="5455" parentId="5478">Питание для мам</category>
+			<category id="5465" parentId="5478">Прокладки послеродовые</category>
+			<category id="5519" parentId="5478">Средства от растяжек для беременных</category>
+			<category id="5457" parentId="5469">Подгузники</category>
+			<category id="5471">Медицинские изделия</category>
+			<category id="5628" parentId="5471">Грелки</category>
+			<category id="5629" parentId="5628">Грелки</category>
+			<category id="8895" parentId="5628">Электрические грелки</category>
+			<category id="5341" parentId="5471">Диагностические тесты</category>
+			<category id="11535" parentId="5341">ДНК-тесты</category>
+			<category id="10602" parentId="5341">Тесты на COVID-19</category>
+			<category id="5531" parentId="5341">Тесты на беременность и овуляцию</category>
+			<category id="5532" parentId="5341">Тесты на определение наркотических веществ и алкоголя</category>
+			<category id="5588" parentId="5341">Тесты прочие</category>
+			<category id="12742" parentId="5471">Замещение синовиальной жидкости</category>
+			<category id="5472" parentId="5471">Здоровое питание</category>
+			<category id="5356" parentId="5472">Напитки</category>
+			<category id="8832" parentId="5472">Питание для больных диабетом</category>
+			<category id="5348" parentId="8832">Заменители сахара</category>
+			<category id="5358" parentId="8832">Клетчатка и отруби</category>
+			<category id="8833" parentId="8832">Конфеты и десерты</category>
+			<category id="8834" parentId="8832">Сиропы и напитки</category>
+			<category id="5360" parentId="5472">Питание для похудения</category>
+			<category id="8835" parentId="5472">Продукты для здорового питания</category>
+			<category id="5342" parentId="8835">Батончики, десерты</category>
+			<category id="5347" parentId="8835">Жевательная резинка</category>
+			<category id="9685" parentId="8835">Коктейли</category>
+			<category id="5353" parentId="8835">Леденцы, карамель, мармелад</category>
+			<category id="8865" parentId="8835">Отруби</category>
+			<category id="9726" parentId="8835">Прочие продукты</category>
+			<category id="8408" parentId="8835">Супы</category>
+			<category id="6711" parentId="5471">Кислородные баллоны</category>
+			<category id="5592" parentId="5471">Компрессионное и корректирующее белье</category>
+			<category id="5352" parentId="5592">Гольфы, чулки</category>
+			<category id="5595" parentId="5592">Колготки</category>
+			<category id="5946" parentId="5471">Медицинские изделия и расходные материалы</category>
+			<category id="8841" parentId="5946">Аптечки</category>
+			<category id="5949" parentId="8841">Аптечки</category>
+			<category id="5739" parentId="8841">Беруши</category>
+			<category id="5745" parentId="8841">Таблетницы</category>
+			<category id="8838" parentId="5946">Гинекологические и урологические</category>
+			<category id="12740" parentId="8838">Вагинальные средства</category>
+			<category id="12739" parentId="8838">Внутриматочные контрацептивы (ВМС)</category>
+			<category id="6979" parentId="8838">Маточные кольца и пессарии</category>
+			<category id="8839" parentId="8838">Набор гинекологический</category>
+			<category id="12741" parentId="8838">Средства для мочевого пузыря</category>
+			<category id="5955" parentId="8838">Урологические катетеры</category>
+			<category id="5740" parentId="5946">Контейнеры для биоматериала</category>
+			<category id="8837" parentId="5946">Материалы для инъекционных процедур</category>
+			<category id="5547" parentId="8837">Жгуты</category>
+			<category id="5349" parentId="8837">Иглы</category>
+			<category id="5622" parentId="8837">Инфузионные системы</category>
+			<category id="5504" parentId="8837">Салфетки спиртовые</category>
+			<category id="5373" parentId="8837">Шприцы</category>
+			<category id="5748" parentId="5946">Материалы для УЗИ и ЭКГ</category>
+			<category id="8836" parentId="5946">Медицинская одежда</category>
+			<category id="5565" parentId="8836">Бахилы</category>
+			<category id="9728" parentId="8836">Маски защитные</category>
+			<category id="5747" parentId="8836">Маски медицинские</category>
+			<category id="9727" parentId="8836">Респираторы</category>
+			<category id="8866" parentId="8836">Шапочки</category>
+			<category id="8840" parentId="5946">Медицинские инструменты</category>
+			<category id="5742" parentId="8840">Пипетки</category>
+			<category id="8872" parentId="8840">Часы песочные</category>
+			<category id="8842" parentId="5946">Моче- и калоприемники, спринцовки</category>
+			<category id="5561" parentId="8842">Калоприемники</category>
+			<category id="5744" parentId="8842">Кружки Эсмарха</category>
+			<category id="5562" parentId="8842">Мочеприемники</category>
+			<category id="5743" parentId="8842">Спринцовки</category>
+			<category id="5746" parentId="5946">Пакеты охлаждающие и согревающие</category>
+			<category id="5340" parentId="5946">Перевязочные материалы</category>
+			<category id="5548" parentId="5340">Бинты и марля</category>
+			<category id="5546" parentId="5340">Вата</category>
+			<category id="5545" parentId="5340">Гемостатические губки</category>
+			<category id="5549" parentId="5340">Повязки для ран</category>
+			<category id="8867" parentId="5340">Салфетки</category>
+			<category id="5619" parentId="5946">Перчатки и напальчники</category>
+			<category id="5741" parentId="5619">Напальчники</category>
+			<category id="5620" parentId="5619">Перчатки нестерильные</category>
+			<category id="5359" parentId="5619">Перчатки стерильные</category>
+			<category id="5750" parentId="5946">Средства для дезинфекции</category>
+			<category id="5470" parentId="5471">Ортопедия</category>
+			<category id="5477" parentId="5470">Бандажи</category>
+			<category id="5382" parentId="5477">Бандажи послеоперационные</category>
+			<category id="5383" parentId="5477">Бандажи согревающие</category>
+			<category id="5720" parentId="5477">Плечевые бандажи</category>
+			<category id="5343" parentId="5470">Бинты эластичные</category>
+			<category id="5425" parentId="5470">Корригирующие приспособления</category>
+			<category id="5357" parentId="5470">Ортопедические подушки</category>
+			<category id="5362" parentId="5470">Пояса согревающие</category>
+			<category id="5494" parentId="5470">Средства реабилитации</category>
+			<category id="5427" parentId="5494">Костыли</category>
+			<category id="5718" parentId="5494">Кресла-коляски и кресла-туалеты</category>
+			<category id="5533" parentId="5494">Трости</category>
+			<category id="5580" parentId="5470">Товары спортивной медицины</category>
+			<category id="12735" parentId="5471">Оториноларингология</category>
+			<category id="12736" parentId="12735">Назальные средства</category>
+			<category id="12737" parentId="12735">Средства для горла и полости рта</category>
+			<category id="12738" parentId="12735">Средства для ушей</category>
+			<category id="12745" parentId="5471">Офтальмологические средства</category>
+			<category id="5938" parentId="5471">Пластыри</category>
+			<category id="5361" parentId="5938">Бактерицидные пластыри</category>
+			<category id="5757" parentId="5938">Детские пластыри</category>
+			<category id="5756" parentId="5938">Мозольные пластыри</category>
+			<category id="5754" parentId="5938">Наборы пластырей</category>
+			<category id="5755" parentId="5938">Перцовые пластыри</category>
+			<category id="5759" parentId="5938">Специализированные пластыри</category>
+			<category id="5753" parentId="5938">Фиксирующие пластыри-катушки</category>
+			<category id="5758" parentId="5938">Хирургические пластыри</category>
+			<category id="5630" parentId="5471">Презервативы и смазка</category>
+			<category id="5363" parentId="5630">Презервативы</category>
+			<category id="5631" parentId="5630">Смазка</category>
+			<category id="12748" parentId="5471">Средства для кожи</category>
+			<category id="12749" parentId="12748">Антисептики для кожи</category>
+			<category id="12796" parentId="12748">Противогрибковые средства</category>
+			<category id="12751" parentId="12748">Регенерация тканей</category>
+			<category id="12795" parentId="12748">Средства от рубцов</category>
+			<category id="5495" parentId="5471">Средства ухода за лежачими больными</category>
+			<category id="5729" parentId="5495">Матрасы и противопролежневые системы</category>
+			<category id="5563" parentId="5495">Пеленки, простыни, клеенки</category>
+			<category id="5557" parentId="5495">Подгузники для взрослых</category>
+			<category id="5564" parentId="5495">Судна, утки</category>
+			<category id="5560" parentId="5495">Уход за кожей лежачих больных</category>
+			<category id="12813" parentId="5471">Урологические прокладки</category>
+			<category id="8827">Медтехника</category>
+			<category id="5589" parentId="8827">Глюкометры, ланцеты, тест-полоски</category>
+			<category id="5344" parentId="5589">Глюкометры</category>
+			<category id="5590" parentId="5589">Ланцеты</category>
+			<category id="5591" parentId="5589">Тест-полоски</category>
+			<category id="5345" parentId="8827">Датчики и мониторы активности</category>
+			<category id="8828" parentId="8827">Ингаляторы</category>
+			<category id="5351" parentId="8828">Ингаляторы и небулайзеры</category>
+			<category id="5952" parentId="8827">Массажеры</category>
+			<category id="8118" parentId="5952">Аппараты магнитотерапии</category>
+			<category id="5737" parentId="5952">Аппликаторы</category>
+			<category id="5736" parentId="5952">Вакуумные массажеры</category>
+			<category id="5735" parentId="5952">Медицинские мячи</category>
+			<category id="5354" parentId="5952">Электрические массажеры</category>
+			<category id="6018" parentId="8827">Термометры</category>
+			<category id="5623" parentId="8827">Тонометры и стетоскопы</category>
+			<category id="5626" parentId="5623">Запасные части для тонометров</category>
+			<category id="5627" parentId="5623">Стетоскопы</category>
+			<category id="5625" parentId="5623">Тонометры автоматические</category>
+			<category id="5372" parentId="5623">Тонометры механические</category>
+			<category id="5624" parentId="5623">Тонометры полуавтоматические</category>
+			<category id="5733" parentId="8827">УФ и ИК облучатели</category>
+			<category id="8829" parentId="8827">Уход за полостью рта</category>
+			<category id="8831" parentId="8829">Ирригаторы</category>
+			<category id="10604" parentId="8829">Насадки для электрических зубных щеток</category>
+			<category id="8830" parentId="8829">Электрические зубные щетки</category>
+		</categories>
+		<offers>
+			<offer available="true" id="100225" type="medicine">
+				<pharma_reg_number>П N012507/01</pharma_reg_number>
+				<barcode>300093331020</barcode>
+				<param name="BrandName">Далацин</param>
+				<sales_notes>Скидка 113 руб. в мобильном приложении</sales_notes>
+				<url>https://www.eapteka.ru/spb/goods/id100225/?utm_campaign=3967&amp;utm_content=3958&amp;utm_term=100225&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
+				<price>1135</price>
+				<cpa>0</cpa>
+				<pickup>true</pickup>
+				<currencyId>RUB</currencyId>
+				<categoryId>3967</categoryId>
+				<picture>https://www.eapteka.ru/upload/offer_photo/100/225/1_2cf50d7f408dea5babd8718bf1b4e90b.png?t=1641947466</picture>
+				<name>Далацин гель для наружного применения 1 % 30 г 1 шт</name>
+				<vendor>Фармация и Апджон Кампани ЭлЭлСи</vendor>
+				<country_of_origin>США</country_of_origin>
+				<delivery>true</delivery>
+				<description>
+					<![CDATA[ <p>При системном применении клиндамицина возможно развитие тяжелой диареи и в ряде случаев псевдомембранозного колита. <br></p><p>В связи с этим при возникновении на фоне терапии Далацином выраженной или длительной диареи необходимо отменить препарат, провести диагностические процедуры и при необходимости назначить соответствующее лечение.&nbsp;</p><br>]]>
+				</description>
+				<param name="mobile_id">461373</param>
+				<param name="drug_type">ОТС</param>
+			</offer>
+			<offer available="true" id="101412" type="medicine">
+				<pharma_reg_number>ЛП-006933d3333</pharma_reg_number>
+				<barcode>4606257000228</barcode>
+				<param name="BrandName">Полисорб</param>
+				<url>https://www.eapteka.ru/spb/goods/id101412/?utm_campaign=3975&amp;utm_content=3817&amp;utm_term=101412&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
+				<price>248</price>
+				<oldprice>274</oldprice>
+				<cpa>0</cpa>
+				<pickup>true</pickup>
+				<currencyId>RUB</currencyId>
+				<categoryId>3975</categoryId>
+				<picture>https://www.eapteka.ru/upload/offer_photo/101/412/1.jpeg?t=1552661289</picture>
+				<name>Полисорб МП порошок д/приг суспензии для приема внутрь 12 г 1 шт</name>
+				<vendor>Полисорб АО</vendor>
+				<country_of_origin>Россия</country_of_origin>
+				<delivery>true</delivery>
+				<description>
+					<![CDATA[ Полисорб&nbsp; - мощный сорбент нового поколения, основное действующее вещество которого диоксид кремния коллоидный.&nbsp; Препарат эффективен при лечении диареи, отравлений, аллергии, токсикоза, похмельного синдрома и при комплексном очищении организма.<br>Преимущества:<br><ul><li>Благодаря обволакивающим свойствам борется с патогенами любых размеров: крупными аллергенами, средними&nbsp; бактериями и мелкими токсинами;</li><li>Облегчает самочувствие уже через 1-4 минуты после приема;</li><li>Сохраняет лечебное действие после перепада температур: не портится в жару, не “боится” мороза&nbsp; багажного отделения самолета (преимущество порошка перед влажными средствами);</li><li>Не содержит добавок: консервантов, красителей, ароматизаторов и подсластителей. Это повышает не только лечебный эффект, но и устраняет риск развития аллергической реакции на примеси;</li><li>Назначается детям с рождения, беременным и кормящим женщинам, пожилым и взрослым людям;</li><li>Допустимо разведение препарата не только в воде, но и в соке, компоте, морсе и грудном молоке.</li><li>Имеет высокий профиль безопасности - более 200 клинических исследований и более 20 лет применения.</li></ul><p>При длительном приеме препарата Полисорб МП (более 14 дней) возможно нарушение всасывания витаминов и кальция, в связи с чем рекомендуется профилактический прием поливитаминных препаратов и препаратов, содержащих кальций.</p><p>Наружно порошок Полисорба МП можно использовать с целью остановки кровотечения из небольших ран, а также при комплексном лечении гнойных ран, трофических язв и ожогов.</p>]]>
+				</description>
+				<param name="mobile_id">461392</param>
+				<param name="drug_type">ОТС</param>
+			</offer>
+			<offer available="true" id="101416" type="medicine">
+				<pharma_reg_number>ЛП-№(002128)-(РГ-RU)</pharma_reg_number>
+				<barcode>4606257000235</barcode>
+				<param name="BrandName">Полисорб</param>
+				<url>https://www.eapteka.ru/spb/goods/id101416/?utm_campaign=3975&amp;utm_content=3817&amp;utm_term=101416&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
+				<price>538</price>
+				<oldprice>596</oldprice>
+				<cpa>0</cpa>
+				<pickup>true</pickup>
+				<currencyId>RUB</currencyId>
+				<categoryId>3975</categoryId>
+				<picture>https://www.eapteka.ru/upload/offer_photo/101/416/1.jpeg?t=1552661592</picture>
+				<name>Полисорб МП порошок д/приг суспензии для приема внутрь 50 г 1 шт</name>
+				<vendor>Полисорб АО</vendor>
+				<country_of_origin>Россия</country_of_origin>
+				<delivery>true</delivery>
+				<description>
+					<![CDATA[ Полисорб&nbsp; - мощный сорбент нового поколения, основное действующее вещество которого диоксид кремния коллоидный.&nbsp; Препарат эффективен при лечении диареи, отравлений, аллергии, токсикоза, похмельного синдрома и при комплексном очищении организма.<br>Преимущества:<br><ul><li>Благодаря обволакивающим свойствам борется с патогенами любых размеров: крупными аллергенами, средними&nbsp; бактериями и мелкими токсинами;</li><li>Облегчает самочувствие уже через 1-4 минуты после приема;</li><li>Сохраняет лечебное действие после перепада температур: не портится в жару, не “боится” мороза&nbsp; багажного отделения самолета (преимущество порошка перед влажными средствами);</li><li>Не содержит добавок: консервантов, красителей, ароматизаторов и подсластителей. Это повышает не только лечебный эффект, но и устраняет риск развития аллергической реакции на примеси;</li><li>Назначается детям с рождения, беременным и кормящим женщинам, пожилым и взрослым людям;</li><li>Допустимо разведение препарата не только в воде, но и в соке, компоте, морсе и грудном молоке.</li><li>Имеет высокий профиль безопасности - более 200 клинических исследований и более 20 лет применения.</li></ul><p>При длительном приеме препарата Полисорб МП (более 14 дней) возможно нарушение всасывания витаминов и кальция, в связи с чем рекомендуется профилактический прием поливитаминных препаратов и препаратов, содержащих кальций.</p><p>Наружно порошок Полисорба МП можно использовать с целью остановки кровотечения из небольших ран, а также при комплексном лечении гнойных ран, трофических язв и ожогов.</p>]]>
+				</description>
+				<param name="mobile_id">461393</param>
+				<param name="drug_type">ОТС</param>
+			</offer>
+				<offer available="true" id="101416" type="medicine">
+				<pharma_reg_number>ЛП-№(002128)-(РГ-RU)</pharma_reg_number>
+				<barcode>4606257000235</barcode>
+				<param name="BrandName">Полисорб</param>
+				<url>https://www.eapteka.ru/spb/goods/id101416/?utm_campaign=3975&amp;utm_content=3817&amp;utm_term=101416&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
+				<price>538</price>
+				<oldprice>596</oldprice>
+				<cpa>0</cpa>
+				<pickup>true</pickup>
+				<currencyId>RUB</currencyId>
+				<categoryId>3975</categoryId>
+				<picture>https://www.eapteka.ru/upload/offer_photo/101/416/1.jpeg?t=1552661592</picture>
+				<name>Полисорб МП порошок д/приг суспензии для приема внутрь 50 г 1 шт</name>
+				<vendor>Полисорб АО</vendor>
+				<country_of_origin>Россия</country_of_origin>
+				<delivery>true</delivery>
+				<description>
+					<![CDATA[ Полисорб&nbsp; - мощный сорбент нового поколения, основное действующее вещество которого диоксид кремния коллоидный.&nbsp; Препарат эффективен при лечении диареи, отравлений, аллергии, токсикоза, похмельного синдрома и при комплексном очищении организма.<br>Преимущества:<br><ul><li>Благодаря обволакивающим свойствам борется с патогенами любых размеров: крупными аллергенами, средними&nbsp; бактериями и мелкими токсинами;</li><li>Облегчает самочувствие уже через 1-4 минуты после приема;</li><li>Сохраняет лечебное действие после перепада температур: не портится в жару, не “боится” мороза&nbsp; багажного отделения самолета (преимущество порошка перед влажными средствами);</li><li>Не содержит добавок: консервантов, красителей, ароматизаторов и подсластителей. Это повышает не только лечебный эффект, но и устраняет риск развития аллергической реакции на примеси;</li><li>Назначается детям с рождения, беременным и кормящим женщинам, пожилым и взрослым людям;</li><li>Допустимо разведение препарата не только в воде, но и в соке, компоте, морсе и грудном молоке.</li><li>Имеет высокий профиль безопасности - более 200 клинических исследований и более 20 лет применения.</li></ul><p>При длительном приеме препарата Полисорб МП (более 14 дней) возможно нарушение всасывания витаминов и кальция, в связи с чем рекомендуется профилактический прием поливитаминных препаратов и препаратов, содержащих кальций.</p><p>Наружно порошок Полисорба МП можно использовать с целью остановки кровотечения из небольших ран, а также при комплексном лечении гнойных ран, трофических язв и ожогов.</p>]]>
+				</description>
+				<param name="mobile_id">461393</param>
+				<param name="drug_type">ОТС</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

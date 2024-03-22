@@ -1695,6 +1695,24 @@
                 </description>
                 <barcode>4602193010109</barcode>
             </offer>
+            <offer available="true" id="48066" type="medicine">
+                 <pharma_reg_number>ЛП-№(002128)-(РГ-RU)</pharma_reg_number>
+                <name>Алгелдрат+Бензокаин+Магния гидроксид</name>
+                <url>https://stolichki.ru/drugs/9-mesyacev-folievaya-k-ta-tab-400mkg-90</url>
+                <price>382</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>19399</categoryId>
+                <picture>https://f.stolichki.ru/s/drugs/medium/48/48066.jpg</picture>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <pickup-options>
+                    <option cost="0" days="1"/>
+                </pickup-options>
+                <description>
+                    <![CDATA[ Лекарственная форма таблетки круглой двояковыпуклой формы, покрытые оболочкой желтого цвета. На изломе светло-желтого цвета с вкраплениями. Состав 1 таблетка содержит активное вещество: фолиевой кислоты – 0,0004 г, вспомогательные вещества лактозы моног... ]]>
+                </description>
+                <barcode>4602193010109</barcode>
+            </offer>
         </offers>
     </shop>
 </yml_catalog>

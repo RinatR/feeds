@@ -1,0 +1,24 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Вилл</title>
+<link>https://vill.ru</link>
+<description>«Вилл» — сеть магазинов продуктов.</description>
+<item>
+<g:title>Сметана 25%, 350 г</g:title>
+<g:link>https://vill.ru/goods/smetana-25-350-g-52.html</g:link>
+<g:image_link>https://img.vill.ru/pim/images/site_for_feed/c68308ef-2969-4fce-8488-558c4400a353.jpg?1706056095.0147</g:image_link>
+<g:mobile_ios_app_link>vill://goods/52</g:mobile_ios_app_link>
+<g:mobile_ios_app_store_id>100500</g:mobile_ios_app_store_id>
+<g:mobile_android_app_link>vill://goods/52</g:mobile_android_app_link>
+<g:android_app_link>ru.vill</g:android_app_link>
+<android_tracking_url>https://app.appsflyer.com/ru.vill?af_c_id={{campaign_id}}&af_adset_id={{banner_id}}&pid=mail.ru_int&c={{campaign_name}}&is_retargeting=true&af_dp=vill%3A%2F%2Fgoods%2F52</android_tracking_url>
+<ios_tracking_url>https://app.appsflyer.com/id100500?af_c_id={{campaign_id}}&af_adset_id={{banner_id}}&pid=mail.ru_int&c={{campaign_name}}&is_retargeting=true&af_dp=vill%3A%2F%2Fgoods%2F52</ios_tracking_url>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:id>52</g:id>
+<g:product_type>Молочные продукты</g:product_type>
+<g:price>151 RUB</g:price>
+<g:brand>Вилл</g:brand>
+</item>
+</channel>
+</rss>

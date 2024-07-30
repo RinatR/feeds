@@ -11,8 +11,8 @@
 <g:mobile_ios_app_store_id>100500</g:mobile_ios_app_store_id>
 <g:mobile_android_app_link>vill://goods/52</g:mobile_android_app_link>
 <g:android_app_link>ru.vill</g:android_app_link>
-<android_tracking_url>https://app.appsflyer.com/ru.vill?af_c_id={{campaign_id}}&af_adset_id={{banner_id}}&pid=mail.ru_int&c={{campaign_name}}&is_retargeting=true&af_dp=vill%3A%2F%2Fgoods%2F52</android_tracking_url>
-<ios_tracking_url>https://app.appsflyer.com/id100500?af_c_id={{campaign_id}}&af_adset_id={{banner_id}}&pid=mail.ru_int&c={{campaign_name}}&is_retargeting=true&af_dp=vill%3A%2F%2Fgoods%2F52</ios_tracking_url>
+<android_tracking_url>https://app.appsflyer.com/ru.vill?af_dp=vill%3A%2F%2Fgoods%2F52</android_tracking_url>
+<ios_tracking_url>https://app.appsflyer.com/id100500?af_dp=vill%3A%2F%2Fgoods%2F52</ios_tracking_url>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:id>52</g:id>
